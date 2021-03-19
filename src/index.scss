@@ -1,0 +1,24 @@
+html {
+  font-size: 14px;
+  font-size: clamp(9px, 2.7vw, 22px);
+  line-height: 1.15;
+}
+
+body {
+  margin: 0;
+}
+
+button {
+  background-color: #111e;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font: inherit;
+  height: 2em;
+  margin: 1em 0.5em;
+  padding: 0.25em 1em 0.25em;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+}
