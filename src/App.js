@@ -1,4 +1,4 @@
-import React, { Fragment, useState } from "react";
+import React, { Fragment, useEffect, useState } from "react";
 import "./App.scss";
 
 import * as metadata from "./metadata.json";
@@ -18,18 +18,34 @@ const Info = ({ next, tags, source }) => {
   );
 };
 
-const Submit = ({ answer }) => {
+const isGood = (guess, answers) => {
+  const normalize = (str) =>
+    str
+      .toUpperCase()
+      .normalize("NFD")
+      .replace(/[^A-Z]/g, "");
+  return answers.map(normalize).includes(normalize(guess));
+};
+
+const Submit = ({ idx, answer }) => {
   const [guess, setGuess] = useState("");
   const [response, setResponse] = useState("");
 
+  useEffect(() => {
+    setGuess("");
+    setResponse("");
+  }, [idx]);
+
+  const submit = (e) => {
+    e.preventDefault();
+    setResponse(
+      isGood(guess, answer) ? `${guess} is correct!` : `${guess} is incorrect.`
+    );
+  };
+
   return (
     <div className="submit">
-      <form
-        onSubmit={(e) => {
-          e.preventDefault();
-          console.log(guess);
-        }}
-      >
+      <form onSubmit={submit}>
         <input
           type="text"
           value={guess}
@@ -82,7 +98,7 @@ const App = () => {
     <div className="app">
       <div className="header">
         <Info next={next} {...meta} />
-        <Submit {...meta} />
+        <Submit idx={idx} {...meta} />
       </div>
       <Body {...meta} />
     </div>
