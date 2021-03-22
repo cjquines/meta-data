@@ -56,12 +56,20 @@ const Body = ({ flavor, feeders, note }) => {
 };
 
 const App = () => {
-  return (
+  const [idx, setIdx] = useState(0);
+  const [data, setData] = useState(metadata.default[0]);
+
+  const next = () => {
+    setData(metadata.default[idx + 1]);
+    setIdx(idx + 1);
+  };
+
+  return data ? (
     <div className="app">
-      <Header next={() => {}} {...metadata[0]} />
-      <Body {...metadata[0]} />
+      <Header next={next} {...data} />
+      <Body {...data} />
     </div>
-  );
+  ) : null;
 };
 
 export default App;
