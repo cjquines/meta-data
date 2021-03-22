@@ -1,18 +1,23 @@
-import React, { Fragment, useEffect, useState } from "react";
+import React, { Fragment, useEffect, useRef, useState } from "react";
 import "./App.scss";
 
 import * as metadata from "./metadata.json";
 
 const Info = ({ next, tags, source }) => {
   return (
-    <div className="source">
-      <p>
-        Source:{" "}
-        <a href={source.link}>
-          {source.hunt} {source.year}
-        </a>
-      </p>
-      <p>Tags: {tags.join(", ")}</p>
+    <div className="info">
+      <div className="source">
+        {source && (
+          <Fragment>
+            Source:{" "}
+            <a href={source.link}>
+              {source.hunt} {source.year}
+            </a>
+            <br />
+          </Fragment>
+        )}
+        Tags: {tags.join(", ")}
+      </div>
       <button onClick={(e) => next()}>New meta</button>
     </div>
   );
@@ -83,15 +88,19 @@ const shuffle = (arr) => {
 };
 
 const App = () => {
-  const metas = metadata.default;
-  shuffle(metas);
+  const metas = useRef(null);
+  if (!metas.current) {
+    metas.current = metadata.default;
+    shuffle(metas.current);
+  }
 
   const [idx, setIdx] = useState(0);
-  const [meta, setMeta] = useState(metas[0]);
+  const [meta, setMeta] = useState(metas.current[0]);
 
   const next = () => {
-    setMeta(metas[idx + 1]);
-    setIdx(idx + 1);
+    const newIdx = (idx + 1) % metas.current.length;
+    setMeta(metas.current[newIdx]);
+    setIdx(newIdx);
   };
 
   return (
