@@ -1,7 +1,8 @@
 html {
-  font-size: 14px;
-  font-size: clamp(9px, 2.7vw, 22px);
-  line-height: 1.15;
+  color: #222;
+  font-size: 16px;
+  font-size: clamp(16px, 2.4vw, 21px);
+  line-height: 1.4;
 }
 
 body {
@@ -16,9 +17,29 @@ button {
   display: inline-block;
   font: inherit;
   height: 2em;
-  margin: 1em 0.5em;
+  margin: 0.5em 0.25em;
   padding: 0.25em 1em 0.25em;
   text-align: center;
   text-decoration: none;
   vertical-align: middle;
+}
+
+form {
+  text-align: center;
+}
+
+input {
+  appearance: none;
+  background-color: #fff;
+  border-radius: 4px;
+  border: 1px solid #d1d1d1;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: inherit;
+  font: inherit;
+  height: 2em;
+  line-height: normal;
+  margin: 0.5em 0.25em;
+  padding: 0.25em;
+  width: 20em;
 }
