@@ -1,29 +1,43 @@
-import React from "react";
+import React, { useState } from "react";
 import "./App.scss";
 
 import * as metadata from "./metadata.json";
 
 const Feeders = ({ feeders }) => {
   return (
-    <ul>
+    <p className="feeders">
       {feeders.map((c) => (
-        <li>{c}</li>
+        <React.Fragment>
+          {c}
+          <br />
+        </React.Fragment>
       ))}
-    </ul>
+    </p>
   );
 };
 
 const Header = ({ answer, tags, next, source }) => {
+  const [guess, setGuess] = useState("");
+
   return (
     <div className="header">
       <div className="source">
         <a href={source.link}>
           {source.hunt} {source.year}
         </a>
-        <button onclick={next()}>New meta</button>
+        <button onClick={(e) => next()}>New meta</button>
       </div>
-      <form>
-        <input type="text" />
+      <form
+        onSubmit={(e) => {
+          e.preventDefault();
+          console.log(guess);
+        }}
+      >
+        <input
+          type="text"
+          value={guess}
+          onChange={(e) => setGuess(e.target.value)}
+        />
         <input type="submit" value="Guess" />
       </form>
       <div className="response"></div>
