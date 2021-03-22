@@ -13,21 +13,30 @@ const Feeders = ({ feeders }) => {
   );
 };
 
-const Question = ({ flavor, feeders, note }) => {
+const Header = ({ answer, tags, next, source }) => {
   return (
-    <div className="question">
-      <div className="header">
-        <form>
-          <input type="text" />
-          <input type="submit" value="Guess" />
-        </form>
-        <div className="response"></div>
+    <div className="header">
+      <div className="source">
+        <a href={source.link}>
+          {source.hunt} {source.year}
+        </a>
+        <button onclick={next()}>New meta</button>
       </div>
-      <div className="body">
-        {note && <p className="note">Note: {note}</p>}
-        {flavor && <p className="flavor">{flavor}</p>}
-        <Feeders feeders={feeders} />
-      </div>
+      <form>
+        <input type="text" />
+        <input type="submit" value="Guess" />
+      </form>
+      <div className="response"></div>
+    </div>
+  );
+};
+
+const Body = ({ flavor, feeders, note }) => {
+  return (
+    <div className="body">
+      {note && <p className="note">Note: {note}</p>}
+      {flavor && <p className="flavor">{flavor}</p>}
+      <Feeders feeders={feeders} />
     </div>
   );
 };
@@ -35,7 +44,8 @@ const Question = ({ flavor, feeders, note }) => {
 const App = () => {
   return (
     <div className="app">
-      <Question {...metadata[0]} />
+      <Header next={() => {}} {...metadata[0]} />
+      <Body {...metadata[0]} />
     </div>
   );
 };
