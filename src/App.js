@@ -3,20 +3,44 @@ import "./App.scss";
 
 import * as metadata from "./metadata.json";
 
+const Spoiler = (props) => {
+  const [visible, setVisible] = useState(false);
+  return (
+    <span
+      className={visible ? "" : "spoiler"}
+      onClick={(e) => setVisible(!visible)}
+    >
+      {props.children}
+    </span>
+  );
+};
+
+const Tags = ({ tags }) => {
+  return (
+    tags && (
+      <div className="tags">
+        Tags:{" "}
+        {tags.map((tag, i) => (
+          <Spoiler key={i}>{tag}</Spoiler>
+        ))}
+      </div>
+    )
+  );
+};
+
 const Info = ({ next, tags, source }) => {
   return (
     <div className="info">
-      <div className="source">
+      <div>
         {source && (
-          <Fragment>
-            Source:{" "}
+          <div className="source">
+            From{" "}
             <a href={source.link}>
               {source.hunt} {source.year}
-            </a>
-            <br />
-          </Fragment>
+            </a>.
+          </div>
         )}
-        Tags: {tags.join(", ")}
+        <Tags tags={tags} />
       </div>
       <button onClick={(e) => next()}>New meta</button>
     </div>
@@ -66,7 +90,7 @@ const Submit = ({ idx, answer }) => {
 const Body = ({ flavor, feeders, note }) => {
   return (
     <div className="body">
-      {note && <p className="note">Note: {note}</p>}
+      {note && <p className="note"><i>Note:</i> {note}</p>}
       {flavor && <p className="flavor">{flavor}</p>}
       <p className="feeders">
         {feeders.map((feeder, i) => (

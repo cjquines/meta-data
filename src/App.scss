@@ -28,6 +28,21 @@
   }
 }
 
+.tags {
+  margin: 0.5em 0;
+
+  & > span {
+    display: inline-block;
+    min-width: 5em;
+    margin-right: 0.25em;
+  }
+
+  .spoiler:not(:hover) {
+    background-color: var(--secondary-color);
+    color: var(--secondary-color);
+  }
+}
+
 .submit {
   text-align: center;
 }
