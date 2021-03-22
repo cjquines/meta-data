@@ -1,5 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400&display=swap");
+
+:root {
+  --theme-color: #d84315;
+  --secondary-color: #ff8a65;
+}
+
 html {
   color: #222;
+  font-family: "IBM Plex Sans", sans-serif;
   font-size: 16px;
   font-size: clamp(16px, 2.4vw, 21px);
   line-height: 1.4;
@@ -9,23 +17,34 @@ body {
   margin: 0;
 }
 
+a {
+  color: var(--theme-color);
+  text-decoration: underline;
+
+  &:hover {
+    color: var(--secondary-color);
+  }
+}
+
 button {
-  background-color: #111e;
+  background-color: var(--theme-color);
   border: none;
   color: #fff;
   cursor: pointer;
   display: inline-block;
-  font: inherit;
-  height: 2em;
-  margin: 0.5em 0.25em;
-  padding: 0.25em 1em 0.25em;
+  font-family: inherit;
+  font-size: 0.9em;
+  font-weight: bold;
+  height: 2rem;
+  margin: 1rem 0.25rem;
+  padding: 0.25rem 1rem 0.25rem;
   text-align: center;
   text-decoration: none;
   vertical-align: middle;
-}
 
-form {
-  text-align: center;
+  &:hover {
+    background-color: var(--secondary-color);
+  }
 }
 
 input {
@@ -37,9 +56,9 @@ input {
   box-sizing: border-box;
   color: inherit;
   font: inherit;
-  height: 2em;
+  height: 2rem;
   line-height: normal;
-  margin: 0.5em 0.25em;
-  padding: 0.25em;
-  width: 20em;
+  margin: 1rem 0.25rem;
+  padding: 0.25rem;
+  width: 20rem;
 }

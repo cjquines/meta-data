@@ -105,6 +105,11 @@ const App = () => {
 
   return (
     <div className="app">
+      <div className="top">
+        <h1>meta-data</h1>
+        compiled by <a href="https://cjquines.com">CJ Quines</a> · source on{" "}
+        <a href="https://github.com/cjquines/meta-data">Github</a>
+      </div>
       <div className="header">
         <Info next={next} {...meta} />
         <Submit idx={idx} {...meta} />

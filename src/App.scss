@@ -1,6 +1,31 @@
+.app {
+  max-width: 40em;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+.top {
+  padding-bottom: 0.25em;
+
+  h1 {
+    color: var(--theme-color);
+    display: inline-block;
+    margin: 0 0.5em 0 0;
+  }
+}
+
+.header {
+  border-bottom: 1px solid var(--secondary-color);
+  padding: 0.5em 0 0.75em;
+}
+
 .info {
   display: flex;
   justify-content: space-between;
+
+  button {
+    margin: 0;
+  }
 }
 
 .submit {
