@@ -15,20 +15,28 @@ const Spoiler = (props) => {
   );
 };
 
-const Tags = ({ tags }) => {
+const Tags = ({ idx, tags }) => {
+  const details = useRef();
+
+  useEffect(() => {
+    details.current.open = false;
+  }, [idx]);
+
   return (
     tags && (
-      <div className="tags">
-        Tags:{" "}
-        {tags.map((tag, i) => (
-          <Spoiler key={i}>{tag}</Spoiler>
-        ))}
-      </div>
+      <details ref={details}>
+        <summary>Tags:</summary>
+        <div className="tags">
+          {tags.map((tag, i) => (
+            <Spoiler key={i}>{tag}</Spoiler>
+          ))}
+        </div>
+      </details>
     )
   );
 };
 
-const Info = ({ next, tags, source }) => {
+const Info = ({ idx, next, tags, source }) => {
   return (
     <div className="info">
       <div>
@@ -37,10 +45,11 @@ const Info = ({ next, tags, source }) => {
             From{" "}
             <a href={source.puzzle}>
               {source.hunt} {source.year}
-            </a>. <a href={source.solution}>Solution</a>.
+            </a>
+            . <a href={source.solution}>Solution</a>.
           </div>
         )}
-        <Tags tags={tags} />
+        <Tags idx={idx} tags={tags} />
       </div>
       <button onClick={(e) => next()}>New meta</button>
     </div>
@@ -90,7 +99,11 @@ const Submit = ({ idx, answer }) => {
 const Body = ({ flavor, feeders, note, source }) => {
   return (
     <div className="body">
-      {note && <p className="note"><i>Note:</i> {note}</p>}
+      {note && (
+        <p className="note">
+          <i>Note:</i> {note}
+        </p>
+      )}
       {flavor && <p className="flavor">{flavor}</p>}
       <p className="feeders">
         {feeders.map((feeder, i) => (
@@ -135,7 +148,7 @@ const App = () => {
         <a href="https://github.com/cjquines/meta-data">Github</a>
       </div>
       <div className="header">
-        <Info next={next} {...meta} />
+        <Info idx={idx} next={next} {...meta} />
         <Submit idx={idx} {...meta} />
       </div>
       <Body {...meta} />
