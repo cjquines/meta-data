@@ -1370,16 +1370,16 @@
     year: 2017
     link: http://web.mit.edu/puzzle/www/2017/solution/bridge.html
 - feeders:
-    - ANGKOR
-    - KHAGAN
-    - LEAVES
-    - MORGAN
-    - PACKED
-    - PAMPAS
-    - PAVING
-    - PIGEON
-    - RAPIER
-    - TAMPER
+    - ANGKOR WAT
+    - KHAGAN BEK
+    - LEAVES BE
+    - MORGAN HILL
+    - PACKED ICE
+    - PAMPAS CAT
+    - PAVING TILE
+    - PIGEON LAKE
+    - RAPIER WIT
+    - TAMPER WITH
   answer:
     - PEGMAN
   tags:
@@ -1693,7 +1693,7 @@
     - SEARINGS
     - SEAT
   answer:
-    - MACK TRUCK
+    - RED ALERT
   tags:
     - syntactic
     - letter change
