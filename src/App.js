@@ -35,9 +35,9 @@ const Info = ({ next, tags, source }) => {
         {source && (
           <div className="source">
             From{" "}
-            <a href={source.solution}>
+            <a href={source.puzzle}>
               {source.hunt} {source.year}
-            </a>.
+            </a>. <a href={source.solution}>Solution</a>.
           </div>
         )}
         <Tags tags={tags} />
@@ -87,7 +87,7 @@ const Submit = ({ idx, answer }) => {
   );
 };
 
-const Body = ({ flavor, feeders, note }) => {
+const Body = ({ flavor, feeders, note, source }) => {
   return (
     <div className="body">
       {note && <p className="note"><i>Note:</i> {note}</p>}
