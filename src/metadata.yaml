@@ -1728,8 +1728,8 @@
   source:
     hunt: teammate
     year: 2020
-    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/swimming_hole/
-    solution: https://www.mit.edu/~puzzle/2020/puzzle/swimming_hole/solution/
+    puzzle: https://teammatehunt.com/puzzles/alone-play-along
+    solution: https://teammatehunt.com/solutions/alone-play-along
 - feeders:
     - BARBARIOUS
     - METALLURGICAL
