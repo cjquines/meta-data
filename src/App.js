@@ -35,7 +35,7 @@ const Info = ({ next, tags, source }) => {
         {source && (
           <div className="source">
             From{" "}
-            <a href={source.link}>
+            <a href={source.solution}>
               {source.hunt} {source.year}
             </a>.
           </div>

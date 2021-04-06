@@ -20,7 +20,8 @@
   source: 
     hunt: MITMH
     year: 2000
-    link: http://web.mit.edu/puzzle/www/2000/set1/Meta/Solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2000/set1/index.html
+    solution: http://web.mit.edu/puzzle/www/2000/set1/Meta/Solution.html
 - feeders:
     - ANACHRONISTIC
     - ASSOCIATION
@@ -42,7 +43,8 @@
   source: 
     hunt: MITMH
     year: 2000
-    link: http://web.mit.edu/puzzle/www/2000/set2/Meta/Solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2000/set2/index.html
+    solution: http://web.mit.edu/puzzle/www/2000/set2/Meta/Solution.html
 - feeders:
     - BENT OUT OF SHAPE
     - DOWN TO EARTH
@@ -62,7 +64,8 @@
   source: 
     hunt: MITMH
     year: 2000
-    link: http://web.mit.edu/puzzle/www/2000/set4/Meta/Solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2000/set4/index.html
+    solution: http://web.mit.edu/puzzle/www/2000/set4/Meta/Solution.html
 - feeders:
     - DORADO
     - DOUBLE DARE
@@ -82,7 +85,8 @@
   source: 
     hunt: MITMH
     year: 2000
-    link: http://web.mit.edu/puzzle/www/2000/set5/Meta/Solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2000/set5/index.html
+    solution: http://web.mit.edu/puzzle/www/2000/set5/Meta/Solution.html
 - feeders:
     - ASTROPHYISCAL
     - BRINKSMANSHIP
@@ -106,7 +110,8 @@
   source: 
     hunt: MITMH
     year: 2001
-    link: http://web.mit.edu/puzzle/www/2001/Solutions/phase3_metapuzzle.html
+    puzzle: http://web.mit.edu/puzzle/www/2001/
+    solution: http://web.mit.edu/puzzle/www/2001/Solutions/phase3_metapuzzle.html
 - feeders:
     - JABBERWOCK
     - POMPEII
@@ -123,7 +128,8 @@
   source:
     hunt: MITMH
     year: 2002
-    link: http://web.mit.edu/puzzle/www/2002/orange/X/Solution.txt
+    puzzle: http://web.mit.edu/puzzle/www/2002/orange/
+    solution: http://web.mit.edu/puzzle/www/2002/orange/X/Solution.txt
 - feeders:
     - APPLE DUMPLING
     - PAYDAY
@@ -140,7 +146,8 @@
   source:
     hunt: MITMH
     year: 2002
-    link: http://web.mit.edu/puzzle/www/2002/red/X/Solution.txt
+    puzzle: http://web.mit.edu/puzzle/www/2002/red/
+    solution: http://web.mit.edu/puzzle/www/2002/red/X/Solution.txt
 - feeders:
     - ALIOTH
     - DENALI
@@ -156,7 +163,8 @@
   source:
     hunt: MITMH
     year: 2002
-    link: http://web.mit.edu/puzzle/www/2002/darkblue/X/Solution.txt
+    puzzle: http://web.mit.edu/puzzle/www/2002/darkblue/
+    solution: http://web.mit.edu/puzzle/www/2002/darkblue/X/Solution.txt
 - feeders:
     - MIKE MULLIGAN
     - STRAIN DIAGRAM
@@ -173,7 +181,8 @@
   source:
     hunt: MITMH
     year: 2002
-    link: http://web.mit.edu/puzzle/www/2002/magenta/X/Solution.txt
+    puzzle: http://web.mit.edu/puzzle/www/2002/magenta/
+    solution: http://web.mit.edu/puzzle/www/2002/magenta/X/Solution.txt
 - feeders:
     - HAWAIIAN
     - WRIGHT BROTHERS
@@ -190,7 +199,8 @@
   source:
     hunt: MITMH
     year: 2002
-    link: http://web.mit.edu/puzzle/www/2002/green/X/Solution.txt
+    puzzle: http://web.mit.edu/puzzle/www/2002/green/
+    solution: http://web.mit.edu/puzzle/www/2002/green/X/Solution.txt
 - feeders:
     - CHALET
     - LABORATORY
@@ -207,7 +217,8 @@
   source:
     hunt: MITMH
     year: 2003
-    link: http://web.mit.edu/puzzle/www/2003/www.acme-corp.com/solutions/m1.html
+    puzzle: http://www.mit.edu/~puzzle/2003/www.acme-corp.com/teamGuest/1/index.html
+    solution: http://web.mit.edu/puzzle/www/2003/www.acme-corp.com/solutions/m1.html
 - feeders:
     - ECHO
     - DIRE
@@ -233,7 +244,8 @@
   source:
     hunt: MITMH
     year: 2003
-    link: http://web.mit.edu/puzzle/www/2003/www.acme-corp.com/solutions/m3.html
+    puzzle: http://www.mit.edu/~puzzle/2003/www.acme-corp.com/teamGuest/3/index.html
+    solution: http://web.mit.edu/puzzle/www/2003/www.acme-corp.com/solutions/m3.html
 - feeders:
     - PELES TEARS
     - NAINSOOK
@@ -259,7 +271,8 @@
   source:
     hunt: MITMH
     year: 2004
-    link: http://web.mit.edu/puzzle/www/2004/aztec/Bj4/answer.html
+    puzzle: http://web.mit.edu/puzzle/www/2004/aztec/Bj4/
+    solution: http://web.mit.edu/puzzle/www/2004/aztec/Bj4/answer.html
 - feeders:
     - SPOON
     - SURFER
@@ -277,7 +290,8 @@
   source:
     hunt: MITMH
     year: 2004
-    link: http://web.mit.edu/puzzle/www/2004/booty/answer.html
+    puzzle: http://web.mit.edu/puzzle/www/2004/booty/
+    solution: http://web.mit.edu/puzzle/www/2004/booty/answer.html
 - feeders:
     - BIG COTTONWOOD
     - SPIRIT WRITING
@@ -297,7 +311,8 @@
   source:
     hunt: MITMH
     year: 2005
-    link: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-3-solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2005/setec/
+    solution: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-3-solution.html
 - feeders:
     - ADMAN
     - RIME
@@ -316,7 +331,8 @@
   source:
     hunt: MITMH
     year: 2005
-    link: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-6-solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2005/setec/
+    solution: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-6-solution.html
 - feeders:
    - CHICAGO
    - DARLING
@@ -337,7 +353,8 @@
   source:
     hunt: MITMH
     year: 2005
-    link: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-5-solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2005/setec/
+    solution: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-5-solution.html
 - feeders:
     - EDDIE OJEDA
     - DOUG INGLE
@@ -357,7 +374,8 @@
   source:
     hunt: MITMH
     year: 2005
-    link: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-1-solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2005/setec/
+    solution: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-1-solution.html
 - feeders:
     - CLEVELAND
     - MICROBREWER
@@ -376,7 +394,8 @@
   source:
     hunt: MITMH
     year: 2006
-    link: http://web.mit.edu/puzzle/www/2006/metas/boston.html
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/boston/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/boston.html
 - feeders:
     - EXCLAMATION POINT
     - GUNSHOT
@@ -393,7 +412,8 @@
   source:
     hunt: MITMH
     year: 2006
-    link: http://web.mit.edu/puzzle/www/2006/metas/cambridge.html
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/cambridge/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/cambridge.html
 - feeders:
     - BARENBLATT
     - BROWN
@@ -410,7 +430,8 @@
   source:
     hunt: MITMH
     year: 2006
-    link: http://web.mit.edu/puzzle/www/2006/metas/washington.html
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/washington/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/washington.html
 - feeders:
     - AMY
     - BOXES
@@ -428,7 +449,8 @@
   source:
     hunt: MITMH
     year: 2006
-    link: http://web.mit.edu/puzzle/www/2006/metas/moscow.html
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/moscow/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/moscow.html
 - feeders:
     - BALFOUR
     - BATHTUB
@@ -450,7 +472,8 @@
   source:
     hunt: MITMH
     year: 2006
-    link: http://web.mit.edu/puzzle/www/2006/metas/kuala_lumpur.html
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/kuala_lumpur/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/kuala_lumpur.html
 - feeders:
     - AJAX
     - DEEJAY
@@ -471,7 +494,8 @@
   source:
     hunt: MITMH
     year: 2006
-    link: http://web.mit.edu/puzzle/www/2006/metas/buenos_aires.html
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/buenos_aires/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/buenos_aires.html
 - feeders:
     - VICE CHANCELLOR
     - DAGUERREOTYPES
@@ -495,7 +519,8 @@
   source:
     hunt: MITMH
     year: 2006
-    link: http://web.mit.edu/puzzle/www/2006/metas/epcot_center.html
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/epcot_center/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/epcot_center.html
 - feeders:
     - BUCKYBALLS
     - CLOCKWATCHERS
@@ -515,7 +540,8 @@
   source:
     hunt: MITMH
     year: 2006
-    link: http://web.mit.edu/puzzle/www/2006/metas/mcmurdo_station.html
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/mcmurdo_station/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/mcmurdo_station.html
 - feeders:
     - ECUADOR
     - DEBAUCHERY
@@ -537,7 +563,8 @@
   source:
     hunt: MITMH
     year: 2006
-    link: http://web.mit.edu/puzzle/www/2006/metas/paris.html
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/paris/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/paris.html
 - feeders:
     - AMERICARES
     - EMIGRES
@@ -556,7 +583,8 @@
   source:
     hunt: MITMH
     year: 2009
-    link: http://web.mit.edu/puzzle/www/2009/puzzles/Planet_Pluto_meta.html
+    puzzle: http://web.mit.edu/puzzle/www/2009/puzzles/#planet_pluto
+    solution: http://web.mit.edu/puzzle/www/2009/puzzles/Planet_Pluto_meta.html
 - feeders:
     - MEDS
     - REX
@@ -572,7 +600,8 @@
   source:
     hunt: MITMH
     year: 2009
-    link: http://web.mit.edu/puzzle/www/2009/puzzles/The_ATM_meta.html
+    puzzle: http://web.mit.edu/puzzle/www/2009/puzzles/#the_atm
+    solution: http://web.mit.edu/puzzle/www/2009/puzzles/The_ATM_meta.html
 - feeders:
     - BLITHESOME
     - FRIDA KAHLO
@@ -587,7 +616,8 @@
   source:
     hunt: MITMH
     year: 2009
-    link: http://web.mit.edu/puzzle/www/2009/puzzles/Castor_Pollux_meta.html
+    puzzle: http://web.mit.edu/puzzle/www/2009/puzzles/#castor___pollux
+    solution: http://web.mit.edu/puzzle/www/2009/puzzles/Castor_Pollux_meta.html
 - feeders:
     - ALBATROSS
     - ALLIANCES
@@ -606,7 +636,8 @@
   source:
     hunt: MITMH
     year: 2009
-    link: http://web.mit.edu/puzzle/www/2009/puzzles/Kronos_meta.html
+    puzzle: http://web.mit.edu/puzzle/www/2009/puzzles/#kronos
+    solution: http://web.mit.edu/puzzle/www/2009/puzzles/Kronos_meta.html
 - feeders:
     - REDEPLOYED
     - STRIP
@@ -626,7 +657,8 @@
   source:
     hunt: MITMH
     year: 2010
-    link: http://web.mit.edu/puzzle/www/2010/puzzles/1983/solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2010/puzzles/1983/
+    solution: http://web.mit.edu/puzzle/www/2010/puzzles/1983/solution.html
 - feeders:
     - JOCK
     - DOGES
@@ -647,7 +679,8 @@
   source:
     hunt: MITMH
     year: 2010
-    link: http://web.mit.edu/puzzle/www/2010/puzzles/1952/solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2010/puzzles/1952/
+    solution: http://web.mit.edu/puzzle/www/2010/puzzles/1952/solution.html
 - feeders:
     - BROTHER JUNIPER
     - CRAYFISH CREEK
@@ -669,7 +702,8 @@
   source:
     hunt: MITMH
     year: 2010
-    link: http://web.mit.edu/puzzle/www/2010/puzzles/1871/solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2010/puzzles/1871/
+    solution: http://web.mit.edu/puzzle/www/2010/puzzles/1871/solution.html
 - feeders:
     - AISLES
     - ANOTHER DAY
@@ -690,7 +724,8 @@
   source:
     hunt: MITMH
     year: 2010
-    link: http://web.mit.edu/puzzle/www/2010/puzzles/1903/solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2010/puzzles/1903/
+    solution: http://web.mit.edu/puzzle/www/2010/puzzles/1903/solution.html
 - feeders:
     - BISMARCK
     - HUNDREDTH
@@ -709,7 +744,8 @@
   source:
     hunt: MITMH
     year: 2010
-    link: http://web.mit.edu/puzzle/www/2010/puzzles/1804/solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2010/puzzles/1804/
+    solution: http://web.mit.edu/puzzle/www/2010/puzzles/1804/solution.html
 - feeders:
     - AXIS
     - FINISH LINE
@@ -730,7 +766,8 @@
   source:
     hunt: MITMH
     year: 2010
-    link: http://web.mit.edu/puzzle/www/2010/puzzles/1752/solution.html
+    puzzle: http://web.mit.edu/puzzle/www/2010/puzzles/1752/
+    solution: http://web.mit.edu/puzzle/www/2010/puzzles/1752/solution.html
 - feeders:
     - OYSTER
     - ORANGE PEEL
@@ -746,7 +783,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/world1/meta/world1-1.html
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/world1/world1-1.html
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/world1/meta/world1-1.html
 - feeders:
     - VERNON DURSLEY
     - BARRY ALLEN
@@ -762,7 +800,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/world1/meta/world1-2.html
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/world1/world1-2.html
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/world1/meta/world1-2.html
 - feeders:
     - HANK AARON
     - SAFETY LAST
@@ -779,7 +818,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/world1/meta/world1-3.html
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/world1/world1-3.html
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/world1/meta/world1-3.html
 - feeders:
     - INEQUALITY
     - JOSEPH
@@ -795,7 +835,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta/minus.html
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/minus.html
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta/minus.html
 - feeders:
     - FLOOD
     - DIORAMIC
@@ -815,7 +856,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/meta/fellowship.html
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/meta/fellowship.html
 - feeders:
     - ABSOLUTE AUTHORITY
     - CANADA
@@ -834,7 +876,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/meta/holiness.html
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/meta/holiness.html
 - feeders:
     - THE FIRST NOEL
     - LAST SONNET
@@ -853,7 +896,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/meta/inspiration.html
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/meta/inspiration.html
 - feeders:
     - AUTUMN
     - BADMINTON
@@ -874,7 +918,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/civilization/meta/wall_street.html
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/civilization/wall_street/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/civilization/meta/wall_street.html
 - feeders:
     - WORLD TOUR
     - UNFAIR COIN
@@ -894,7 +939,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/civilization/meta/supermeta.html
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/civilization/interstellar_spaceship/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/civilization/meta/supermeta.html
 - feeders:
     - CUL DE SAC
     - DIVERGED
@@ -912,7 +958,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/katamari_damacy/meta/small.html
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/katamari_damacy/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/katamari_damacy/meta/small.html
 - feeders:
     - BOOKWORM
     - COCOON
@@ -932,7 +979,8 @@
   source:
     hunt: MITMH
     year: 2012
-    link: http://web.mit.edu/puzzle/www/2012/puzzles/a_circus_line/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2012/puzzles/a_circus_line/
+    solution: http://web.mit.edu/puzzle/www/2012/puzzles/a_circus_line/solution/
 - feeders:
     - CARPAL
     - THE SOUTH
@@ -949,7 +997,8 @@
   source:
     hunt: MITMH
     year: 2012
-    link: http://web.mit.edu/puzzle/www/2012/puzzles/okla_holmes_a/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2012/puzzles/okla_holmes_a/
+    solution: http://web.mit.edu/puzzle/www/2012/puzzles/okla_holmes_a/solution/
 - feeders:
     - ARIGATO GOZAIMASU
     - BAKING SODA
@@ -974,7 +1023,8 @@
   source:
     hunt: MITMH
     year: 2012
-    link: http://web.mit.edu/puzzle/www/2012/puzzles/into_the_woodstock/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2012/puzzles/into_the_woodstock/
+    solution: http://web.mit.edu/puzzle/www/2012/puzzles/into_the_woodstock/solution/
 - feeders:
     - BATED BREATH
     - DRUNK TANK
@@ -996,7 +1046,8 @@
   source:
     hunt: MITMH
     year: 2012
-    link: http://web.mit.edu/puzzle/www/2012/puzzles/mayan_fair_lady/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2012/puzzles/mayan_fair_lady/
+    solution: http://web.mit.edu/puzzle/www/2012/puzzles/mayan_fair_lady/solution/
 - feeders:
     - FIRESTONE
     - CLINTON
@@ -1015,7 +1066,8 @@
   source:
     hunt: MITMH
     year: 2012
-    link: http://web.mit.edu/puzzle/www/2012/puzzles/phantom_of_the_operator/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2012/puzzles/phantom_of_the_operator/
+    solution: http://web.mit.edu/puzzle/www/2012/puzzles/phantom_of_the_operator/solution/
 - feeders:
     - ADOBO
     - COLON
@@ -1033,7 +1085,8 @@
   source:
     hunt: MITMH
     year: 2012
-    link: http://web.mit.edu/puzzle/www/2012/puzzles/ogre_of_la_mancha/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2012/puzzles/ogre_of_la_mancha/
+    solution: http://web.mit.edu/puzzle/www/2012/puzzles/ogre_of_la_mancha/solution/
 - feeders:
     - ABYSMAL
     - BODY SIZE
@@ -1051,7 +1104,8 @@
   source:
     hunt: MITMH
     year: 2014
-    link: http://web.mit.edu/puzzle/www/2014/round-solution/mit/
+    puzzle: http://web.mit.edu/puzzle/www/2014/round/mit/
+    solution: http://web.mit.edu/puzzle/www/2014/round-solution/mit/
 - feeders:
     - MISCHIEF
     - SHREWDNESS
@@ -1069,7 +1123,8 @@
   source:
     hunt: MITMH
     year: 2014
-    link: http://web.mit.edu/puzzle/www/2014/round-solution/mit/
+    puzzle: http://web.mit.edu/puzzle/www/2014/round/mit/
+    solution: http://web.mit.edu/puzzle/www/2014/round-solution/mit/
 - feeders:
     - PADAWAN
     - ROOMING
@@ -1087,7 +1142,8 @@
   source:
     hunt: MITMH
     year: 2014
-    link: http://web.mit.edu/puzzle/www/2014/round-solution/mit/
+    puzzle: http://web.mit.edu/puzzle/www/2014/round/mit/
+    solution: http://web.mit.edu/puzzle/www/2014/round-solution/mit/
 - feeders:
     - FLOOR MAT
     - DEWDROP
@@ -1105,7 +1161,8 @@
   source:
     hunt: MITMH
     year: 2015
-    link: http://web.mit.edu/puzzle/www/2015/puzzle/chemistry_lab_meta/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/chemistry_lab_meta/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/chemistry_lab_meta/solution/
 - feeders:
     - CITYGATES
     - IMPULSIVE
@@ -1125,7 +1182,8 @@
   source:
     hunt: MITMH
     year: 2015
-    link: http://web.mit.edu/puzzle/www/2015/puzzle/pod_of_dolphins_meta/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/pod_of_dolphins_meta/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/pod_of_dolphins_meta/solution/
 - feeders:
     - SUMMER
     - KERFUFFLE
@@ -1142,7 +1200,8 @@
   source:
     hunt: MITMH
     year: 2015
-    link: http://web.mit.edu/puzzle/www/2015/puzzle/graveyard_meta/solution
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/graveyard_meta/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/graveyard_meta/solution/
 - feeders:
     - AGFA
     - I FIB
@@ -1158,7 +1217,8 @@
   source:
     hunt: MITMH
     year: 2016
-    link: http://web.mit.edu/puzzle/www/2016/puzzle/obedience_training/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2016/puzzle/obedience_training/
+    solution: http://web.mit.edu/puzzle/www/2016/puzzle/obedience_training/solution/
 - feeders:
     - ABBOT HALL ART GALLERY
     - ADVANCE PERSON
@@ -1182,7 +1242,8 @@
   source:
     hunt: MITMH
     year: 2016
-    link: http://web.mit.edu/puzzle/www/2016/round/opus/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2016/puzzle/opus/
+    solution: http://web.mit.edu/puzzle/www/2016/round/opus/solution/
 - feeders:
     - HUSH MONEY
     - STAR WITNESS
@@ -1197,7 +1258,8 @@
   source:
     hunt: MITMH
     year: 2016
-    link: http://web.mit.edu/puzzle/www/2016/round/dreamtime/solution/day1.html
+    puzzle: http://web.mit.edu/puzzle/www/2016/round/dreamtime/
+    solution: http://web.mit.edu/puzzle/www/2016/round/dreamtime/solution/day1.html
 - feeders:
     - UB IWERKS
     - NICHE
@@ -1212,7 +1274,8 @@
   source:
     hunt: MITMH
     year: 2016
-    link: http://web.mit.edu/puzzle/www/2016/round/dreamtime/solution/day3.html
+    puzzle: http://web.mit.edu/puzzle/www/2016/round/dreamtime/
+    solution: http://web.mit.edu/puzzle/www/2016/round/dreamtime/solution/day3.html
 - feeders:
     - BANDEROL
     - GRAY DRAB
@@ -1227,7 +1290,8 @@
   source:
     hunt: MITMH
     year: 2016
-    link: http://web.mit.edu/puzzle/www/2016/round/dreamtime/solution/day4.html
+    puzzle: http://web.mit.edu/puzzle/www/2016/round/dreamtime/
+    solution: http://web.mit.edu/puzzle/www/2016/round/dreamtime/solution/day4.html
 - feeders:
     - POWDER PUFF
     - QUITE NICE
@@ -1241,7 +1305,8 @@
   source:
     hunt: MITMH
     year: 2016
-    link: http://web.mit.edu/puzzle/www/2016/round/dreamtime/solution/day5.html
+    puzzle: http://web.mit.edu/puzzle/www/2016/round/dreamtime/
+    solution: http://web.mit.edu/puzzle/www/2016/round/dreamtime/solution/day5.html
 - feeders:
     - KARIN INGEL-ANKER
     - LIZ LEMON GREEK FROZEN YOGURT
@@ -1259,7 +1324,8 @@
   source:
     hunt: MITMH
     year: 2016
-    link: http://web.mit.edu/puzzle/www/2016/round/pam_ewing/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2016/round/pam_ewing/
+    solution: http://web.mit.edu/puzzle/www/2016/round/pam_ewing/solution/
 - feeders:
     - BOBBY HENDRICKS
     - COULD HAVE BEEN
@@ -1281,7 +1347,8 @@
   source:
     hunt: MITMH
     year: 2017
-    link: http://web.mit.edu/puzzle/www/2017/solution/fighter.html
+    puzzle: http://web.mit.edu/puzzle/www/2017/round/fighter.html
+    solution: http://web.mit.edu/puzzle/www/2017/solution/fighter.html
 - feeders:
     - REPRESS MEMORIES
     - SEND FLYING
@@ -1302,7 +1369,8 @@
   source:
     hunt: MITMH
     year: 2017
-    link: http://web.mit.edu/puzzle/www/2017/solution/wizard.html
+    puzzle: http://web.mit.edu/puzzle/www/2017/round/wizard.html
+    solution: http://web.mit.edu/puzzle/www/2017/solution/wizard.html
 - feeders:
     - DIAMOND
     - CONDOR
@@ -1320,7 +1388,8 @@
   source:
     hunt: MITMH
     year: 2017
-    link: http://web.mit.edu/puzzle/www/2017/solution/economist.html
+    puzzle: http://web.mit.edu/puzzle/www/2017/round/economist.html
+    solution: http://web.mit.edu/puzzle/www/2017/solution/economist.html
 - feeders:
     - CROC
     - CONE
@@ -1340,7 +1409,8 @@
   source:
     hunt: MITMH
     year: 2017
-    link: http://web.mit.edu/puzzle/www/2017/solution/chemist.html
+    puzzle: http://web.mit.edu/puzzle/www/2017/round/chemist.html
+    solution: http://web.mit.edu/puzzle/www/2017/solution/chemist.html
 - feeders:
     - ABLATIVE
     - ASA BUTTERFIELD
@@ -1368,7 +1438,8 @@
   source:
     hunt: MITMH
     year: 2017
-    link: http://web.mit.edu/puzzle/www/2017/solution/bridge.html
+    puzzle: http://web.mit.edu/puzzle/www/2017/round/bridge.html
+    solution: http://web.mit.edu/puzzle/www/2017/solution/bridge.html
 - feeders:
     - ANGKOR WAT
     - KHAGAN BEK
@@ -1392,7 +1463,8 @@
   source:
     hunt: MITMH
     year: 2017
-    link: http://web.mit.edu/puzzle/www/2017/solution/criminal.html
+    puzzle: http://web.mit.edu/puzzle/www/2017/round/criminal.html
+    solution: http://web.mit.edu/puzzle/www/2017/solution/criminal.html
 - feeders:
     - BONE GRAFT
     - EXCEPT
@@ -1415,7 +1487,8 @@
   source:
     hunt: MITMH
     year: 2018
-    link: http://web.mit.edu/puzzle/www/2018/full/solution/disgust.html
+    puzzle: http://web.mit.edu/puzzle/www/2018/full/puzzle/disgust.html
+    solution: http://web.mit.edu/puzzle/www/2018/full/solution/disgust.html
 - feeders:
     - INITIAL THREAT
     - AUSTERE TYPEFACE
@@ -1431,7 +1504,8 @@
   source:
     hunt: MITMH
     year: 2018
-    link: http://web.mit.edu/puzzle/www/2018/full/solution/blue_sun_6v4_178_b31_trace_compression_block.html
+    puzzle: http://web.mit.edu/puzzle/www/2018/full/puzzle/blue_sun_6v4_178_b31_trace_compression_block.html
+    solution: http://web.mit.edu/puzzle/www/2018/full/solution/blue_sun_6v4_178_b31_trace_compression_block.html
 - feeders:
     - AMBIGUOUS
     - BLOAT
@@ -1450,7 +1524,8 @@
   source:
     hunt: MITMH
     year: 2019
-    link: http://www.mit.edu/~puzzle/2019/solution/halloween_thanksgiving.html
+    puzzle: http://www.mit.edu/~puzzle/2019/problem/halloween_thanksgiving.html
+    solution: http://www.mit.edu/~puzzle/2019/solution/halloween_thanksgiving.html
 - feeders:
     - HATAMOTO
     - IONE SKYE
@@ -1472,7 +1547,8 @@
   source:
     hunt: MITMH
     year: 2019
-    link: http://www.mit.edu/~puzzle/2019/solution/halloween_valentines_day.html
+    puzzle: http://www.mit.edu/~puzzle/2019/problem/halloween_valentines_day.html
+    solution: http://www.mit.edu/~puzzle/2019/solution/halloween_valentines_day.html
 - feeders:
     - ALEUROMANCY
     - ALL FOR ONE
@@ -1491,7 +1567,8 @@
   source:
     hunt: MITMH
     year: 2020
-    link: https://www.mit.edu/~puzzle/2020/puzzle/storybook_pals/solution/
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/storybook_pals/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/storybook_pals/solution/
 - feeders:
     - AMERICAN LEAGUER
     - BOLD STROKE
@@ -1514,7 +1591,8 @@
   source:
     hunt: MITMH
     year: 2020
-    link: https://www.mit.edu/~puzzle/2020/puzzle/carousel/solution/
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/carousel/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/carousel/solution/
 - feeders:
     - CRISPIN LIPSCOMB
     - FIREBALL ROBERTS
@@ -1530,7 +1608,8 @@
   source:
     hunt: MITMH
     year: 2020
-    link: https://www.mit.edu/~puzzle/2020/puzzle/castle/solution/
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/castle/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/castle/solution/
 - feeders:
     - ANGST
     - BEERS
@@ -1545,7 +1624,8 @@
   source:
     hunt: MITMH
     year: 2020
-    link: https://www.mit.edu/~puzzle/2020/puzzle/zeus/solution/
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/zeus/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/zeus/solution/
 - feeders:
     - FEET
     - FIRE
@@ -1559,7 +1639,8 @@
   source:
     hunt: MITMH
     year: 2020
-    link: https://www.mit.edu/~puzzle/2020/puzzle/jack/solution/
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/jack/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/jack/solution/
 - feeders:
     - ACM
     - CHAIN
@@ -1574,7 +1655,8 @@
   source:
     hunt: MITMH
     year: 2020
-    link: https://www.mit.edu/~puzzle/2020/puzzle/sam/solution/
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/sam/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/sam/solution/
 - feeders:
     - BURNT
     - FEET
@@ -1595,7 +1677,8 @@
   source:
     hunt: MITMH
     year: 2020
-    link: https://www.mit.edu/~puzzle/2020/puzzle/safari_adventure/solution/
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/safari_adventure/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/safari_adventure/solution/
 - feeders:
     - DNA
     - HEAP
@@ -1624,7 +1707,8 @@
   source:
     hunt: MITMH
     year: 2020
-    link: https://www.mit.edu/~puzzle/2020/puzzle/swimming_hole/solution/
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/swimming_hole/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/swimming_hole/solution/
 - feeders:
     - BASTILLE DAWN
     - DIY TEA
@@ -1644,7 +1728,8 @@
   source:
     hunt: teammate
     year: 2020
-    link: https://www.mit.edu/~puzzle/2020/puzzle/swimming_hole/solution/
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/swimming_hole/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/swimming_hole/solution/
 - feeders:
     - BARBARIOUS
     - METALLURGICAL
@@ -1654,7 +1739,7 @@
     - BLUEGILL
     - IMPRESARIO
     - SUPERFLUITIES
-    - NIGHTMARISH
+    - MARIANA ISLANDS
     - SPECTRAL RIGIDITY
   answer:
     - BRONZE STAR
@@ -1665,7 +1750,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/answer/
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/answer/
 - feeders:
     - MINARCHY
     - KIBITZ
@@ -1682,7 +1768,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/answer/
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/answer/
 - feeders:
     - ARA
     - BARBERING
@@ -1701,7 +1788,8 @@
   source:
     hunt: MITMH
     year: 2011
-    link: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/answer/
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/answer/
 - feeders:
     - BLOOD
     - CHOP SUEY
@@ -1720,7 +1808,8 @@
   source:
     hunt: MITMH
     year: 2015
-    link: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
 - feeders:
     - ARC DE TRIOMPHE SCALE MODEL
     - UV WAVE DETECTOR
@@ -1737,7 +1826,8 @@
   source:
     hunt: MITMH
     year: 2015
-    link: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
 - feeders:
     - THESAURUS
     - DECIDUOUS TOOTH
@@ -1751,7 +1841,8 @@
   source:
     hunt: MITMH
     year: 2015
-    link: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
 - feeders:
     - CACHE
     - BEADED CUBE
@@ -1765,7 +1856,8 @@
   source:
     hunt: MITMH
     year: 2015
-    link: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
 - feeders:
     - POLICE PICKUP TRUCK
     - CABINET
@@ -1782,7 +1874,8 @@
   source:
     hunt: MITMH
     year: 2015
-    link: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
 - feeders:
     - ANNABELLE
     - COCOA
@@ -1798,7 +1891,8 @@
   source:
     hunt: MITMH
     year: 2015
-    link: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
 - feeders:
     - RIB
     - NODE
@@ -1815,7 +1909,8 @@
   source:
     hunt: MITMH
     year: 2015
-    link: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
 - feeders:
     - CUE BALL
     - YOUTUBE
@@ -1830,7 +1925,8 @@
   source:
     hunt: MITMH
     year: 2015
-    link: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
 - feeders:
     - ARGUE
     - BERT
@@ -1850,7 +1946,8 @@
   source:
     hunt: GPH
     year: 2019
-    link: https://2019.galacticpuzzlehunt.com/solution/the-meta-puzzle.html
+    puzzle: https://2019.galacticpuzzlehunt.com/puzzle/the-meta-puzzle.html
+    solution: https://2019.galacticpuzzlehunt.com/solution/the-meta-puzzle.html
 - feeders:
     - ASSORT
     - EBB
@@ -1873,7 +1970,8 @@
   source:
     hunt: GPH
     year: 2019
-    link: https://2019.galacticpuzzlehunt.com/solution/the-meta-puzzle.html
+    puzzle: https://2019.galacticpuzzlehunt.com/puzzle/the-meta-puzzle.html
+    solution: https://2019.galacticpuzzlehunt.com/solution/the-meta-puzzle.html
 - feeders:
     - CUBANO
     - MACHINATE
@@ -1889,7 +1987,8 @@
   source:
     hunt: GPH
     year: 2019
-    link: https://2019.galacticpuzzlehunt.com/solution/the-meta-puzzle.html
+    puzzle: https://2019.galacticpuzzlehunt.com/puzzle/the-meta-puzzle.html
+    solution: https://2019.galacticpuzzlehunt.com/solution/the-meta-puzzle.html
 - feeders:
     - ALTMANN
     - BOB IGER
@@ -1914,7 +2013,8 @@
   source:
     hunt: GPH
     year: 2019
-    link: https://2019.galacticpuzzlehunt.com/solution/the-meta-puzzle.html
+    puzzle: https://2019.galacticpuzzlehunt.com/puzzle/the-meta-puzzle.html
+    solution: https://2019.galacticpuzzlehunt.com/solution/the-meta-puzzle.html
 - feeders:
     - MAP OF THE WORLD
     - THE COMPUTER
@@ -1934,4 +2034,5 @@
   source:
     hunt: MITMH
     year: 2013
-    link: http://web.mit.edu/puzzle/www/2013/coinheist.com/oceans_11/this_page_intentionally_left_blank/answer/index.html
+    puzzle: http://web.mit.edu/puzzle/www/2013/coinheist.com/oceans_11/this_page_intentionally_left_blank/index.html
+    solution: http://web.mit.edu/puzzle/www/2013/coinheist.com/oceans_11/this_page_intentionally_left_blank/answer/index.html
