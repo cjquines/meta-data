@@ -4,7 +4,7 @@ Data on pure-meta-styled puzzles from publicly available puzzlehunts. The main f
 
 Browse random metas from meta-data on [my website](https://cjquines.com/meta-data/).
 
-A "pure-meta-styled puzzle" expects the solver to combine several words and phrases (the "feeders") to create a new answer. The puzzle should has no content other than the feeders, and possibly flavor text, the puzzle title, and other small bits of info. It's a subjective definition and I'm using my judgment to determine what goes in and what doesn't.
+A "pure-meta-styled puzzle" expects the solver to combine several words and phrases (the "feeders") to create a new answer. The puzzle should has no content other than the feeders, and possibly flavor text, the puzzle title, and other small bits of info. It's a subjective definition and I'm using my judgment to determine what goes in and what doesn't. When in doubt, my rule is "would seeing it at random help someone feel like they're getting better at solving pure metas?"
 
 The schema is:
 
@@ -35,8 +35,8 @@ The schema is:
 ```
 
 Indexed hunts:
-- MITMH: MIT Mystery Hunt (2000 to 2020)
-- GPH: Galactic Puzzle Hunt (2019)
-- teammate: teammate hunt (2020)
+- MITMH: MIT Mystery Hunt (2000 to 2021)
+- GPH: Galactic Puzzle Hunt (2017 to 2020)
+- teammate: teammate hunt (2020 to 2021)
 
 I'm open to adding more hunts as long as both puzzles and solutions are publicly available online, and the hunt has a stable URL. Contributions welcome.

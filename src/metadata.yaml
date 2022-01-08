@@ -2039,3 +2039,61 @@
     year: 2013
     puzzle: http://web.mit.edu/puzzle/www/2013/coinheist.com/oceans_11/this_page_intentionally_left_blank/index.html
     solution: http://web.mit.edu/puzzle/www/2013/coinheist.com/oceans_11/this_page_intentionally_left_blank/answer/index.html
+- feeders:
+    - COSMOPOLITAN
+    - FUEGO
+    - MARCO REUS
+    - MILO READY-TO-DRINK
+    - NAPOLEON
+  answer:
+    - RAINBOW
+  tags:
+    - semantic
+  flavor: |
+    Walking through the floors of New House, you see that the dorm still has a vibrant culture.
+    (Disclaimer: Not all of ⊥IW's recent history is exactly the same as MIT's. Please use information from 2016 when solving this puzzle.)
+  source:
+    hunt: MITMH
+    year: 2021
+    puzzle: https://puzzles.mit.edu/2021/puzzle/new-house/
+    solution: https://puzzles.mit.edu/2021/puzzle/new-house/solution/
+- feeders:
+    - VICTORY CELEBRATION
+    - THE HITCHHIKER'S GUIDE TO THE GALAXY
+    - NUMBER ONE SINGLE
+    - LOCKS HORNS
+    - PEACE BE WITH YOU
+    - GAME BIRD
+    - OK CORRAL
+    - NEW YORK I LOVE YOU BUT YOU'RE BRINGING ME DOWN
+    - SECOND PLACE IS THE FIRST LOSER
+  answer:
+    - BUNNY EARS
+  tags:
+    - semantic
+    - binary
+  flavor: The 9 teams in this conference have developed an interesting method of communication. Can you figure out what their secret is?
+  source:
+    hunt: GPH
+    year: 2017
+    puzzle: https://2017.galacticpuzzlehunt.com/puzzle/6/3.html
+    solution: https://2017.galacticpuzzlehunt.com/solution/6/3.html
+- feeders:
+    - ANAGRAM SOLVER
+    - BLANKS
+    - FERMAT'S PRINCIPLE
+    - GOLDWYN
+    - PASIPHAE
+    - PSYCHOPATHY
+    - STADIUM ANTHEM
+    - SYNTONIC COMMA
+  flavor: |
+    You open your cookies to find tiny strips of paper with strange symbols strewn across them.
+    "A firm understanding will lead to success."
+    Lucky numbers: 24, 303, 74, 328, 298, 424, 182, 8
+  note: The meta title is Fortune Cookies.
+  answer:
+    - BEST SELLING CRIME NOVEL
+  tags:
+    - syntactic
+    - overlapping
