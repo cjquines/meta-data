@@ -2087,13 +2087,105 @@
     - PSYCHOPATHY
     - STADIUM ANTHEM
     - SYNTONIC COMMA
-  flavor: |
-    You open your cookies to find tiny strips of paper with strange symbols strewn across them.
-    "A firm understanding will lead to success."
-    Lucky numbers: 24, 303, 74, 328, 298, 424, 182, 8
-  note: The meta title is Fortune Cookies.
   answer:
     - BEST SELLING CRIME NOVEL
   tags:
     - syntactic
     - overlapping
+  flavor: |
+    You open your cookies to find tiny strips of paper with strange symbols strewn across them.
+    "A firm understanding will lead to success."
+    Lucky numbers: 24, 303, 74, 328, 298, 424, 182, 8
+  note: The meta title is Fortune Cookies.
+  source:
+    hunt: GPH
+    year: 2018
+    puzzle: https://2018.galacticpuzzlehunt.com/puzzle/fortune-cookies.html
+    solution: https://2018.galacticpuzzlehunt.com/solution/fortune-cookies.html
+- feeders:
+    - SABRE OF IVORY
+    - KEYS OF BRONZE
+    - SILVER TURNIP
+    - FLEXIBLE FACE
+    - POT OF PEANUTS
+    - BITTER LIQUOR
+    - TRENDY WALLET
+    - TURQUOISE GEM
+    - AWFUL RECORDS
+    - GLOWING SPEAR
+    - STUPID OLD APE
+    - HARMLESS DUST
+  answer:
+    - A ROSE BOUQUET
+  tags:
+    - syntactic
+  flavor: |
+    Once you've obtained all twelve Objects, you may perform a Ritual with them. This consists of arranging the Objects into three different configurations.
+    Your first configuration is fairly traditional. Use divine inspiration to clear up possibile ambiguities. If you are perceptive, the second and third configurations will follow.
+    If the gods are pleased, they will turn the Objects into your final reward.
+  note: Each answer is associated with one of the Labors of Hercules, in the listed order.
+  source:
+    hunt: Halpin
+    year: 2006
+    puzzle: http://www.markhalpin.com/labintpage/liritual.html
+    solution: http://www.markhalpin.com/labintpage/solutions/ritualsol.html
+- feeders:
+    - AFRICANUS
+    - AMAZINGLY
+    - AMPHITHEATER
+    - BOOTSTRAPS
+    - CAROUSED
+    - TAKEFLIGHT
+    - UNCHARTED
+  answer:
+    - A DELUGE
+  tags:
+    - semantic
+    - substring
+  note: The meta title is Chamber of Fire.
+  source:
+    hunt: Halpin
+    year: 2010
+    puzzle: http://www.markhalpin.com/puzzles/wisht/wtanswers/fire.html
+    solution: http://www.markhalpin.com/puzzles/wisht/wtsolutions/firesol.pdf
+- feeders:
+    - ALTERNATIVE
+    - BASMATI
+    - CUPIDITY
+    - DESPITE
+    - EXPENSE
+    - FUNCTION
+    - GREENHORN
+    - HECATOMB
+  answer:
+    - CRAMPONS
+  tags:
+    - semantic
+    - syntactic
+    - substring
+  note: The meta title is Chamber of Ice.
+  source:
+    hunt: Halpin
+    year: 2010
+    puzzle: http://www.markhalpin.com/puzzles/wisht/wtanswers/ice.html
+    solution: http://www.markhalpin.com/puzzles/wisht/wtsolutions/icesol.pdf
+- feeders:
+    - AIRS
+    - ASPIRER
+    - COMRADELY
+    - DROWNS
+    - FOLIO
+    - LOWER CLASS
+    - RECEIVAL
+    - RECONSTRUCT
+    - XIA
+  answer:
+    - IRON SIDES
+  tags:
+    - syntactic
+  note: The meta title is Chamber of Blades.
+  source:
+    hunt: Halpin
+    year: 2010
+    puzzle: http://www.markhalpin.com/puzzles/wisht/wtanswers/blades.html
+    solution: http://www.markhalpin.com/puzzles/wisht/wtsolutions/bladessol.pdf
