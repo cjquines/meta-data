@@ -2278,3 +2278,147 @@
     year: 2018
     puzzle: http://2018.caltechpuzzlehunt.org/puzzle/the-dodecahedrons-advent-calendar/index.html
     solution: http://2018.caltechpuzzlehunt.org/solution/the-dodecahedrons-advent-calendar/index.html
+- feeders:
+    - ENVIRONMENT
+    - EXCEPT
+    - FASTEN
+    - GROOVY
+    - SURMISE
+    - WASTING
+    - YEARNING
+  answer:
+    - INFER NO
+  tags:
+    - syntactic
+  flavor: Candela looks upset. "I've spoken to Blanche, one-to-one—through words, via letters—I've even written poetry about our teams coexisting! But she's been very frosty towards me... how should I respond to her replies?"
+  note: The meta title is Candela's Mystic Correspondence. The hunt is about Pokemon Go.
+  source:
+    hunt: Silph
+    year: 2021
+    puzzle: https://silphpuzzlehunt.com/puzzle/candelas-mystic-correspondence
+    solution: https://silphpuzzlehunt.com/solution/candelas-mystic-correspondence
+- feeders:
+    - DREAMINESS
+    - FLOW STATE
+    - MOB HYSTERIA
+    - PHENYL RING
+    - SURVIVAL TOOLS
+    - VOLUNTEER CAMPAIGNS
+    - WARCRAFT ADVENTURES
+  answer:
+    - BLAST AC
+  tags:
+    - syntactic
+    - substring
+  flavor: Blanche looks concerned. "I've heard Spark's units have been mixing in amongst our organization... how can I remain cool about this situation?"
+  note: The meta title is Blanche's Social Instinct.
+  source:
+    hunt: Silph
+    year: 2021
+    puzzle: https://silphpuzzlehunt.com/puzzle/blanches-social-instinct
+    solution: https://silphpuzzlehunt.com/solution/blanches-social-instinct
+- feeders:
+    - FIREBIRD XL
+    - OPENING CEREMONY
+    - SIGN CONVENTION
+    - SNAKE EGGPLANT
+    - SULFUR QUENCHING
+    - WISE ELDERS
+    - ZERO CHANCE
+  answer:
+    - RUN RIOT
+  tags:
+    - semantic
+  flavor: |
+    Spark looks troubled. "Candela sure has it good. When valor's the name of the game, her agents will go to any lengths to show off their key abilities... how can we gain more control over the game?"
+    (Note: This puzzle is intended to be solved using the official, English-language site.)
+  source:
+    hunt: Silph
+    year: 2021
+    puzzle: https://silphpuzzlehunt.com/puzzle/sparks-stolen-valor
+    solution: https://silphpuzzlehunt.com/solution/sparks-stolen-valor
+- feeders:
+    - ACAI LUNCH
+    - DANCING HORSES
+    - HEADLINE ACT
+    - IRRATIONAL FEAR
+    - MOVING PLATFORM
+    - RAT DISAGREES
+    - SUFFERING PROCESS
+    - WRECK RACETRACKS
+  answer:
+    - TACO CART
+  tags:
+    - syntactic
+    - overlapping
+  flavor: Everyone split up into pairs to look for Waldo in each of the three scenes. Where can he be found?
+  source:
+    hunt: Rojak
+    year: 2021
+    puzzle: https://www.puzzlerojak.com/puzzle/meta1
+    solution: https://www.puzzlerojak.com/solution/meta1
+- feeders:
+    - UNENDING STRUGGLE
+    - VILLAGE OFFICER
+    - PRODUCERS BROADCAST
+    - EMERALD DIAMOND
+    - OBLIQUE REPLIES
+    - GNAWING THROUGH
+    - TEA BIB
+    - CASHLESS COACHING
+  answer:
+    - DETACHED BUILDING
+  tags:
+    - syntactic
+    - overlapping
+  flavor: Everyone split up into pairs to look for Waldo in each of the three scenes. Where can he be found?
+  source:
+    hunt: Rojak
+    year: 2021
+    puzzle: https://www.puzzlerojak.com/puzzle/meta2
+    solution: https://www.puzzlerojak.com/solution/meta2
+- feeders:
+    - BAZAAR DILEMMA
+    - FLIPPROOF
+    - JOHN COLLIER
+    - KINDER EGG SUPRIRSES
+    - LETTER FROM HAWAII
+    - NAVAL COMMANDER
+    - QUEEN OF THE GREEN
+    - X AND Y ANNOUNCEMENT
+    - YACHT TRAINEE
+    - ZOOLOGISTS
+  answer:
+    - POOL TEAM MEETING
+  tags:
+    - syntactic
+  flavor: Everyone split up into pairs to look for Waldo in each of the three scenes. Where can he be found?
+  source:
+    hunt: Rojak
+    year: 2021
+    puzzle: https://www.puzzlerojak.com/puzzle/meta3
+    solution: https://www.puzzlerojak.com/solution/meta3
+- feeders:
+    - THICCEST
+    - EISNER NOMINEE
+    - SEVEN NATION ARMY
+    - PETER PETTIGREW
+    - LATE EVENING
+    - CHROMATIC ABERRATION
+    - POWWOWING
+    - FOOL AROUND
+    - CHERRY TOMATO
+    - SKEDADDLE
+  answer:
+    - CENTER WORD OF TEN SNAPPLE CAP FACTS
+  tags:
+    - syntactic
+  flavor: |
+    Initially, the fountain doesn't seem extraordinary. You'd better double back after tasting the drinks.
+    What do you need before you can unlock the mysteries of the fountain?
+    Answer: (10 letters) OF (18 letters)
+  source:
+    hunt: Paradox
+    year: 2021
+    puzzle: https://paradoxpuzzlehunt.com/puzzle11
+    solution: https://paradoxpuzzlehunt.com/soln11

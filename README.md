@@ -41,5 +41,8 @@ Indexed hunts:
 - Halpin: Mark Halpin's Labor Day Extravaganza (2006 to 2020)
 - REDDOT: REDDOThunt (2017 to 2020)
 - Caltech: Caltech Puzzle Hunt (2018)
+- Silph: Silph Puzzle Hunt (2021)
+- Paradox: Paradox Puzzlehunt (2021)
+- Rojak: Puzzle Rojak (2021)
 
 I'm open to adding more hunts as long as both puzzles and solutions are publicly available online, and the hunt has a stable URL. Contributions welcome.
