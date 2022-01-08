@@ -17,7 +17,7 @@
     - chain
     - syntactic
   note: This one has two answers; one "username" and one "password".
-  source: 
+  source:
     hunt: MITMH
     year: 2000
     puzzle: http://web.mit.edu/puzzle/www/2000/set1/index.html
@@ -40,7 +40,7 @@
     - semantic
     - phrases
   note: This one has two answers; one "username" and one "password".
-  source: 
+  source:
     hunt: MITMH
     year: 2000
     puzzle: http://web.mit.edu/puzzle/www/2000/set2/index.html
@@ -61,7 +61,7 @@
     - syntactic
     - music
   note: This one has two answers; one "username" and one "password".
-  source: 
+  source:
     hunt: MITMH
     year: 2000
     puzzle: http://web.mit.edu/puzzle/www/2000/set4/index.html
@@ -82,7 +82,7 @@
     - syntactic
     - solfege
   note: This one has two answers; one "username" and one "password".
-  source: 
+  source:
     hunt: MITMH
     year: 2000
     puzzle: http://web.mit.edu/puzzle/www/2000/set5/index.html
@@ -107,7 +107,7 @@
     - syntactic
     - grid
   note: This one has two answers.
-  source: 
+  source:
     hunt: MITMH
     year: 2001
     puzzle: http://web.mit.edu/puzzle/www/2001/
@@ -772,7 +772,7 @@
     - OYSTER
     - ORANGE PEEL
     - CHARCOAL BURNER
-    - PANTHER 
+    - PANTHER
     - CANNONBALL
     - JACK O' LANTERN
     - FRIED CHICKEN
@@ -791,7 +791,7 @@
     - JACK DAWSON
     - DOMINIC SOREL
     - ECHO
-    - CONNOR MACLEOD 
+    - CONNOR MACLEOD
     - WINTHROP PAROO
   answer:
     - PIRANHA
@@ -807,7 +807,7 @@
     - SAFETY LAST
     - VEGANISM
     - SALTAIR
-    - URI GELLER 
+    - URI GELLER
     - WASATCH
     - ASHAMED
   answer:
