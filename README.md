@@ -38,5 +38,8 @@ Indexed hunts:
 - MITMH: MIT Mystery Hunt (2000 to 2021)
 - GPH: Galactic Puzzle Hunt (2017 to 2020)
 - teammate: teammate hunt (2020 to 2021)
+- Halpin: Mark Halpin's Labor Day Extravaganza (2006 to 2020)
+- REDDOT: REDDOThunt (2017 to 2020)
+- Caltech: Caltech Puzzle Hunt (2018)
 
 I'm open to adding more hunts as long as both puzzles and solutions are publicly available online, and the hunt has a stable URL. Contributions welcome.

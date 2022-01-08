@@ -2189,3 +2189,92 @@
     year: 2010
     puzzle: http://www.markhalpin.com/puzzles/wisht/wtanswers/blades.html
     solution: http://www.markhalpin.com/puzzles/wisht/wtsolutions/bladessol.pdf
+- feeders:
+    - APPLE
+    - EINKORN
+    - ELASTANE
+    - IVORY PEARL
+    - LEVIATHAN
+    - NAVAL SHIPS
+    - ONLINE
+    - RED BULL
+    - SHALE
+    - TIMBER
+    - UTILITY
+    - VOUSSOIR
+  answer:
+    - TRIBUTE
+  tags:
+    - semantic
+  flavor: As you complete the stations, you size up your competitors -- many of whom are having discussions with their mentors -- and hope that luck will always be in your favour. But what can you offer to win the judges' approval?
+  source:
+    hunt: REDDOT
+    year: 2017
+    puzzle: https://reddothunt.sg/2017/puzzle/talent-contest
+    solution: https://reddothunt.sg/2017/solution/talent-contest
+- feeders:
+    - BRONCO
+    - ENGINATOR
+    - FOUR LINES
+    - NITRO
+    - OMURICE
+    - ROLAND
+    - SCENARIO
+    - THE CENTRIUM
+    - UNSETTING
+  answer:
+    - CASTOR OIL
+  tags:
+    - syntactic
+    - periodic table
+  flavor: To your dismay, you were unable to recreate the serum with the ingredients you gathered. You suspect that the ingredients have been contaminated with an unknown impurity. What is the impurity?
+  source:
+    hunt: REDDOT
+    year: 2018
+    puzzle: https://reddothunt.sg/2018/puzzle/failed-lab-experiment
+    solution: https://reddothunt.sg/2018/solution/failed-lab-experiment
+- feeders:
+    - CIRQUE DU SOLEIL
+    - CROSSING OVER
+    - DEMOGORGONS
+    - GHOST IN THE SHELL
+    - GUY SMILEY
+    - LUNCHEONETTES
+    - TRAGICOMIC
+  answer:
+    - SIGN OUT
+  tags:
+    - syntactic
+    - substring
+  flavor: You think to yourself how you wanted to go to the local museum today, for example, or maybe apply for some jobs. But there's so much info online!
+  note: The meta title is Too Little to Do.
+  source:
+    hunt: Caltech
+    year: 2018
+    puzzle: http://2018.caltechpuzzlehunt.org/puzzle/too-little-to-do/index.html
+    solution: http://2018.caltechpuzzlehunt.org/solution/too-little-to-do/index.html
+- feeders:
+    - BANDAIDS
+    - CHINSTRAP
+    - EXTRAPOLATING
+    - GALLING
+    - GLADDEST
+    - GUNDREMMINGEN
+    - SEAN SOUTH
+    - SPICING
+    - SUEDE VEST
+    - TABLOIDS
+    - THINGS FALL APART
+    - UPWARD
+  answer:
+    - WEIGHTED DICE
+  tags:
+    - syntactic
+    - substring
+  flavor: Do you think this happens every day?
+  note: The meta title is The Dodecahedron's Advent Calendar.
+  source:
+    hunt: Caltech
+    year: 2018
+    puzzle: http://2018.caltechpuzzlehunt.org/puzzle/the-dodecahedrons-advent-calendar/index.html
+    solution: http://2018.caltechpuzzlehunt.org/solution/the-dodecahedrons-advent-calendar/index.html
