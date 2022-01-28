@@ -1731,8 +1731,8 @@
   source:
     hunt: teammate
     year: 2020
-    puzzle: https://teammatehunt.com/puzzles/alone-play-along
-    solution: https://teammatehunt.com/solutions/alone-play-along
+    puzzle: https://2020.teammatehunt.com/puzzles/alone-play-along
+    solution: https://2020.teammatehunt.com/solutions/alone-play-along
 - feeders:
     - BARBARIOUS
     - METALLURGICAL
