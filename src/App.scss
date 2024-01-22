@@ -15,13 +15,18 @@
 }
 
 .header {
-  border-bottom: 1px solid var(--secondary-color);
   padding: 0.5em 0 0.75em;
+  border-bottom: 1px solid var(--secondary-color);
 }
 
 .info {
   display: flex;
   justify-content: space-between;
+
+  .buttons {
+    display: flex;
+    gap: 0.5em;
+  }
 
   button {
     margin: 0;
@@ -47,7 +52,35 @@
   }
 }
 
+.filters {
+  border-top: 1px solid var(--secondary-color);
+  margin-top: 0.75em;
+  padding-top: 0.75em;
+
+  span.selected {
+    background-color: var(--tertiary-color);
+  }
+
+  .filter {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+
+    div {
+      border: 1px solid var(--secondary-color);
+      cursor: pointer;
+      padding: 0.2em 0.4em;
+    }
+
+    .selected {
+      background-color: var(--tertiary-color);
+    }
+  }
+}
+
 .submit {
+  padding-top: 0.75em;
   text-align: center;
 }
 
