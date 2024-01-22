@@ -35,14 +35,18 @@ The schema is:
 ```
 
 Indexed hunts:
-- MITMH: MIT Mystery Hunt (2000 to 2021)
-- GPH: Galactic Puzzle Hunt (2017 to 2020)
+- MITMH: MIT Mystery Hunt (2000 to 2023)
+- GPH: Galactic Puzzle Hunt (2017 to 2023)
 - teammate: teammate hunt (2020 to 2021)
-- Halpin: Mark Halpin's Labor Day Extravaganza (2006 to 2020)
-- REDDOT: REDDOThunt (2017 to 2020)
+- Halpin: Mark Halpin's Labor Day Extravaganza (2006 to 2023)
+- REDDOT: REDDOThunt (2017 to 2022)
 - Caltech: Caltech Puzzle Hunt (2018)
 - Silph: Silph Puzzle Hunt (2021)
 - Paradox: Paradox Puzzlehunt (2021)
 - Rojak: Puzzle Rojak (2021)
+- QOPH: Quantum Online Puzzle Hunt (2022)
+- Huntinality: Huntinality (2021 to 2023)
+- ECPH: EC Puzzle Hunt (2023)
+- Shardhunt: Shardhunt (2023)
 
-I'm open to adding more hunts as long as both puzzles and solutions are publicly available online, and the hunt has a stable URL. Contributions welcome.
+I'm open to adding more hunts as long as both puzzles and solutions are publicly available online, and the hunt has a stable URL (which excludes, say, the Mystery Hunt, until it is archived). Contributions welcome.

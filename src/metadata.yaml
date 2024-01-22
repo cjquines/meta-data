@@ -334,17 +334,17 @@
     puzzle: http://web.mit.edu/puzzle/www/2005/setec/
     solution: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-6-solution.html
 - feeders:
-   - CHICAGO
-   - DARLING
-   - DICK TRACY
-   - FARGO
-   - GLADIATOR
-   - IN THE HEAT OF THE NIGHT
-   - JULIA
-   - NO MAN'S LAND
-   - PAPER MOON
-   - TARZAN
-   - WITNESS
+    - CHICAGO
+    - DARLING
+    - DICK TRACY
+    - FARGO
+    - GLADIATOR
+    - IN THE HEAT OF THE NIGHT
+    - JULIA
+    - NO MAN'S LAND
+    - PAPER MOON
+    - TARZAN
+    - WITNESS
   answer:
     - REPLICATING
   tags:
@@ -2058,6 +2058,119 @@
     puzzle: https://puzzles.mit.edu/2021/puzzle/new-house/
     solution: https://puzzles.mit.edu/2021/puzzle/new-house/solution/
 - feeders:
+    - MEASURE
+    - PERMITTIVITY
+    - TORQUE
+    - SIGNIFICANCE
+  answer:
+    - META
+  tags:
+    - semantic
+  source:
+    hunt: MITMH
+    year: 2021
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+- feeders:
+    - ABOARD
+    - BECAME
+    - CASSIOPEIA
+    - DEAD
+    - ESSENTIAL
+    - FOREGO
+    - GRAVIMETRIC
+    - HYPERLINK
+    - IS
+  answer:
+    - DEADLOCKS
+  tags:
+    - syntactic
+  source:
+    hunt: MITMH
+    year: 2021
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+- feeders:
+    - CUT TIME
+    - TRIPLETS
+    - ALIGNED
+    - SOLD-OUT SHOW
+  answer:
+    - STRAIGHT
+  tags:
+    - semantic
+  source:
+    hunt: MITMH
+    year: 2021
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+- feeders:
+    - CANON
+    - ENFORCES
+    - ONLINE
+    - RAMMING
+    - SITE
+    - STRATAGEM
+  answer:
+    - SCORES
+  tags:
+    - syntactic
+  source:
+    hunt: MITMH
+    year: 2021
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+- feeders:
+    - APPRENTICE
+    - PETERSBURG'S
+    - UNDETERRED
+    - REVOLTER
+    - SERIOUS
+  answer:
+    - PRINTER'S DEVILRY
+  tags:
+    - syntactic
+  source:
+    hunt: MITMH
+    year: 2021
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+- feeders:
+    - CRACKING
+    - RARE
+    - MYSTERY
+    - CARPOPHYTE
+    - SPOTTED
+    - WITHIN
+    - DECCAN
+  answer:
+    - CRYPTIC
+  tags:
+    - syntactic
+  source:
+    hunt: MITMH
+    year: 2021
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+- feeders:
+    - TALIA
+    - GERINI
+    - HAD
+    - ALONG
+    - OLE-TIMERS
+    - NAPS
+    - HOTELS
+    - WEEDS
+  answer:
+    - VACATION
+  tags:
+    - syntactic
+  source:
+    hunt: MITMH
+    year: 2021
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+- feeders:
     - VICTORY CELEBRATION
     - THE HITCHHIKER'S GUIDE TO THE GALAXY
     - NUMBER ONE SINGLE
@@ -2422,3 +2535,505 @@
     year: 2021
     puzzle: https://paradoxpuzzlehunt.com/puzzle11
     solution: https://paradoxpuzzlehunt.com/soln11
+- feeders:
+    - ALAMOGORDO
+    - BIBLIOKLEPT
+    - BROOK
+    - COATROOM
+    - DESKTOP PACKAGE TRACKER
+    - FOLKETING
+    - KARAKORAM RANGE
+    - KINGS CROSS ST PANCRAS
+    - MARK ROTHKO
+    - OTHELLO
+    - PHOTOSHOOT
+    - SHOSTAKOVICH
+    - SKYLARKS
+  answer:
+    - A CRYING SHAMUS
+  tags:
+    - semantic
+    - syntactic
+    - morse
+  flavor: Chief Inspector Endeavour is perplexedly pursuing a perpetrator with the code name “C” who’s been pussyfooting around Noirleans. Could that be the perp who purloined the component? Perhaps.
+  source:
+    hunt: MITMH
+    year: 2022
+    puzzle: https://puzzles.mit.edu/2022/puzzle/the-case-of-the-missing-component/
+    solution: https://puzzles.mit.edu/2022/puzzle/the-case-of-the-missing-component/solution/
+- feeders:
+    - STAND TALL
+    - BROADWAY
+    - PINE LOG
+    - CAT FUR
+    - MIDBRAIN
+    - EGG CRACKER
+    - BOB LEMON
+    - ONE-STEP
+    - STARTUP FUNDING
+    - CONTRACT BRIDGE
+    - BOOT JACK
+    - POACHED SOLE
+  answer:
+    - SYNONYM TOAST
+  tags:
+    - semantic
+    - syntactic
+    - letter change
+  flavor: You look through all the reference books, but you get the sense that something's gone, missing, not there. What is it?
+  source:
+    hunt: MITMH
+    year: 2022
+    puzzle: https://puzzles.mit.edu/2022/puzzle/reference-desk/
+    solution: https://puzzles.mit.edu/2022/puzzle/reference-desk/solution/
+- feeders:
+    - AMMUNITION
+    - DODGE MINIVAN
+    - EPONYM
+    - HAZARD
+    - SIDE MIRROR
+    - VOCATIONAL
+  answer:
+    - MINIMIZATION
+  tags:
+    - syntactic
+    - susbtring
+  note: The puzzle title is Inside Out; the page has the words sign, one, ruler, month, positive, animal.
+  source:
+    hunt: QOPH
+    year: 2022
+    puzzle: https://hunts.timwi.de/qoph/puzzle/inside-out
+    solution: https://hunts.timwi.de/qoph/puzzle/solution/inside-out
+- feeders:
+    - IRIS
+    - ME
+    - NEBRASKA
+    - REACHING BACK
+    - TEAPOT
+    - ULTRASONIC
+  answer:
+    - RUNTIME STACK
+  tags:
+    - syntactic
+  source:
+    hunt: Huntinality
+    year: 2022
+    puzzle: https://2022.huntinality.com/puzzles/huntinality_2_0_0_0_0_0_0
+    solution: https://2022.huntinality.com/solutions/huntinality_2_0_0_0_0_0_0
+- feeders:
+    - BIRD FLU
+    - BISMUTH
+    - CHRIST
+    - CYCLIST
+    - DAIRY PRODUCT
+    - DRAGGING OUT
+    - FUND
+    - FUR
+    - GALLON
+    - GATOR
+    - HIGH
+    - HIS
+    - JANITOR
+    - JFK AIRPORT
+    - KENTUCKY
+    - KETCHUM
+    - LET UP
+    - LEXUS
+    - MENU
+    - MERCURY
+  answer:
+    - EDWARD VIII
+  tags:
+    - syntactic
+    - letter pattern
+  note: The puzzle title is Shared Samples.
+  source:
+    hunt: GPH
+    year: 2022
+    puzzle: https://2022.galacticpuzzlehunt.com/puzzle/shared-samples
+    solution: https://2022.galacticpuzzlehunt.com/solution/shared-samples
+- feeders:
+    - KO-D SIX MAN TAG TEAM CHAMPIONSHIP
+    - DENSITY FUNCTION
+    - BEEF TARTARE
+    - BARBADIAN SPEECH PATTERN
+    - ABSTRACT MEMES
+    - CAR OF DISTINCTION
+    - I'M N LUV (WIT A STRIPPER)
+    - CUSTOM FIT POLO
+  answer:
+    - WINGED IT
+  tags:
+    - syntactic
+    - semantic
+  flavor: The biggest attraction of the Natural History Collection isn’t in the main hall, where you expected it to be. What did the curators do to it?
+  note: The round title is Natural History Collection. The puzzle title is The King.
+  source:
+    hunt: MITMH
+    year: 2023
+    puzzle: https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/the-king
+    solution: https://puzzles.mit.edu/2023/interestingthings.museum/solutions/the-king
+- feeders:
+    - COMA WHITE
+    - CONSULTING DETECTIVE
+    - DANCER
+    - I DUE FOSCARI
+    - INSIDE OUT
+    - ISSACHAR
+    - JUPITER
+    - JUSTIFY
+    - LITHIUM
+    - MANHASSET
+    - MOUNT WARIO
+    - PI
+    - SAMUEL WESLEY STRATTON
+    - SOLID YELLOW
+    - WAR STORIES
+    - WATERLESS MOUNTAIN
+  answer:
+    - PEN MULTIPLE MATES
+  tags:
+    - semantic
+  flavor: You're almost but not quite at the end of investigating teammate's office. While they were writing the hunt, what would they do?
+  note: This puzzle was released on January 13, 2023.
+  source:
+    hunt: MITMH
+    year: 2023
+    puzzle: https://puzzles.mit.edu/2023/puzzlefactory.place/office/the-filing-cabinet
+    solution: https://puzzles.mit.edu/2023/puzzlefactory.place/solutions/the-filing-cabinet
+- feeders:
+    - ATTIC
+    - CLICK
+    - LIBEL
+    - CHEEK
+    - BETTA
+    - KEEL
+    - BETA
+    - CHIC
+    - LEEK
+    - WAKE
+  answer:
+    - MU
+  tags:
+    - syntactic
+  flavor: It's all black or white.
+  source:
+    hunt: Huntinality
+    year: 2023
+    puzzle: https://www.huntinality.com/puzzles/black_or_white
+    solution: https://www.huntinality.com/solutions/black_or_white
+- feeders:
+    - FELIX UNGAR
+    - FLIPPING MARKERS
+    - FOOTBALL TEAM DEFENSIVE COORDINATOR
+    - HYPERBOREAN BREW
+    - KEATONS DISFIGURED ARCHENEMY
+    - PLATFORM CURRENTLY KNOWN AS X
+    - SEVEN NATION ARMY
+    - VANITY OF DULUOZ
+    - WANAMAKER TROPHY AND CLARET JUG
+  answer:
+    - BUG EATING
+  tags:
+    - semantic
+  flavor: I've been jacked since the day I was born.
+  source:
+    hunt: Huntinality
+    year: 2023
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+- feeders:
+    - AMSTERDAMER
+    - ARCHIMEDES
+    - ASTRODOME
+    - GROOMSMEN
+    - LIGAMENTS
+    - MEDICARE
+    - OMELET
+    - SOMEONE
+    - SUBMERSED
+  answer:
+    - RAZORBACK
+  tags:
+    - syntactic
+    - substring
+  flavor: Can you spot me?
+  source:
+    hunt: Huntinality
+    year: 2023
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+- feeders:
+    - ANACONDA AFLAC DUCK
+    - CAST DORFMEISTER
+    - FOOLS GRADUATION
+    - FREDDIE ECHOGRAPHY
+    - NATE FANG
+    - PENCIL CAPABLE
+    - RIN TIN BASIN
+  answer:
+    - DIAMOND
+  tags:
+    - syntactic
+  flavor: I'm pumping iron.
+  source:
+    hunt: Huntinality
+    year: 2023
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+- feeders:
+    - DOG WHISTLE
+    - FABRI FIBRA
+    - LABORATORY
+    - MICHAEL BAY
+    - RETWEETING
+    - SOLID FOODS
+    - TIMOCRATIC
+  answer:
+    - WEBFOOT
+  tags:
+    - syntactic
+    - substring
+  flavor: This workout song is off the scale.
+  source:
+    hunt: Huntinality
+    year: 2023
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+- feeders:
+    - DISGUSTING MOUTH SMELL
+    - DON AN ALBATROSS AROUND YOUR NECK
+    - DON'T RUSH
+    - FOLK DEVIL
+    - HELICOPTER PARENT
+    - USELESS REMEDY
+    - VASTLY POWERFUL
+    - VEER ONTO A TANGENT
+    - WORKING THE CORPORATE LADDER
+  answer:
+    - WALRUSSIA
+  tags:
+    - semantic
+  flavor: He is such a gym rat.
+  source:
+    hunt: Huntinality
+    year: 2023
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+- feeders:
+    - MITHRA
+    - GLUTTON
+    - STARGAZE
+    - MARGARITA
+    - SALAMANDER
+    - PROTAGONIST
+    - SNOWMOBILERS
+    - SMALL SEA SNAIL
+  answer:
+    - TERRAPIN
+  tags:
+    - syntactic
+    - substring
+  flavor: Gonna get my protein.
+  source:
+    hunt: Huntinality
+    year: 2023
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+- feeders:
+    - BUG EATING
+    - RAZROBACK
+    - DIAMOND
+    - WEBFOOT
+    - WALRUSSIA
+    - TERRAPIN
+  answer:
+    - GO DOWN
+  tags:
+    - semantic
+  note: The puzzle title is How Many Reps?
+  source:
+    hunt: Huntinality
+    year: 2023
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+- feeders:
+    - ARABLE LAND
+    - DOMENICO DOLCE
+    - EXTREMELY LUSH
+    - HATSUNE MIKU
+    - INCREDIBLY TANKY
+    - LOUIS BOTHA
+    - TINY BIT
+  answer:
+    - CONTOUR
+  tags:
+    - syntactic
+  flavor: Puzzle Santa has been using a phone to keep connected, only tapping out the latter word of a pair each time.
+  source:
+    hunt: ECPH
+    year: 2023
+    puzzle: https://ecph.site/puzzle/puzzleboxes.html
+    solution: https://ecph.site/solution/puzzleboxes.html
+- feeders:
+    - ACQUIRED IMMUNITY
+    - AISLE
+    - CHESS
+    - DRESS
+    - ELVIS
+    - GEORGE GERSHWIN
+    - HARSH
+    - RELATIONSHIP
+    - RESIN
+    - SEMIFINALISTS
+    - SPRINGBOARD
+    - WEAK INTERACTION
+  answer:
+    - PRESS FORWARD
+  tags:
+    - syntactic
+    - morse
+  flavor: Puzzle Santa has left dotted notches for several words of identical length. In addition to them, you'll need dashes of some other items.
+  source:
+    hunt: ECPH
+    year: 2023
+    puzzle: https://ecph.site/puzzle/puzzleboxes.html
+    solution: https://ecph.site/solution/puzzleboxes.html
+- feeders:
+    - DEVANAGARI
+    - FRIGGA
+    - GAUL
+    - ISAAC
+    - LG CUP
+    - MORTGAGE
+  answer:
+    - DANGER
+  tags:
+    - syntactic
+  flavor: Puzzle Santa has left over some things that need to be translated.
+  note: The puzzle page has a picture of a double helix.
+  source:
+    hunt: ECPH
+    year: 2023
+    puzzle: https://ecph.site/puzzle/puzzleboxes.html
+    solution: https://ecph.site/solution/puzzleboxes.html
+- feeders:
+    - ACETALDEHYDE
+    - BATTLE OF TRAFALGAR
+    - CONTEMPORARIES
+    - DOGMATIC THEOLOGY
+    - ELONGATE
+    - FOREMOST
+    - GLIADIN
+    - HISTORIC VILLAGE
+    - INCHEON
+    - JEROME ROBBINS
+  answer:
+    - DASHT RIVER
+  tags:
+    - syntactic
+  flavor: Puzzle Santa has tried sending messages across the North Atlantic, but they got all mixed up.
+  source:
+    hunt: ECPH
+    year: 2023
+    puzzle: https://ecph.site/puzzle/puzzleboxes.html
+    solution: https://ecph.site/solution/puzzleboxes.html
+- feeders:
+    - BRAINWASH
+    - COTSWOLD LINE
+    - CYNWYD LINE
+    - INWARD-FACING
+    - JOHN WAYNE
+    - SLOT MACHINE
+    - SWIMMER
+    - SWORD COAST
+  answer:
+    - CUMULATE
+  tags:
+    - syntactic
+    - semaphore
+  flavor: Puzzle Santa has used his pair of compasses to navigate to faraway places.
+  note: The puzzle page has a picture of a flag.
+  source:
+    hunt: ECPH
+    year: 2023
+    puzzle: https://ecph.site/puzzle/puzzleboxes.html
+    solution: https://ecph.site/solution/puzzleboxes.html
+- feeders:
+    - DUNG BEETLE
+    - EARMUFFS
+    - EASTER EGG
+    - EBB AND FLOW
+    - IONIC COMPOUND
+    - NELSON RIDDLE
+    - REGIA AERONAUTICA
+    - ROUGHHOUSE
+    - BLOWN SAVE
+    - CONTOUR
+    - CUMULATE
+    - DASHT RIVER
+    - DANGER
+    - DOMINATION
+    - PRESS FORWARD
+    - VISIBLE LIGHT
+  answer:
+    - TRANSFIGURATIONS
+  tags:
+    - syntactic
+  note: The first eight feeders form a set of answers; the other eight feeders form another set of answers. The puzzle has a Christmas theme.
+  source:
+    hunt: ECPH
+    year: 2023
+    puzzle: https://ecph.site/puzzle/puzzleboxes.html
+    solution: https://ecph.site/solution/puzzleboxes.html
+- feeders:
+    - BABIES
+    - BANKS
+    - BELT
+    - BROAD
+    - COFFEE
+    - EYE
+    - GIBBON
+    - MAGIC
+    - MARKET
+    - NAVY
+    - PATIO
+    - POWERS
+    - SMART
+    - SMITH
+    - STRING
+    - VIGOROUS
+  answer:
+    - ROWAN ATKINSON
+  tags:
+    - semantic
+    - syntactic
+  flavor: Going back to school brings up a lot of questions. Who might help you make connections?
+  note: The puzzle page has four movie camera emojis.
+  source:
+    hunt: ECPH
+    year: 2023
+    puzzle: https://ecph.site/puzzle/backtoschool.html
+    solution: https://ecph.site/solution/backtoschool.html
+- feeders:
+    - TRAINED HUSKIES
+    - JINGLE DRESS
+    - TEMPLE STATION
+    - SPEED EATING
+    - WHISKEY BOTTLE
+    - ADVANCE SCOUT
+    - POMPEY LADIES
+    - PARTNER DEBATES
+    - HEALTHY GRAINS
+    - KINCHELOE AWARD
+    - CLOUD SEEDING
+  answer:
+    - ENTITLEMENT
+  tags:
+    - syntactic
+  flavor: We’ve lost track of our team! They were our initial solution, but now we'll need to pen some new ideas and put them on the shelf. What do we need to fix all of our issues?
+  source:
+    hunt: Shardhunt
+    year: 2023
+    puzzle: https://shardhunt.com/puzzle/death-of-the-library.html
+    solution: https://shardhunt.com/solution/death-of-the-library.html
