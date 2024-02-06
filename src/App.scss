@@ -66,11 +66,16 @@
     display: flex;
     flex-wrap: wrap;
     gap: 0.5em;
+    margin: 0.25em 0 0.75em;
 
     div {
       border: 1px solid var(--secondary-color);
       cursor: pointer;
       padding: 0.2em 0.4em;
+    }
+
+    input {
+      width: 4em;
     }
 
     .selected {
@@ -82,6 +87,17 @@
 .submit {
   padding-top: 0.75em;
   text-align: center;
+
+  form {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+
+  input {
+    margin: 1rem 0.25rem;
+    width: 20rem;
+  }
 }
 
 .flavor {

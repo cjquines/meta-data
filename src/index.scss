@@ -37,7 +37,6 @@ button {
   font-size: 0.9em;
   font-weight: bold;
   height: 2rem;
-  margin: 1rem 0.25rem;
   padding: 0.25rem 1rem 0.25rem;
   text-align: center;
   text-decoration: none;
@@ -45,6 +44,16 @@ button {
 
   &:hover {
     background-color: var(--secondary-color);
+  }
+
+  &.secondary {
+    background-color: transparent;
+    border: 2px solid var(--theme-color);
+    color: var(--theme-color);
+
+    &:hover {
+      background-color: var(--tertiary-color);
+    }
   }
 }
 
@@ -59,7 +68,5 @@ input {
   font: inherit;
   height: 2rem;
   line-height: normal;
-  margin: 1rem 0.25rem;
   padding: 0.25rem;
-  width: 20rem;
 }
