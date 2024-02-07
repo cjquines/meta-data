@@ -48,5 +48,6 @@ Indexed hunts:
 - Huntinality: Huntinality (2021 to 2023)
 - ECPH: EC Puzzle Hunt (2023)
 - Shardhunt: Shardhunt (2023)
+- MSPH: Microsoft Puzzle Hunt (2023)
 
 I'm open to adding more hunts as long as both puzzles and solutions are publicly available online, and the hunt has a stable URL (which excludes, say, the Mystery Hunt, until it is archived). Contributions welcome.

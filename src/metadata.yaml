@@ -2746,12 +2746,21 @@
     - AMSTERDAMER
     - ARCHIMEDES
     - ASTRODOME
+    - ATOLE
+    - BEDCHAIRS
+    - CARRIED
     - GROOMSMEN
     - LIGAMENTS
     - MEDICARE
     - OMELET
+    - OSTRACOD
+    - ROSEBUDS
+    - SNOOZE
     - SOMEONE
+    - SONOGRAM
+    - STARLING
     - SUBMERSED
+    - TRADEMARKS
   answer:
     - RAZORBACK
   tags:
@@ -2842,7 +2851,7 @@
     solution: https://www.huntinality.com/solutions/how_many_reps
 - feeders:
     - BUG EATING
-    - RAZROBACK
+    - RAZORBACK
     - DIAMOND
     - WEBFOOT
     - WALRUSSIA
@@ -3016,17 +3025,17 @@
     puzzle: https://ecph.site/puzzle/backtoschool.html
     solution: https://ecph.site/solution/backtoschool.html
 - feeders:
-    - TRAINED HUSKIES
-    - JINGLE DRESS
-    - TEMPLE STATION
-    - SPEED EATING
-    - WHISKEY BOTTLE
     - ADVANCE SCOUT
-    - POMPEY LADIES
-    - PARTNER DEBATES
-    - HEALTHY GRAINS
-    - KINCHELOE AWARD
     - CLOUD SEEDING
+    - HEALTHY GRAINS
+    - JINGLE DRESS
+    - KINCHELOE AWARD
+    - PARTNER DEBATES
+    - POMPEY LADIES
+    - SPEED EATING
+    - TEMPLE STATION
+    - TRAINED HUSKIES
+    - WHISKEY BOTTLE
   answer:
     - ENTITLEMENT
   tags:
@@ -3037,3 +3046,98 @@
     year: 2023
     puzzle: https://shardhunt.com/puzzle/death-of-the-library.html
     solution: https://shardhunt.com/solution/death-of-the-library.html
+- feeders:
+    - BRUT IMPERIAL
+    - CHOKE KNOBS
+    - CLUB SODA
+    - DECK ROOF
+    - DRUM KITS
+    - MAC TAYLOR
+    - MODERN CHIC
+    - ROY CHIAO
+    - URBAN HEAT
+  answer:
+    - DRUM KITS
+  tags:
+    - semantic
+    - rhyme
+  flavor: The secret of the fox spirit is an ancient mystery, but she won't squeal. What do you do to make her sing?
+  source:
+    hunt: MSPH
+    year: 2023
+    puzzle: https://puzzle.university/puzzle/music-meta.html
+    solution: https://puzzle.university/solution/music-meta.html
+- feeders:
+    - ARCANE
+    - BARELY
+    - CONDONES
+    - DIVESTING
+    - ERASURE
+    - FIBRED
+    - GRANDMASTER
+    - HEROES
+  answer:
+    - CROSSBAR
+  tags:
+    - syntactic
+  flavor: Biathlon competitors need to be able to complete two events, although they overlap a little.
+  source:
+    hunt: MSPH
+    year: 2023
+    puzzle: https://puzzle.university/puzzle/the-olympics.html
+    solution: https://puzzle.university/solution/the-olympics.html
+- feeders:
+    - ANIMAL LEGS
+    - ANTI-BIEBER
+    - HOUSEWIFE SURVEY
+    - INJUSTICE
+    - KOWDIAR PALACE
+    - NEWCHAPEL BISHOP
+    - OLD ROMAN BIBLE
+    - VOTER NUMBERS
+  answer:
+    - JOE GIBBS
+  tags:
+    - syntactic
+    - substring
+  flavor: Skeleton competitors need to know anatomy.
+  source:
+    hunt: MSPH
+    year: 2023
+    puzzle: https://puzzle.university/puzzle/the-olympics.html
+    solution: https://puzzle.university/solution/the-olympics.html
+- feeders:
+    - EMPTY BOX
+    - EXPERTLY
+    - FULL XRAY
+    - IMAX FILM
+    - REAR AXLE
+    - SIX SIDED
+    - SMALL AXE
+    - XMEN HERO
+  answer:
+    - OLD FLAME
+  tags:
+    - syntactic
+  flavor: Boxing competitors need to correctly place their cross punches.
+  source:
+    hunt: MSPH
+    year: 2023
+    puzzle: https://puzzle.university/puzzle/the-olympics.html
+    solution: https://puzzle.university/solution/the-olympics.html
+- feeders:
+    - CROSSBAR
+    - JOE GIBBS
+    - OLD FLAME
+    - NUMERALS
+    - REUNIONS
+  answer:
+    - BEAU
+  tags:
+    - syntactic
+  note: The puzzle title is The Olympics.
+  source:
+    hunt: MSPH
+    year: 2023
+    puzzle: https://puzzle.university/puzzle/the-olympics.html
+    solution: https://puzzle.university/solution/the-olympics.html
