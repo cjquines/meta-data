@@ -58,7 +58,7 @@
     - TOTO
     - RAINBOW
   tags:
-    - syntactic
+    - semantic
     - music
   note: This one has two answers; one "username" and one "password".
   source:
@@ -2408,8 +2408,8 @@
   source:
     hunt: Silph
     year: 2021
-    puzzle: https://silphpuzzlehunt.com/puzzle/candelas-mystic-correspondence
-    solution: https://silphpuzzlehunt.com/solution/candelas-mystic-correspondence
+    puzzle: https://2021.silphpuzzlehunt.com/puzzle/candelas-mystic-correspondence
+    solution: https://2021.silphpuzzlehunt.com/solution/candelas-mystic-correspondence
 - feeders:
     - DREAMINESS
     - FLOW STATE
@@ -2428,8 +2428,8 @@
   source:
     hunt: Silph
     year: 2021
-    puzzle: https://silphpuzzlehunt.com/puzzle/blanches-social-instinct
-    solution: https://silphpuzzlehunt.com/solution/blanches-social-instinct
+    puzzle: https://2021.silphpuzzlehunt.com/puzzle/blanches-social-instinct
+    solution: https://2021.silphpuzzlehunt.com/solution/blanches-social-instinct
 - feeders:
     - FIREBIRD XL
     - OPENING CEREMONY
@@ -2448,8 +2448,8 @@
   source:
     hunt: Silph
     year: 2021
-    puzzle: https://silphpuzzlehunt.com/puzzle/sparks-stolen-valor
-    solution: https://silphpuzzlehunt.com/solution/sparks-stolen-valor
+    puzzle: https://2021.silphpuzzlehunt.com/puzzle/sparks-stolen-valor
+    solution: https://2021.silphpuzzlehunt.com/solution/sparks-stolen-valor
 - feeders:
     - ACAI LUNCH
     - DANCING HORSES
@@ -2881,9 +2881,9 @@
   flavor: Puzzle Santa has been using a phone to keep connected, only tapping out the latter word of a pair each time.
   source:
     hunt: ECPH
-    year: 2023
-    puzzle: https://ecph.site/puzzle/puzzleboxes.html
-    solution: https://ecph.site/solution/puzzleboxes.html
+    year: 2022
+    puzzle: https://2022.ecph.site/puzzle/puzzleboxes.html
+    solution: https://2022.ecph.site/solution/puzzleboxes.html
 - feeders:
     - ACQUIRED IMMUNITY
     - AISLE
@@ -2905,9 +2905,9 @@
   flavor: Puzzle Santa has left dotted notches for several words of identical length. In addition to them, you'll need dashes of some other items.
   source:
     hunt: ECPH
-    year: 2023
-    puzzle: https://ecph.site/puzzle/puzzleboxes.html
-    solution: https://ecph.site/solution/puzzleboxes.html
+    year: 2022
+    puzzle: https://2022.ecph.site/puzzle/puzzleboxes.html
+    solution: https://2022.ecph.site/solution/puzzleboxes.html
 - feeders:
     - DEVANAGARI
     - FRIGGA
@@ -2923,9 +2923,9 @@
   note: The puzzle page has a picture of a double helix.
   source:
     hunt: ECPH
-    year: 2023
-    puzzle: https://ecph.site/puzzle/puzzleboxes.html
-    solution: https://ecph.site/solution/puzzleboxes.html
+    year: 2022
+    puzzle: https://2022.ecph.site/puzzle/puzzleboxes.html
+    solution: https://2022.ecph.site/solution/puzzleboxes.html
 - feeders:
     - ACETALDEHYDE
     - BATTLE OF TRAFALGAR
@@ -2944,9 +2944,9 @@
   flavor: Puzzle Santa has tried sending messages across the North Atlantic, but they got all mixed up.
   source:
     hunt: ECPH
-    year: 2023
-    puzzle: https://ecph.site/puzzle/puzzleboxes.html
-    solution: https://ecph.site/solution/puzzleboxes.html
+    year: 2022
+    puzzle: https://2022.ecph.site/puzzle/puzzleboxes.html
+    solution: https://2022.ecph.site/solution/puzzleboxes.html
 - feeders:
     - BRAINWASH
     - COTSWOLD LINE
@@ -2965,9 +2965,9 @@
   note: The puzzle page has a picture of a flag.
   source:
     hunt: ECPH
-    year: 2023
-    puzzle: https://ecph.site/puzzle/puzzleboxes.html
-    solution: https://ecph.site/solution/puzzleboxes.html
+    year: 2022
+    puzzle: https://2022.ecph.site/puzzle/puzzleboxes.html
+    solution: https://2022.ecph.site/solution/puzzleboxes.html
 - feeders:
     - DUNG BEETLE
     - EARMUFFS
@@ -2992,9 +2992,9 @@
   note: The first eight feeders form a set of answers; the other eight feeders form another set of answers. The puzzle has a Christmas theme.
   source:
     hunt: ECPH
-    year: 2023
-    puzzle: https://ecph.site/puzzle/puzzleboxes.html
-    solution: https://ecph.site/solution/puzzleboxes.html
+    year: 2022
+    puzzle: https://2022.ecph.site/puzzle/puzzleboxes.html
+    solution: https://2022.ecph.site/solution/puzzleboxes.html
 - feeders:
     - BABIES
     - BANKS
@@ -3021,9 +3021,9 @@
   note: The puzzle page has four movie camera emojis.
   source:
     hunt: ECPH
-    year: 2023
-    puzzle: https://ecph.site/puzzle/backtoschool.html
-    solution: https://ecph.site/solution/backtoschool.html
+    year: 2022
+    puzzle: https://2022.ecph.site/puzzle/backtoschool.html
+    solution: https://2022.ecph.site/solution/backtoschool.html
 - feeders:
     - ADVANCE SCOUT
     - CLOUD SEEDING
