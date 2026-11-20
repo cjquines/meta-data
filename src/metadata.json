@@ -462,6 +462,200 @@
   },
   {
     "feeders": [
+      "ANSWER",
+      "DOUBLESPEAK",
+      "COOS"
+    ],
+    "answer": [
+      "COUSCOUS"
+    ],
+    "tags": [
+      "syntactic",
+      "phonetic"
+    ],
+    "source": {
+      "hunt": "GPH",
+      "year": 2024,
+      "puzzle": "https://2024.galacticpuzzlehunt.com/puzzle/extremely_meta_puzzle",
+      "solution": "https://2024.galacticpuzzlehunt.com/solution/extremely_meta_puzzle"
+    }
+  },
+  {
+    "feeders": [
+      "PU",
+      "ONUS",
+      "DERIVE"
+    ],
+    "answer": [
+      "PONDER"
+    ],
+    "tags": [
+      "syntactic"
+    ],
+    "flavor": "This metapuzzle is all that’s left.",
+    "note": "The puzzle title is 1/2 Metapuzzle.",
+    "source": {
+      "hunt": "GPH",
+      "year": 2024,
+      "puzzle": "https://2024.galacticpuzzlehunt.com/puzzle/1_2_metapuzzle",
+      "solution": "https://2024.galacticpuzzlehunt.com/solution/1_2_metapuzzle"
+    }
+  },
+  {
+    "feeders": [
+      "PU",
+      "ONUS",
+      "DERIVE",
+      "PONDER"
+    ],
+    "answer": [
+      "USER"
+    ],
+    "tags": [
+      "syntactic"
+    ],
+    "flavor": "All right, you can have this one last puzzle.",
+    "note": "The puzzle title is 2/2 Metapuzzle.",
+    "source": {
+      "hunt": "GPH",
+      "year": 2024,
+      "puzzle": "https://2024.galacticpuzzlehunt.com/puzzle/2_2_metapuzzle",
+      "solution": "https://2024.galacticpuzzlehunt.com/solution/2_2_metapuzzle"
+    }
+  },
+  {
+    "feeders": [
+      "BANE",
+      "BIND",
+      "BLOT",
+      "BOOM",
+      "BULL",
+      "FOAM",
+      "FOWL",
+      "GNAT",
+      "GOUT",
+      "JOLT",
+      "KOAN",
+      "REAM",
+      "REED",
+      "ROAR",
+      "TALL",
+      "VOLE"
+    ],
+    "answer": [
+      "GOLD"
+    ],
+    "tags": [
+      "syntactic",
+      "letter change"
+    ],
+    "source": {
+      "hunt": "GPH",
+      "year": 2024,
+      "puzzle": "https://2024.galacticpuzzlehunt.com/puzzle/sixteen_words",
+      "solution": "https://2024.galacticpuzzlehunt.com/solution/sixteen_words"
+    }
+  },
+  {
+    "feeders": [
+      "ST. CATHERINE",
+      "BAY",
+      "NORTHERN BIG RIVER",
+      "SOUTHERN BIG RIVER"
+    ],
+    "answer": [
+      "WEST"
+    ],
+    "tags": [
+      "semantic"
+    ],
+    "note": "The puzzle title is Estados em ordem.",
+    "source": {
+      "hunt": "GPH",
+      "year": 2024,
+      "puzzle": "https://2024.galacticpuzzlehunt.com/puzzle/estados_em_ordem",
+      "solution": "https://2024.galacticpuzzlehunt.com/solution/estados_em_ordem"
+    }
+  },
+  {
+    "feeders": [
+      "POKEMON COMPETITIVE PLAY",
+      "BEXLEY HALL (MIT)",
+      "CAN'T SLEEP, CLOWN WILL EAT ME",
+      "THE WEATHER IN LONDON",
+      "SEXUAL PARTNER",
+      "THE BASEMENT TAPES",
+      "OVERWEIGHT",
+      "COMMON DEGU",
+      "COUGH MEDICINE"
+    ],
+    "answer": [
+      "FLOWCHART"
+    ],
+    "tags": [
+      "semantic"
+    ],
+    "note": "The puzzle title is List of really, really, really stupid article ideas.",
+    "source": {
+      "hunt": "GPH",
+      "year": 2024,
+      "puzzle": "https://2024.galacticpuzzlehunt.com/puzzle/list_of_really_really_really",
+      "solution": "https://2024.galacticpuzzlehunt.com/solution/list_of_really_really_really"
+    }
+  },
+  {
+    "feeders": [
+      "SCHUBERT'S 1ST",
+      "BRAHMS'S 4TH",
+      "HAYDN'S 2ND",
+      "MAHLER'S 6TH",
+      "DVORAK'S 6TH",
+      "SCRIABIN'S 1ST"
+    ],
+    "answer": [
+      "SHARKS",
+      "DECADE"
+    ],
+    "tags": [
+      "semantic",
+      "syntactic",
+      "music"
+    ],
+    "note": "This puzzle has two answers.",
+    "source": {
+      "hunt": "GPH",
+      "year": 2024,
+      "puzzle": "https://2024.galacticpuzzlehunt.com/puzzle/e69142ad",
+      "solution": "https://2024.galacticpuzzlehunt.com/solution/e69142ad"
+    }
+  },
+  {
+    "feeders": [
+      "MANGER",
+      "MECHS",
+      "MOANA",
+      "SATIS",
+      "STARFARING",
+      "TAROT"
+    ],
+    "answer": [
+      "CHANGE OF ART"
+    ],
+    "tags": [
+      "syntactic",
+      "semantic"
+    ],
+    "flavor": "Drink ⇄ Method / Objective ⇄ House / Trips ⇄ Beginning",
+    "note": "The puzzle title is Heart-to-Heart.",
+    "source": {
+      "hunt": "GPH",
+      "year": 2026,
+      "puzzle": "https://2026.galacticpuzzlehunt.com/puzzle/heart-to-heart",
+      "solution": "https://2026.galacticpuzzlehunt.com/solution/heart-to-heart"
+    }
+  },
+  {
+    "feeders": [
       "SABRE OF IVORY",
       "KEYS OF BRONZE",
       "SILVER TURNIP",
@@ -3591,6 +3785,271 @@
   },
   {
     "feeders": [
+      "CUTLERY",
+      "GRAHAM CRACKER",
+      "JAWBONE",
+      "RUSHING YARDS",
+      "STRONTIUM",
+      "SURGERY",
+      "TAFEL EQUATION",
+      "TANSY MUSTARD",
+      "THE MASK",
+      "TOE DRAG",
+      "TRIER",
+      "WARRANTIES"
+    ],
+    "answer": [
+      "WREST THE CASE"
+    ],
+    "tags": [
+      "syntactic",
+      "letter change"
+    ],
+    "flavor": "You're supremely worried that the judges have already chosen your fate before they start—namely, guilty. How can you make sure this goes your way?",
+    "source": {
+      "hunt": "MITMH",
+      "year": 2024,
+      "puzzle": "https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/judges-of-the-underworld",
+      "solution": "https://puzzles.mit.edu/2024/mythstoryhunt.world/solutions/judges-of-the-underworld"
+    }
+  },
+  {
+    "feeders": [
+      "A CRYSTAL AGE",
+      "CARLTON FISK",
+      "DEACTIVATES",
+      "GASOLINE CAN",
+      "MULTIPHASIC",
+      "OSTRACIZING",
+      "PLASTIC LOVE",
+      "PROGRESS BAR",
+      "SOCORRO DOVE",
+      "TETHYS OCEAN",
+      "VENICE BEACH"
+    ],
+    "answer": [
+      "PUT IT IN DIVE"
+    ],
+    "tags": [
+      "syntactic",
+      "letter pattern"
+    ],
+    "flavor": "Your initial assessment of both Scylla and Charybdis is that they're dangerous. Luckily, they're not adjacent—there is room for something to fit between them. But even if you do so, how will your car avoid the dangers they pose?",
+    "source": {
+      "hunt": "MITMH",
+      "year": 2024,
+      "puzzle": "https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/scylla-and-charybdis",
+      "solution": "https://puzzles.mit.edu/2024/mythstoryhunt.world/solutions/scylla-and-charybdis"
+    }
+  },
+  {
+    "feeders": [
+      "CHRIS WEDGE",
+      "DEMOPOLIS CHALK",
+      "DISH TOWEL",
+      "GLASS FLUTE",
+      "LOG SEMIRING",
+      "MANY-SIDED DIE",
+      "POWERED SHIP",
+      "RIVER BASIN",
+      "SHOULDER INSIGNIA",
+      "THIGH STRETCH",
+      "TURNPIKING",
+      "UPSILON AQUARII"
+    ],
+    "answer": [
+      "PLASTER PARIS"
+    ],
+    "tags": [
+      "syntactic",
+      "semantic",
+      "chain"
+    ],
+    "flavor": "In this dry sauna, Yogi Ezekiel puts on some oddly familiar spiritual music and sets to connecting everyone with their inner selves. Hypnotized, your mind is powerless as your body assumes the Sirsa Padasana…\n\nYou gotta pull yourself together, man! How might you break from this out-of-corpus experience and blow this hippie joint?\n",
+    "source": {
+      "hunt": "MITMH",
+      "year": 2024,
+      "puzzle": "https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/the-shala-of-thermopylae",
+      "solution": "https://puzzles.mit.edu/2024/mythstoryhunt.world/solutions/the-shala-of-thermopylae"
+    }
+  },
+  {
+    "feeders": [
+      "MERMAN",
+      "NAGARA",
+      "PLOVER",
+      "TOWROPE",
+      "HERRING",
+      "POULT",
+      "DISTILLER",
+      "LORILET",
+      "EGRET",
+      "RANI",
+      "MOTOWN",
+      "PINDO",
+      "MANDIBLE",
+      "AURICLE",
+      "KETCHUP",
+      "SUN"
+    ],
+    "answer": [
+      "RAPPEL TO RAMPARTS"
+    ],
+    "tags": [
+      "semantic",
+      "syntactic"
+    ],
+    "flavor": "Sensing an opportunity to acquire Pluto's wealth, Jason first obtained Pluto's record books. A page dated December 9th, 2019 featured a very elaborate doodle, and a strip of paper tucked inside here mentioned an important appointment at the Golden Fleece Casino. You'll be meeting him there, in Las Vegas. Can visiting the other casinos help you figure out what you and Jason need to do there?",
+    "source": {
+      "hunt": "MITMH",
+      "year": 2024,
+      "puzzle": "https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/shade-of-wealth",
+      "solution": "https://puzzles.mit.edu/2024/mythstoryhunt.world/solutions/shade-of-wealth"
+    }
+  },
+  {
+    "feeders": [
+      "DEVILS MARBLES",
+      "FROM RUSSIA WITH LOVE",
+      "HAL INSTITUTE FOR CRIMINALLY INSANE ROBOTS",
+      "JABBAS BOILER ROOM",
+      "NEWMANS APARTMENT",
+      "THE BEATLES"
+    ],
+    "answer": [
+      "BAIL MATE"
+    ],
+    "tags": [
+      "syntactic",
+      "semantic",
+      "overlapping"
+    ],
+    "flavor": "You walk around, starting at local attractions and leaving a print with each step, keeping an eye on where your steps overlap. How should we discover what Katrina was up to at the Boardwalk?",
+    "note": "The puzzle title is The Boardwalk.",
+    "source": {
+      "hunt": "MITMH",
+      "year": 2025,
+      "puzzle": "https://puzzles.mit.edu/2025/hunt/puzzles/the_boardwalk",
+      "solution": "https://puzzles.mit.edu/2025/hunt/puzzles/the_boardwalk/solution"
+    }
+  },
+  {
+    "feeders": [
+      "CHIFFONIER",
+      "CREME CARAMEL",
+      "LAMOTTA",
+      "PIDAKALA WAR",
+      "RAP OFF KEY",
+      "RIGHT TO BEAR ARMS",
+      "SERENDIP SANCTUARY"
+    ],
+    "answer": [
+      "OFFER CARAT TO A LAPIDARY"
+    ],
+    "tags": [
+      "syntactic",
+      "chain",
+      "substring"
+    ],
+    "flavor": "As you watch a jeweler assembling chain bracelets, you contemplate how your investigation of Gladys could start off. How should we discover what Gladys was up to at the Jewelry Store?",
+    "note": "The puzzle page has a picture of a chain bracelet of seven interlocking golden rings.",
+    "source": {
+      "hunt": "MITMH",
+      "year": 2025,
+      "puzzle": "https://puzzles.mit.edu/2025/hunt/puzzles/the_jewelry_store",
+      "solution": "https://puzzles.mit.edu/2025/hunt/puzzles/the_jewelry_store/solution"
+    }
+  },
+  {
+    "feeders": [
+      "BATH BRICK",
+      "BIRD ORCHID",
+      "BREGENZ FOREST",
+      "GREEDY PIGGY",
+      "GUARDIAN LAVENDER",
+      "GUIANA CHESTNUT",
+      "RAW ANTIQUE BRASS",
+      "RYAN FLAMINGO"
+    ],
+    "answer": [
+      "BOX OWNER"
+    ],
+    "tags": [
+      "semantic"
+    ],
+    "flavor": "As you pass many shady characters in the art gallery, you ponder how to supplement your understanding of Papa’s actions. How should we discover what Papa was up to at the Art Gallery?",
+    "source": {
+      "hunt": "MITMH",
+      "year": 2025,
+      "puzzle": "https://puzzles.mit.edu/2025/hunt/puzzles/the_art_gallery",
+      "solution": "https://puzzles.mit.edu/2025/hunt/puzzles/the_art_gallery/solution"
+    }
+  },
+  {
+    "feeders": [
+      "ACE DOUBLETON",
+      "AMERICAN IDOL",
+      "ASTRONOMICAL",
+      "CENSUS BUREAU",
+      "DETERMINANT",
+      "FIREBIRD",
+      "GUITAR SOLO",
+      "HUNDRED",
+      "OMITTED",
+      "SOLDIER"
+    ],
+    "answer": [
+      "MORNING MOOD"
+    ],
+    "tags": [
+      "syntactic",
+      "solfege",
+      "substring",
+      "music"
+    ],
+    "flavor": "I have a relatively good feeling about this.",
+    "note": "The puzzle title is Name That Tune.",
+    "source": {
+      "hunt": "MITMH",
+      "year": 2026,
+      "puzzle": "https://puzzles.mit.edu/2026/hunt/puzzles/name_that_tune/",
+      "solution": "https://puzzles.mit.edu/2026/hunt/puzzles/name_that_tune/solution/"
+    }
+  },
+  {
+    "feeders": [
+      "ABS",
+      "ANSWERS",
+      "BRIM",
+      "DISPARATE",
+      "GENDARMERIE",
+      "NEMATODES",
+      "PARTS",
+      "PLOP",
+      "STOP",
+      "STRAIGHT",
+      "SWIMS",
+      "YELPS"
+    ],
+    "answer": [
+      "DASHED TO BITS"
+    ],
+    "tags": [
+      "syntactic",
+      "morse",
+      "binary"
+    ],
+    "flavor": "You tried replacing your telegraph (which once PIONEERED communications technology), but the new computerized system has too much LOAD and something's still getting dropped in each message. What happened to cause this?",
+    "note": "The puzzle page has 8 = 3, 6 = 3, 4 = 2, 7 = 3, 8 = 4, 10 = 4.",
+    "source": {
+      "hunt": "MITMH",
+      "year": 2026,
+      "puzzle": "https://puzzles.mit.edu/2026/hunt/puzzles/mixed_messaging/",
+      "solution": "https://puzzles.mit.edu/2026/hunt/puzzles/mixed_messaging/solution/"
+    }
+  },
+  {
+    "feeders": [
       "BRUT IMPERIAL",
       "CHOKE KNOBS",
       "CLUB SODA",
@@ -3843,8 +4302,8 @@
     "source": {
       "hunt": "Rojak",
       "year": 2021,
-      "puzzle": "https://www.puzzlerojak.com/puzzle/meta1",
-      "solution": "https://www.puzzlerojak.com/solution/meta1"
+      "puzzle": "https://2021.puzzlerojak.org/puzzle/meta1",
+      "solution": "https://2021.puzzlerojak.org/solution/meta1"
     }
   },
   {
@@ -3869,8 +4328,8 @@
     "source": {
       "hunt": "Rojak",
       "year": 2021,
-      "puzzle": "https://www.puzzlerojak.com/puzzle/meta2",
-      "solution": "https://www.puzzlerojak.com/solution/meta2"
+      "puzzle": "https://2021.puzzlerojak.org/puzzle/meta2",
+      "solution": "https://2021.puzzlerojak.org/solution/meta2"
     }
   },
   {
@@ -3878,7 +4337,7 @@
       "BAZAAR DILEMMA",
       "FLIPPROOF",
       "JOHN COLLIER",
-      "KINDER EGG SUPRIRSES",
+      "KINDER EGG SURPRISES",
       "LETTER FROM HAWAII",
       "NAVAL COMMANDER",
       "QUEEN OF THE GREEN",
@@ -3896,8 +4355,62 @@
     "source": {
       "hunt": "Rojak",
       "year": 2021,
-      "puzzle": "https://www.puzzlerojak.com/puzzle/meta3",
-      "solution": "https://www.puzzlerojak.com/solution/meta3"
+      "puzzle": "https://2021.puzzlerojak.org/puzzle/meta3",
+      "solution": "https://2021.puzzlerojak.org/solution/meta3"
+    }
+  },
+  {
+    "feeders": [
+      "AHEAD",
+      "CLASH",
+      "COMMANDS",
+      "DANCE",
+      "GAGS",
+      "KIRA",
+      "NATIONAL",
+      "NICE MEN",
+      "OTTER",
+      "PAIN",
+      "PLAIT",
+      "RICE",
+      "SNAG"
+    ],
+    "answer": [
+      "ALONE IN PAIRIS"
+    ],
+    "tags": [
+      "syntactic",
+      "substring"
+    ],
+    "flavor": "Back in 2021 during Puzzle Rojak 1, everyone was looking for Waldo as well. Looking back at 13 of the puzzle answers from Puzzle Rojak 1 (these can all be found on the Runaround's answer page), he hid where he was going to go this time as well! Where's Waldo now?",
+    "source": {
+      "hunt": "Rojak",
+      "year": 2024,
+      "puzzle": "https://www.puzzlerojak.org/puzzle/intro_round.html",
+      "solution": "https://www.puzzlerojak.org/solution/intro_round.html"
+    }
+  },
+  {
+    "feeders": [
+      "MARIO",
+      "GOOFUS",
+      "LEWIS",
+      "PUNCH",
+      "ROMEO"
+    ],
+    "answer": [
+      "IGLUE"
+    ],
+    "tags": [
+      "semantic",
+      "syntactic"
+    ],
+    "flavor": "Like the puzzles, some things just go together, and they always have one thing in common. What do the Olympians need to be more together?",
+    "source": {
+      "hunt": "Rojak",
+      "year": 2024,
+      "puzzle": "https://www.puzzlerojak.org/puzzle/communiter.html",
+      "solution": "https://www.puzzlerojak.org/solution/communiter.html"
     }
   },
   {

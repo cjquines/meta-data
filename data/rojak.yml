@@ -17,8 +17,8 @@ metas:
       - syntactic
       - overlapping
     flavor: Everyone split up into pairs to look for Waldo in each of the three scenes. Where can he be found?
-    puzzle: https://www.puzzlerojak.com/puzzle/meta1
-    solution: https://www.puzzlerojak.com/solution/meta1
+    puzzle: https://2021.puzzlerojak.org/puzzle/meta1
+    solution: https://2021.puzzlerojak.org/solution/meta1
   - year: 2021
     feeders:
       - UNENDING STRUGGLE
@@ -35,14 +35,14 @@ metas:
       - syntactic
       - overlapping
     flavor: Everyone split up into pairs to look for Waldo in each of the three scenes. Where can he be found?
-    puzzle: https://www.puzzlerojak.com/puzzle/meta2
-    solution: https://www.puzzlerojak.com/solution/meta2
+    puzzle: https://2021.puzzlerojak.org/puzzle/meta2
+    solution: https://2021.puzzlerojak.org/solution/meta2
   - year: 2021
     feeders:
       - BAZAAR DILEMMA
       - FLIPPROOF
       - JOHN COLLIER
-      - KINDER EGG SUPRIRSES
+      - KINDER EGG SURPRISES
       - LETTER FROM HAWAII
       - NAVAL COMMANDER
       - QUEEN OF THE GREEN
@@ -54,5 +54,43 @@ metas:
     tags:
       - syntactic
     flavor: Everyone split up into pairs to look for Waldo in each of the three scenes. Where can he be found?
-    puzzle: https://www.puzzlerojak.com/puzzle/meta3
-    solution: https://www.puzzlerojak.com/solution/meta3
+    puzzle: https://2021.puzzlerojak.org/puzzle/meta3
+    solution: https://2021.puzzlerojak.org/solution/meta3
+  - year: 2024
+    feeders:
+      - AHEAD
+      - CLASH
+      - COMMANDS
+      - DANCE
+      - GAGS
+      - KIRA
+      - NATIONAL
+      - NICE MEN
+      - OTTER
+      - PAIN
+      - PLAIT
+      - RICE
+      - SNAG
+    answer:
+      - ALONE IN PAIRIS
+    tags:
+      - syntactic
+      - substring
+    flavor: Back in 2021 during Puzzle Rojak 1, everyone was looking for Waldo as well. Looking back at 13 of the puzzle answers from Puzzle Rojak 1 (these can all be found on the Runaround's answer page), he hid where he was going to go this time as well! Where's Waldo now?
+    puzzle: https://www.puzzlerojak.org/puzzle/intro_round.html
+    solution: https://www.puzzlerojak.org/solution/intro_round.html
+  - year: 2024
+    feeders:
+      - MARIO
+      - GOOFUS
+      - LEWIS
+      - PUNCH
+      - ROMEO
+    answer:
+      - IGLUE
+    tags:
+      - semantic
+      - syntactic
+    flavor: Like the puzzles, some things just go together, and they always have one thing in common. What do the Olympians need to be more together?
+    puzzle: https://www.puzzlerojak.org/puzzle/communiter.html
+    solution: https://www.puzzlerojak.org/solution/communiter.html

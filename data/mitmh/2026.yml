@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2026
+    feeders:
+      - ACE DOUBLETON
+      - AMERICAN IDOL
+      - ASTRONOMICAL
+      - CENSUS BUREAU
+      - DETERMINANT
+      - FIREBIRD
+      - GUITAR SOLO
+      - HUNDRED
+      - OMITTED
+      - SOLDIER
+    answer:
+      - MORNING MOOD
+    tags:
+      - syntactic
+      - solfege
+      - substring
+      - music
+    flavor: I have a relatively good feeling about this.
+    note: The puzzle title is Name That Tune.
+    puzzle: https://puzzles.mit.edu/2026/hunt/puzzles/name_that_tune/
+    solution: https://puzzles.mit.edu/2026/hunt/puzzles/name_that_tune/solution/
+  - year: 2026
+    feeders:
+      - ABS
+      - ANSWERS
+      - BRIM
+      - DISPARATE
+      - GENDARMERIE
+      - NEMATODES
+      - PARTS
+      - PLOP
+      - STOP
+      - STRAIGHT
+      - SWIMS
+      - YELPS
+    answer:
+      - DASHED TO BITS
+    tags:
+      - syntactic
+      - morse
+      - binary
+    flavor: You tried replacing your telegraph (which once PIONEERED communications technology), but the new computerized system has too much LOAD and something's still getting dropped in each message. What happened to cause this?
+    note: "The puzzle page has 8 = 3, 6 = 3, 4 = 2, 7 = 3, 8 = 4, 10 = 4."
+    puzzle: https://puzzles.mit.edu/2026/hunt/puzzles/mixed_messaging/
+    solution: https://puzzles.mit.edu/2026/hunt/puzzles/mixed_messaging/solution/

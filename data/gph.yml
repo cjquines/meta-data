@@ -152,3 +152,133 @@ metas:
     note: The puzzle title is Shared Samples.
     puzzle: https://2022.galacticpuzzlehunt.com/puzzle/shared-samples
     solution: https://2022.galacticpuzzlehunt.com/solution/shared-samples
+  - year: 2024
+    feeders:
+      - ANSWER
+      - DOUBLESPEAK
+      - COOS
+    answer:
+      - COUSCOUS
+    tags:
+      - syntactic
+      - phonetic
+    puzzle: https://2024.galacticpuzzlehunt.com/puzzle/extremely_meta_puzzle
+    solution: https://2024.galacticpuzzlehunt.com/solution/extremely_meta_puzzle
+  - year: 2024
+    feeders:
+      - PU
+      - ONUS
+      - DERIVE
+    answer:
+      - PONDER
+    tags:
+      - syntactic
+    flavor: This metapuzzle is all that’s left.
+    note: The puzzle title is 1/2 Metapuzzle.
+    puzzle: https://2024.galacticpuzzlehunt.com/puzzle/1_2_metapuzzle
+    solution: https://2024.galacticpuzzlehunt.com/solution/1_2_metapuzzle
+  - year: 2024
+    feeders:
+      - PU
+      - ONUS
+      - DERIVE
+      - PONDER
+    answer:
+      - USER
+    tags:
+      - syntactic
+    flavor: All right, you can have this one last puzzle.
+    note: The puzzle title is 2/2 Metapuzzle.
+    puzzle: https://2024.galacticpuzzlehunt.com/puzzle/2_2_metapuzzle
+    solution: https://2024.galacticpuzzlehunt.com/solution/2_2_metapuzzle
+  - year: 2024
+    feeders:
+      - BANE
+      - BIND
+      - BLOT
+      - BOOM
+      - BULL
+      - FOAM
+      - FOWL
+      - GNAT
+      - GOUT
+      - JOLT
+      - KOAN
+      - REAM
+      - REED
+      - ROAR
+      - TALL
+      - VOLE
+    answer:
+      - GOLD
+    tags:
+      - syntactic
+      - letter change
+    puzzle: https://2024.galacticpuzzlehunt.com/puzzle/sixteen_words
+    solution: https://2024.galacticpuzzlehunt.com/solution/sixteen_words
+  - year: 2024
+    feeders:
+      - ST. CATHERINE
+      - BAY
+      - NORTHERN BIG RIVER
+      - SOUTHERN BIG RIVER
+    answer:
+      - WEST
+    tags:
+      - semantic
+    note: The puzzle title is Estados em ordem.
+    puzzle: https://2024.galacticpuzzlehunt.com/puzzle/estados_em_ordem
+    solution: https://2024.galacticpuzzlehunt.com/solution/estados_em_ordem
+  - year: 2024
+    feeders:
+      - POKEMON COMPETITIVE PLAY
+      - BEXLEY HALL (MIT)
+      - CAN'T SLEEP, CLOWN WILL EAT ME
+      - THE WEATHER IN LONDON
+      - SEXUAL PARTNER
+      - THE BASEMENT TAPES
+      - OVERWEIGHT
+      - COMMON DEGU
+      - COUGH MEDICINE
+    answer:
+      - FLOWCHART
+    tags:
+      - semantic
+    note: The puzzle title is List of really, really, really stupid article ideas.
+    puzzle: https://2024.galacticpuzzlehunt.com/puzzle/list_of_really_really_really
+    solution: https://2024.galacticpuzzlehunt.com/solution/list_of_really_really_really
+  - year: 2024
+    feeders:
+      - SCHUBERT'S 1ST
+      - BRAHMS'S 4TH
+      - HAYDN'S 2ND
+      - MAHLER'S 6TH
+      - DVORAK'S 6TH
+      - SCRIABIN'S 1ST
+    answer:
+      - SHARKS
+      - DECADE
+    tags:
+      - semantic
+      - syntactic
+      - music
+    note: This puzzle has two answers.
+    puzzle: https://2024.galacticpuzzlehunt.com/puzzle/e69142ad
+    solution: https://2024.galacticpuzzlehunt.com/solution/e69142ad
+  - year: 2026
+    feeders:
+      - MANGER
+      - MECHS
+      - MOANA
+      - SATIS
+      - STARFARING
+      - TAROT
+    answer:
+      - CHANGE OF ART
+    tags:
+      - syntactic
+      - semantic
+    flavor: Drink ⇄ Method / Objective ⇄ House / Trips ⇄ Beginning
+    note: The puzzle title is Heart-to-Heart.
+    puzzle: https://2026.galacticpuzzlehunt.com/puzzle/heart-to-heart
+    solution: https://2026.galacticpuzzlehunt.com/solution/heart-to-heart

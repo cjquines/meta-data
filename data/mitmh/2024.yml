@@ -1,0 +1,98 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2024
+    feeders:
+      - CUTLERY
+      - GRAHAM CRACKER
+      - JAWBONE
+      - RUSHING YARDS
+      - STRONTIUM
+      - SURGERY
+      - TAFEL EQUATION
+      - TANSY MUSTARD
+      - THE MASK
+      - TOE DRAG
+      - TRIER
+      - WARRANTIES
+    answer:
+      - WREST THE CASE
+    tags:
+      - syntactic
+      - letter change
+    flavor: You're supremely worried that the judges have already chosen your fate before they start—namely, guilty. How can you make sure this goes your way?
+    puzzle: https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/judges-of-the-underworld
+    solution: https://puzzles.mit.edu/2024/mythstoryhunt.world/solutions/judges-of-the-underworld
+  - year: 2024
+    feeders:
+      - A CRYSTAL AGE
+      - CARLTON FISK
+      - DEACTIVATES
+      - GASOLINE CAN
+      - MULTIPHASIC
+      - OSTRACIZING
+      - PLASTIC LOVE
+      - PROGRESS BAR
+      - SOCORRO DOVE
+      - TETHYS OCEAN
+      - VENICE BEACH
+    answer:
+      - PUT IT IN DIVE
+    tags:
+      - syntactic
+      - letter pattern
+    flavor: Your initial assessment of both Scylla and Charybdis is that they're dangerous. Luckily, they're not adjacent—there is room for something to fit between them. But even if you do so, how will your car avoid the dangers they pose?
+    puzzle: https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/scylla-and-charybdis
+    solution: https://puzzles.mit.edu/2024/mythstoryhunt.world/solutions/scylla-and-charybdis
+  - year: 2024
+    feeders:
+      - CHRIS WEDGE
+      - DEMOPOLIS CHALK
+      - DISH TOWEL
+      - GLASS FLUTE
+      - LOG SEMIRING
+      - MANY-SIDED DIE
+      - POWERED SHIP
+      - RIVER BASIN
+      - SHOULDER INSIGNIA
+      - THIGH STRETCH
+      - TURNPIKING
+      - UPSILON AQUARII
+    answer:
+      - PLASTER PARIS
+    tags:
+      - syntactic
+      - semantic
+      - chain
+    flavor: |
+      In this dry sauna, Yogi Ezekiel puts on some oddly familiar spiritual music and sets to connecting everyone with their inner selves. Hypnotized, your mind is powerless as your body assumes the Sirsa Padasana…
+
+      You gotta pull yourself together, man! How might you break from this out-of-corpus experience and blow this hippie joint?
+    puzzle: https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/the-shala-of-thermopylae
+    solution: https://puzzles.mit.edu/2024/mythstoryhunt.world/solutions/the-shala-of-thermopylae
+  - year: 2024
+    feeders:
+      - MERMAN
+      - NAGARA
+      - PLOVER
+      - TOWROPE
+      - HERRING
+      - POULT
+      - DISTILLER
+      - LORILET
+      - EGRET
+      - RANI
+      - MOTOWN
+      - PINDO
+      - MANDIBLE
+      - AURICLE
+      - KETCHUP
+      - SUN
+    answer:
+      - RAPPEL TO RAMPARTS
+    tags:
+      - semantic
+      - syntactic
+    flavor: Sensing an opportunity to acquire Pluto's wealth, Jason first obtained Pluto's record books. A page dated December 9th, 2019 featured a very elaborate doodle, and a strip of paper tucked inside here mentioned an important appointment at the Golden Fleece Casino. You'll be meeting him there, in Las Vegas. Can visiting the other casinos help you figure out what you and Jason need to do there?
+    puzzle: https://puzzles.mit.edu/2024/mythstoryhunt.world/puzzles/shade-of-wealth
+    solution: https://puzzles.mit.edu/2024/mythstoryhunt.world/solutions/shade-of-wealth

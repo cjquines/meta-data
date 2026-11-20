@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2025
+    feeders:
+      - DEVILS MARBLES
+      - FROM RUSSIA WITH LOVE
+      - HAL INSTITUTE FOR CRIMINALLY INSANE ROBOTS
+      - JABBAS BOILER ROOM
+      - NEWMANS APARTMENT
+      - THE BEATLES
+    answer:
+      - BAIL MATE
+    tags:
+      - syntactic
+      - semantic
+      - overlapping
+    flavor: You walk around, starting at local attractions and leaving a print with each step, keeping an eye on where your steps overlap. How should we discover what Katrina was up to at the Boardwalk?
+    note: The puzzle title is The Boardwalk.
+    puzzle: https://puzzles.mit.edu/2025/hunt/puzzles/the_boardwalk
+    solution: https://puzzles.mit.edu/2025/hunt/puzzles/the_boardwalk/solution
+  - year: 2025
+    feeders:
+      - CHIFFONIER
+      - CREME CARAMEL
+      - LAMOTTA
+      - PIDAKALA WAR
+      - RAP OFF KEY
+      - RIGHT TO BEAR ARMS
+      - SERENDIP SANCTUARY
+    answer:
+      - OFFER CARAT TO A LAPIDARY
+    tags:
+      - syntactic
+      - chain
+      - substring
+    flavor: As you watch a jeweler assembling chain bracelets, you contemplate how your investigation of Gladys could start off. How should we discover what Gladys was up to at the Jewelry Store?
+    note: The puzzle page has a picture of a chain bracelet of seven interlocking golden rings.
+    puzzle: https://puzzles.mit.edu/2025/hunt/puzzles/the_jewelry_store
+    solution: https://puzzles.mit.edu/2025/hunt/puzzles/the_jewelry_store/solution
+  - year: 2025
+    feeders:
+      - BATH BRICK
+      - BIRD ORCHID
+      - BREGENZ FOREST
+      - GREEDY PIGGY
+      - GUARDIAN LAVENDER
+      - GUIANA CHESTNUT
+      - RAW ANTIQUE BRASS
+      - RYAN FLAMINGO
+    answer:
+      - BOX OWNER
+    tags:
+      - semantic
+    flavor: As you pass many shady characters in the art gallery, you ponder how to supplement your understanding of Papa’s actions. How should we discover what Papa was up to at the Art Gallery?
+    puzzle: https://puzzles.mit.edu/2025/hunt/puzzles/the_art_gallery
+    solution: https://puzzles.mit.edu/2025/hunt/puzzles/the_art_gallery/solution

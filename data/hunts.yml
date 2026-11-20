@@ -2,19 +2,19 @@
 MITMH:
   name: MIT Mystery Hunt
   from: 2000
-  to: 2023
+  to: 2026
 GPH:
   name: Galactic Puzzle Hunt
   from: 2017
-  to: 2023
+  to: 2026
 teammate:
   name: teammate hunt
   from: 2020
-  to: 2021
+  to: 2025
 Halpin:
   name: Mark Halpin's Labor Day Extravaganza
   from: 2006
-  to: 2023
+  to: 2026
 REDDOT:
   name: REDDOThunt
   from: 2017
@@ -25,12 +25,15 @@ Caltech:
 Silph:
   name: Silph Puzzle Hunt
   from: 2021
+  to: 2025
 Paradox:
   name: Paradox Puzzlehunt
   from: 2021
+  to: 2026
 Rojak:
   name: Puzzle Rojak
   from: 2021
+  to: 2024
 QOPH:
   name: Quantum Online Puzzle Hunt
   from: 2022
@@ -41,6 +44,7 @@ Huntinality:
 ECPH:
   name: EC Puzzle Hunt
   from: 2022
+  to: 2024
 Shardhunt:
   name: Shardhunt
   from: 2023
