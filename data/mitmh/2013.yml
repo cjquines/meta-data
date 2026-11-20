@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2013
+    feeders:
+      - MAP OF THE WORLD
+      - THE COMPUTER
+      - AN THREAD
+      - THE MAN
+      - MAN
+      - FEAR OF THE
+      - LINES
+      - CITIES
+      - CALLING WOMEN
+      - THE CIRCUS
+    answer:
+      - ACRE
+    tags:
+      - semantic
+    note: The puzzle title is This Page Intentionally Left Blank.
+    puzzle: http://web.mit.edu/puzzle/www/2013/coinheist.com/oceans_11/this_page_intentionally_left_blank/index.html
+    solution: http://web.mit.edu/puzzle/www/2013/coinheist.com/oceans_11/this_page_intentionally_left_blank/answer/index.html

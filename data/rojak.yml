@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: Rojak
+metas:
+  - year: 2021
+    feeders:
+      - ACAI LUNCH
+      - DANCING HORSES
+      - HEADLINE ACT
+      - IRRATIONAL FEAR
+      - MOVING PLATFORM
+      - RAT DISAGREES
+      - SUFFERING PROCESS
+      - WRECK RACETRACKS
+    answer:
+      - TACO CART
+    tags:
+      - syntactic
+      - overlapping
+    flavor: Everyone split up into pairs to look for Waldo in each of the three scenes. Where can he be found?
+    puzzle: https://www.puzzlerojak.com/puzzle/meta1
+    solution: https://www.puzzlerojak.com/solution/meta1
+  - year: 2021
+    feeders:
+      - UNENDING STRUGGLE
+      - VILLAGE OFFICER
+      - PRODUCERS BROADCAST
+      - EMERALD DIAMOND
+      - OBLIQUE REPLIES
+      - GNAWING THROUGH
+      - TEA BIB
+      - CASHLESS COACHING
+    answer:
+      - DETACHED BUILDING
+    tags:
+      - syntactic
+      - overlapping
+    flavor: Everyone split up into pairs to look for Waldo in each of the three scenes. Where can he be found?
+    puzzle: https://www.puzzlerojak.com/puzzle/meta2
+    solution: https://www.puzzlerojak.com/solution/meta2
+  - year: 2021
+    feeders:
+      - BAZAAR DILEMMA
+      - FLIPPROOF
+      - JOHN COLLIER
+      - KINDER EGG SUPRIRSES
+      - LETTER FROM HAWAII
+      - NAVAL COMMANDER
+      - QUEEN OF THE GREEN
+      - X AND Y ANNOUNCEMENT
+      - YACHT TRAINEE
+      - ZOOLOGISTS
+    answer:
+      - POOL TEAM MEETING
+    tags:
+      - syntactic
+    flavor: Everyone split up into pairs to look for Waldo in each of the three scenes. Where can he be found?
+    puzzle: https://www.puzzlerojak.com/puzzle/meta3
+    solution: https://www.puzzlerojak.com/solution/meta3

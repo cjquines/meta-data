@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2002
+    feeders:
+      - JABBERWOCK
+      - POMPEII
+      - WILLIAMS
+      - MCMILLAN
+      - GUGGENHEIM
+      - PATRICIA ARQUETTE
+      - NEEDLESS
+    answer:
+      - BILL GATES
+    tags:
+      - syntactic
+      - letter pattern
+    puzzle: http://web.mit.edu/puzzle/www/2002/orange/
+    solution: http://web.mit.edu/puzzle/www/2002/orange/X/Solution.txt
+  - year: 2002
+    feeders:
+      - APPLE DUMPLING
+      - PAYDAY
+      - BOURBON
+      - ODYSSEYS
+      - DES PLAINES
+      - TATAMI
+      - TERRE HAUTE
+    answer:
+      - MANSION
+    tags:
+      - syntactic
+      - letter pattern
+    puzzle: http://web.mit.edu/puzzle/www/2002/red/
+    solution: http://web.mit.edu/puzzle/www/2002/red/X/Solution.txt
+  - year: 2002
+    feeders:
+      - ALIOTH
+      - DENALI
+      - ERODE
+      - ONE SUN
+      - THRONE
+      - UNDER
+    answer:
+      - DONORS
+    tags:
+      - syntactic
+      - chain
+    puzzle: http://web.mit.edu/puzzle/www/2002/darkblue/
+    solution: http://web.mit.edu/puzzle/www/2002/darkblue/X/Solution.txt
+  - year: 2002
+    feeders:
+      - MIKE MULLIGAN
+      - STRAIN DIAGRAM
+      - HIGH SIERRA
+      - CZECHOSLOVAKIA
+      - BORROMEO
+      - CLIMATES
+      - DAMN YANKEES
+    answer:
+      - MISERLY
+    tags:
+      - syntactic
+      - substring
+    puzzle: http://web.mit.edu/puzzle/www/2002/magenta/
+    solution: http://web.mit.edu/puzzle/www/2002/magenta/X/Solution.txt
+  - year: 2002
+    feeders:
+      - HAWAIIAN
+      - WRIGHT BROTHERS
+      - SEXIVALENT
+      - ALEXIS
+      - SIXTEEN HUNDRED
+      - REFLEXIVE
+      - SUBCLAVII
+    answer:
+      - BANKING
+    tags:
+      - syntactic
+      - roman numerals
+    puzzle: http://web.mit.edu/puzzle/www/2002/green/
+    solution: http://web.mit.edu/puzzle/www/2002/green/X/Solution.txt

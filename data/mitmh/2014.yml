@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2014
+    feeders:
+      - ABYSMAL
+      - BODY SIZE
+      - DON'T WORRY BABY
+      - ICE CREAM SANDWICH
+      - ICHABOD
+      - MALPRACTICE
+      - MANIFESTO
+      - STOP CODON
+    answer:
+      - TOBACCO
+    tags:
+      - syntactic
+      - chain
+    puzzle: http://web.mit.edu/puzzle/www/2014/round/mit/
+    solution: http://web.mit.edu/puzzle/www/2014/round-solution/mit/
+  - year: 2014
+    feeders:
+      - MISCHIEF
+      - SHREWDNESS
+      - WATCH
+      - INTRUSION
+      - ARRAY
+      - MEMORY
+      - TROUBLING
+      - WOBBLE
+    answer:
+      - MANCHEGO
+    tags:
+      - semantic
+      - phrases
+    puzzle: http://web.mit.edu/puzzle/www/2014/round/mit/
+    solution: http://web.mit.edu/puzzle/www/2014/round-solution/mit/
+  - year: 2014
+    feeders:
+      - PADAWAN
+      - ROOMING
+      - DOWNPAT
+      - TOYOTAS
+      - PERIDOT
+      - DOORWAY
+      - WHIPPET
+      - NEGATES
+    answer:
+      - TWIN POPS
+    tags:
+      - syntactic
+      - grid
+    puzzle: http://web.mit.edu/puzzle/www/2014/round/mit/
+    solution: http://web.mit.edu/puzzle/www/2014/round-solution/mit/

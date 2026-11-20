@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2004
+    feeders:
+      - PELES TEARS
+      - NAINSOOK
+      - AIRSICK
+      - KLAKRING
+      - SANDBED
+      - GIRLS RULE
+      - MARIA ALEXANDROVNA
+      - SYLPHLIKE
+      - SEASON
+      - BOHR THEORY
+      - TEMPUS FUGIT
+      - YORYU
+      - CANCRINITE
+      - BOSWORTH
+      - MERMAID
+    answer:
+      - STAIRS LABELS RIP HEARTS FOR ANSWER
+    tags:
+      - syntactic
+      - letter pattern
+    flavor: This bloody altar, perched high above ground level at the top of the pyramid, looks out over the city of Tenochtitlan. Standing on the altar, you get a magnificent view of the city's layout, which helps greatly to clear up your confusion.
+    puzzle: http://web.mit.edu/puzzle/www/2004/aztec/Bj4/
+    solution: http://web.mit.edu/puzzle/www/2004/aztec/Bj4/answer.html
+  - year: 2004
+    feeders:
+      - SPOON
+      - SURFER
+      - SIXPENCE
+      - DIABETES
+      - FENNEL
+      - SHOWER
+      - SYRUP
+      - TWENTIES
+    answer:
+      - PUISSANT
+    tags:
+      - semantic
+      - phrases
+    puzzle: http://web.mit.edu/puzzle/www/2004/booty/
+    solution: http://web.mit.edu/puzzle/www/2004/booty/answer.html

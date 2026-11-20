@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: Halpin
+metas:
+  - year: 2006
+    feeders:
+      - SABRE OF IVORY
+      - KEYS OF BRONZE
+      - SILVER TURNIP
+      - FLEXIBLE FACE
+      - POT OF PEANUTS
+      - BITTER LIQUOR
+      - TRENDY WALLET
+      - TURQUOISE GEM
+      - AWFUL RECORDS
+      - GLOWING SPEAR
+      - STUPID OLD APE
+      - HARMLESS DUST
+    answer:
+      - A ROSE BOUQUET
+    tags:
+      - syntactic
+    flavor: |
+      Once you've obtained all twelve Objects, you may perform a Ritual with them. This consists of arranging the Objects into three different configurations.
+      Your first configuration is fairly traditional. Use divine inspiration to clear up possibile ambiguities. If you are perceptive, the second and third configurations will follow.
+      If the gods are pleased, they will turn the Objects into your final reward.
+    note: Each answer is associated with one of the Labors of Hercules, in the listed order.
+    puzzle: http://www.markhalpin.com/labintpage/liritual.html
+    solution: http://www.markhalpin.com/labintpage/solutions/ritualsol.html
+  - year: 2010
+    feeders:
+      - AFRICANUS
+      - AMAZINGLY
+      - AMPHITHEATER
+      - BOOTSTRAPS
+      - CAROUSED
+      - TAKEFLIGHT
+      - UNCHARTED
+    answer:
+      - A DELUGE
+    tags:
+      - semantic
+      - substring
+    note: The meta title is Chamber of Fire.
+    puzzle: http://www.markhalpin.com/puzzles/wisht/wtanswers/fire.html
+    solution: http://www.markhalpin.com/puzzles/wisht/wtsolutions/firesol.pdf
+  - year: 2010
+    feeders:
+      - ALTERNATIVE
+      - BASMATI
+      - CUPIDITY
+      - DESPITE
+      - EXPENSE
+      - FUNCTION
+      - GREENHORN
+      - HECATOMB
+    answer:
+      - CRAMPONS
+    tags:
+      - semantic
+      - syntactic
+      - substring
+    note: The meta title is Chamber of Ice.
+    puzzle: http://www.markhalpin.com/puzzles/wisht/wtanswers/ice.html
+    solution: http://www.markhalpin.com/puzzles/wisht/wtsolutions/icesol.pdf
+  - year: 2010
+    feeders:
+      - AIRS
+      - ASPIRER
+      - COMRADELY
+      - DROWNS
+      - FOLIO
+      - LOWER CLASS
+      - RECEIVAL
+      - RECONSTRUCT
+      - XIA
+    answer:
+      - IRON SIDES
+    tags:
+      - syntactic
+    note: The meta title is Chamber of Blades.
+    puzzle: http://www.markhalpin.com/puzzles/wisht/wtanswers/blades.html
+    solution: http://www.markhalpin.com/puzzles/wisht/wtsolutions/bladessol.pdf

@@ -1,0 +1,154 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: GPH
+metas:
+  - year: 2017
+    feeders:
+      - VICTORY CELEBRATION
+      - THE HITCHHIKER'S GUIDE TO THE GALAXY
+      - NUMBER ONE SINGLE
+      - LOCKS HORNS
+      - PEACE BE WITH YOU
+      - GAME BIRD
+      - OK CORRAL
+      - NEW YORK I LOVE YOU BUT YOU'RE BRINGING ME DOWN
+      - SECOND PLACE IS THE FIRST LOSER
+    answer:
+      - BUNNY EARS
+    tags:
+      - semantic
+      - binary
+    flavor: The 9 teams in this conference have developed an interesting method of communication. Can you figure out what their secret is?
+    puzzle: https://2017.galacticpuzzlehunt.com/puzzle/6/3.html
+    solution: https://2017.galacticpuzzlehunt.com/solution/6/3.html
+  - year: 2018
+    feeders:
+      - ANAGRAM SOLVER
+      - BLANKS
+      - FERMAT'S PRINCIPLE
+      - GOLDWYN
+      - PASIPHAE
+      - PSYCHOPATHY
+      - STADIUM ANTHEM
+      - SYNTONIC COMMA
+    answer:
+      - BEST SELLING CRIME NOVEL
+    tags:
+      - syntactic
+      - overlapping
+    flavor: |
+      You open your cookies to find tiny strips of paper with strange symbols strewn across them.
+      "A firm understanding will lead to success."
+      Lucky numbers: 24, 303, 74, 328, 298, 424, 182, 8
+    note: The meta title is Fortune Cookies.
+    puzzle: https://2018.galacticpuzzlehunt.com/puzzle/fortune-cookies.html
+    solution: https://2018.galacticpuzzlehunt.com/solution/fortune-cookies.html
+  - year: 2019
+    feeders:
+      - ARGUE
+      - BERT
+      - BOER WAR
+      - DISMAY
+      - GILBERT
+      - IVES
+      - LANGUAGES
+      - MYTHICAL
+      - ROBIN
+      - ROY
+    answer:
+      - REMARRIAGE
+    tags:
+      - semantic
+      - overlapping
+    puzzle: https://2019.galacticpuzzlehunt.com/puzzle/the-meta-puzzle.html
+    solution: https://2019.galacticpuzzlehunt.com/solution/the-meta-puzzle.html
+  - year: 2019
+    feeders:
+      - ASSORT
+      - EBB
+      - EVENTIDE
+      - FLUTE
+      - INSERTION
+      - NATURAL
+      - ONION
+      - RINGO
+      - SMART
+      - SPORT
+      - STARRING
+      - SWINE
+    answer:
+      - ROSINESS
+    tags:
+      - semantic
+      - phrases
+      - substring
+    puzzle: https://2019.galacticpuzzlehunt.com/puzzle/the-meta-puzzle.html
+    solution: https://2019.galacticpuzzlehunt.com/solution/the-meta-puzzle.html
+  - year: 2019
+    feeders:
+      - CUBANO
+      - MACHINATE
+      - MS PAINT
+      - PERUSAL
+      - PIRANHA
+      - ROMANOV
+    answer:
+      - NORWAY
+    tags:
+      - semantic
+    flavor: We started at the coast, but the sight of all the sailboats with their jibs leaning in the wind was nauseating. While we were driving up, we couldn't get the damn radio in our rental car to shut up. Our ski lodge was much worse than in Colorado... at least our Vail room had heating! We nearly froze to death without our room providing warmth — ten degrees below zero I think it hit at one point. I had like five drinks that night even though it's not socially acceptable to have many at a bar by yourself. I hated every part of the trip, but hated no part as much as finally having to return home...
+    puzzle: https://2019.galacticpuzzlehunt.com/puzzle/the-meta-puzzle.html
+    solution: https://2019.galacticpuzzlehunt.com/solution/the-meta-puzzle.html
+  - year: 2019
+    feeders:
+      - ALTMANN
+      - BOB IGER
+      - DAILY NEWS
+      - DERBY NAME
+      - HARDING
+      - HAWKING
+      - HUCKSTER
+      - JOBS
+      - JOHNSON
+      - LINCOLN
+      - LOGUE
+      - MURRINE
+      - RESPITE
+      - SHENRON
+      - SHRUG
+      - THATCHER
+    answer:
+      - GINSBURG
+    tags:
+      - semantic
+    puzzle: https://2019.galacticpuzzlehunt.com/puzzle/the-meta-puzzle.html
+    solution: https://2019.galacticpuzzlehunt.com/solution/the-meta-puzzle.html
+  - year: 2022
+    feeders:
+      - BIRD FLU
+      - BISMUTH
+      - CHRIST
+      - CYCLIST
+      - DAIRY PRODUCT
+      - DRAGGING OUT
+      - FUND
+      - FUR
+      - GALLON
+      - GATOR
+      - HIGH
+      - HIS
+      - JANITOR
+      - JFK AIRPORT
+      - KENTUCKY
+      - KETCHUM
+      - LET UP
+      - LEXUS
+      - MENU
+      - MERCURY
+    answer:
+      - EDWARD VIII
+    tags:
+      - syntactic
+      - letter pattern
+    note: The puzzle title is Shared Samples.
+    puzzle: https://2022.galacticpuzzlehunt.com/puzzle/shared-samples
+    solution: https://2022.galacticpuzzlehunt.com/solution/shared-samples

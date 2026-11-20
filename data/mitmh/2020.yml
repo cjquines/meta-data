@@ -1,0 +1,147 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2020
+    feeders:
+      - ALEUROMANCY
+      - ALL FOR ONE
+      - ESOTERICA
+      - HALF SECTION
+      - NEW YEAR'S DAY
+      - ORCHESTRA
+      - SORRY I'M LATE
+      - SOURCE FILES
+    answer:
+      - FURRY TAILS
+    tags:
+      - syntactic
+      - grid
+    flavor: The children are quite cross at the shoddy condition of the Storybook Forest's animatronics. What would improve them?
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/storybook_pals/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/storybook_pals/solution/
+  - year: 2020
+    feeders:
+      - AMERICAN LEAGUER
+      - BOLD STROKE
+      - CAROLE KING
+      - CRIMSON TIP
+      - DAME COMMANDER
+      - GEORGE ELIOT
+      - MAJESTIC PLURAL
+      - PINK SLIP
+      - SILVER PLATE
+      - SMURF TURF
+      - STONE WEIGHT
+      - WAR MUSEUM
+    answer:
+      - STIRRUP DRAMA
+    tags:
+      - syntactic
+      - overlapping
+    flavor: People can't seem to get on the carousel horses! What's the problem?
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/carousel/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/carousel/solution/
+  - year: 2020
+    feeders:
+      - CRISPIN LIPSCOMB
+      - FIREBALL ROBERTS
+      - MISTER POTTER
+      - RACHEL CARSON
+      - SIX-WHEELER
+      - UNCERTAIN GRAY
+    answer:
+      - OILMEN
+    tags:
+      - syntactic
+    flavor: Penny Park's castle has an ostentatious, stately, capitalist facade. The flagstones initially look historic, but investigations have yet to pan out—who will handle it from here?
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/castle/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/castle/solution/
+  - year: 2020
+    feeders:
+      - ANGST
+      - BEERS
+      - BRETT
+      - BURNT
+      - BEING
+    answer:
+      - ANGER'S RETURNING
+    tags:
+      - syntactic
+    flavor: In 1988, two centurions unleashed their animal fury to save Zeus's daughter, but they have mostly reverted back by now... or have they?
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/zeus/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/zeus/solution/
+  - year: 2020
+    feeders:
+      - FEET
+      - FIRE
+      - FOLLIS
+      - FUMES
+    answer:
+      - TRELLISES
+    tags:
+      - syntactic
+    flavor: A giant in the zoology field is noisily blocking Jack's higher ambitions. Help Jack use his animals to cut the giant short and find a way to climb into the Ivies.
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/jack/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/jack/solution/
+  - year: 2020
+    feeders:
+      - ACM
+      - CHAIN
+      - DEER
+      - FIG
+      - IAMB
+    answer:
+      - I'M AMERICAN
+    tags:
+      - syntactic
+    flavor: Sam loves starfish and star-nosed moles, but five of his other animals share another distinctive pattern; he proudly lines them up end to end, every other day. What might he be trying to say?
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/sam/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/sam/solution/
+  - year: 2020
+    feeders:
+      - BURNT
+      - FEET
+      - DISTANT
+      - SEIZE
+      - CHAIN
+      - SKIES
+      - BRAIN
+      - DREADHAND
+      - ART
+      - TERRORS
+      - SMILE
+    answer:
+      - FLEHMEN LIPS
+    tags:
+      - semantic
+    flavor: Penny was counting on lines of people wanting to see the tiger, but the animal has been too scary, and Safari Adventure has never opened. What’s the problem?
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/safari_adventure/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/safari_adventure/solution/
+  - year: 2020
+    feeders:
+      - DNA
+      - HEAP
+      - HELICOPTER
+      - HOP
+      - HYPER
+      - INEQUALITY
+      - IPHONE
+      - LETTER
+      - NUMBERS
+      - ORCHESTRA
+      - PESO
+      - PLYMOUTH
+      - PUNCHES
+      - SYMMETRICAL
+      - TELEGRAPH
+      - THERAPEUTIC
+      - UPMARKET
+      - WATER
+    answer:
+      - ADOPT WET NEUTRALITY
+    tags:
+      - semantic
+      - phrases
+    flavor: When testing all these rides, people expressed bitterness about the quality of the water. It really seems to have soured their experience. What should the park do so that Cascade Bay can finally open?
+    puzzle: https://www.mit.edu/~puzzle/2020/puzzle/swimming_hole/
+    solution: https://www.mit.edu/~puzzle/2020/puzzle/swimming_hole/solution/

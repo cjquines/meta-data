@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "hunt": {
+      "type": "string",
+      "enum": [
+        "MITMH",
+        "GPH",
+        "teammate",
+        "Halpin",
+        "REDDOT",
+        "Caltech",
+        "Silph",
+        "Paradox",
+        "Rojak",
+        "QOPH",
+        "Huntinality",
+        "ECPH",
+        "Shardhunt",
+        "MSPH"
+      ]
+    },
+    "metas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "year": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": -9007199254740991,
+                "maximum": 9007199254740991
+              },
+              {
+                "type": "string"
+              }
+            ]
+          },
+          "feeders": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "answer": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "binary",
+                "chain",
+                "dna",
+                "grid",
+                "letter change",
+                "letter pattern",
+                "morse",
+                "movies",
+                "music",
+                "overlapping",
+                "periodic table",
+                "phonetic",
+                "phrases",
+                "rhyme",
+                "roman numerals",
+                "semantic",
+                "semaphore",
+                "solfege",
+                "substring",
+                "syntactic"
+              ]
+            }
+          },
+          "flavor": {
+            "type": "string"
+          },
+          "note": {
+            "type": "string"
+          },
+          "puzzle": {
+            "type": "string",
+            "format": "uri"
+          },
+          "solution": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "required": [
+          "year",
+          "feeders",
+          "answer",
+          "tags",
+          "puzzle",
+          "solution"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "hunt",
+    "metas"
+  ],
+  "additionalProperties": false
+}

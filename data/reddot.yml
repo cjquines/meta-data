@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: REDDOT
+metas:
+  - year: 2017
+    feeders:
+      - APPLE
+      - EINKORN
+      - ELASTANE
+      - IVORY PEARL
+      - LEVIATHAN
+      - NAVAL SHIPS
+      - ONLINE
+      - RED BULL
+      - SHALE
+      - TIMBER
+      - UTILITY
+      - VOUSSOIR
+    answer:
+      - TRIBUTE
+    tags:
+      - semantic
+    flavor: As you complete the stations, you size up your competitors -- many of whom are having discussions with their mentors -- and hope that luck will always be in your favour. But what can you offer to win the judges' approval?
+    puzzle: https://reddothunt.sg/2017/puzzle/talent-contest
+    solution: https://reddothunt.sg/2017/solution/talent-contest
+  - year: 2018
+    feeders:
+      - BRONCO
+      - ENGINATOR
+      - FOUR LINES
+      - NITRO
+      - OMURICE
+      - ROLAND
+      - SCENARIO
+      - THE CENTRIUM
+      - UNSETTING
+    answer:
+      - CASTOR OIL
+    tags:
+      - syntactic
+      - periodic table
+    flavor: To your dismay, you were unable to recreate the serum with the ingredients you gathered. You suspect that the ingredients have been contaminated with an unknown impurity. What is the impurity?
+    puzzle: https://reddothunt.sg/2018/puzzle/failed-lab-experiment
+    solution: https://reddothunt.sg/2018/solution/failed-lab-experiment

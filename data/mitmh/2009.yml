@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2009
+    feeders:
+      - AMERICARES
+      - EMIGRES
+      - HISTORIAN
+      - IN POSITION
+      - JEEPSTER
+      - LOVE-INS
+      - RAYTHEON
+      - REUNITES
+    answer:
+      - SLINGSHOTS
+    tags:
+      - syntactic
+      - letter change
+    note: The round title is Planet Pluto.
+    puzzle: http://web.mit.edu/puzzle/www/2009/puzzles/#planet_pluto
+    solution: http://web.mit.edu/puzzle/www/2009/puzzles/Planet_Pluto_meta.html
+  - year: 2009
+    feeders:
+      - MEDS
+      - REX
+      - STRAIT
+      - THE RAM
+      - TROOP
+    answer:
+      - RADIO
+    tags:
+      - syntactic
+      - letter change
+    note: The round title is ATM.
+    puzzle: http://web.mit.edu/puzzle/www/2009/puzzles/#the_atm
+    solution: http://web.mit.edu/puzzle/www/2009/puzzles/The_ATM_meta.html
+  - year: 2009
+    feeders:
+      - BLITHESOME
+      - FRIDA KAHLO
+      - GINGER GOLD
+      - GUS VAN SANT
+      - QUATTRO PRO
+    answer:
+      - GUITAR SOLO
+    tags:
+      - syntactic
+      - grid
+    puzzle: http://web.mit.edu/puzzle/www/2009/puzzles/#castor___pollux
+    solution: http://web.mit.edu/puzzle/www/2009/puzzles/Castor_Pollux_meta.html
+  - year: 2009
+    feeders:
+      - ALBATROSS
+      - ALLIANCES
+      - DISASTER
+      - LEGACY
+      - NECESSARY
+      - REMEMBER
+      - RENAISSANCE
+      - VIRTUOSO
+      - WHISPERS
+    answer:
+      - REDSHIRTS
+    tags:
+      - semantic
+    note: The round title is Kronos.
+    puzzle: http://web.mit.edu/puzzle/www/2009/puzzles/#kronos
+    solution: http://web.mit.edu/puzzle/www/2009/puzzles/Kronos_meta.html

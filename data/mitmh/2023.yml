@@ -1,0 +1,48 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2023
+    feeders:
+      - KO-D SIX MAN TAG TEAM CHAMPIONSHIP
+      - DENSITY FUNCTION
+      - BEEF TARTARE
+      - BARBADIAN SPEECH PATTERN
+      - ABSTRACT MEMES
+      - CAR OF DISTINCTION
+      - I'M N LUV (WIT A STRIPPER)
+      - CUSTOM FIT POLO
+    answer:
+      - WINGED IT
+    tags:
+      - syntactic
+      - semantic
+    flavor: The biggest attraction of the Natural History Collection isn’t in the main hall, where you expected it to be. What did the curators do to it?
+    note: The round title is Natural History Collection. The puzzle title is The King.
+    puzzle: https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/the-king
+    solution: https://puzzles.mit.edu/2023/interestingthings.museum/solutions/the-king
+  - year: 2023
+    feeders:
+      - COMA WHITE
+      - CONSULTING DETECTIVE
+      - DANCER
+      - I DUE FOSCARI
+      - INSIDE OUT
+      - ISSACHAR
+      - JUPITER
+      - JUSTIFY
+      - LITHIUM
+      - MANHASSET
+      - MOUNT WARIO
+      - PI
+      - SAMUEL WESLEY STRATTON
+      - SOLID YELLOW
+      - WAR STORIES
+      - WATERLESS MOUNTAIN
+    answer:
+      - PEN MULTIPLE MATES
+    tags:
+      - semantic
+    flavor: You're almost but not quite at the end of investigating teammate's office. While they were writing the hunt, what would they do?
+    note: This puzzle was released on January 13, 2023.
+    puzzle: https://puzzles.mit.edu/2023/puzzlefactory.place/office/the-filing-cabinet
+    solution: https://puzzles.mit.edu/2023/puzzlefactory.place/solutions/the-filing-cabinet

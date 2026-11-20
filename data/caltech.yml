@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: Caltech
+metas:
+  - year: 2018
+    feeders:
+      - CIRQUE DU SOLEIL
+      - CROSSING OVER
+      - DEMOGORGONS
+      - GHOST IN THE SHELL
+      - GUY SMILEY
+      - LUNCHEONETTES
+      - TRAGICOMIC
+    answer:
+      - SIGN OUT
+    tags:
+      - syntactic
+      - substring
+    flavor: You think to yourself how you wanted to go to the local museum today, for example, or maybe apply for some jobs. But there's so much info online!
+    note: The meta title is Too Little to Do.
+    puzzle: http://2018.caltechpuzzlehunt.org/puzzle/too-little-to-do/index.html
+    solution: http://2018.caltechpuzzlehunt.org/solution/too-little-to-do/index.html
+  - year: 2018
+    feeders:
+      - BANDAIDS
+      - CHINSTRAP
+      - EXTRAPOLATING
+      - GALLING
+      - GLADDEST
+      - GUNDREMMINGEN
+      - SEAN SOUTH
+      - SPICING
+      - SUEDE VEST
+      - TABLOIDS
+      - THINGS FALL APART
+      - UPWARD
+    answer:
+      - WEIGHTED DICE
+    tags:
+      - syntactic
+      - substring
+    flavor: Do you think this happens every day?
+    note: The meta title is The Dodecahedron's Advent Calendar.
+    puzzle: http://2018.caltechpuzzlehunt.org/puzzle/the-dodecahedrons-advent-calendar/index.html
+    solution: http://2018.caltechpuzzlehunt.org/solution/the-dodecahedrons-advent-calendar/index.html

@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2001
+    feeders:
+      - ASTROPHYISCAL
+      - BRINKSMANSHIP
+      - DAUGHTER OF EVE
+      - FOREMENTIONED
+      - INSTRUMENTALS
+      - MARILYN MONROE
+      - ORTHOHYDROGEN
+      - PUBLIC AFFAIRS
+      - SENSORY CORTEX
+      - TROUBLEMAKERS
+      - UNCEREMONIOUS
+      - WHENCEFORWARD
+    answer:
+      - SIGMUND FREUD
+      - LIE ON MY COUCH
+    tags:
+      - syntactic
+      - grid
+    note: This one has two answers.
+    puzzle: http://web.mit.edu/puzzle/www/2001/
+    solution: http://web.mit.edu/puzzle/www/2001/Solutions/phase3_metapuzzle.html

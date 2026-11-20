@@ -1,0 +1,130 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2017
+    feeders:
+      - BOBBY HENDRICKS
+      - COULD HAVE BEEN
+      - DODD FRANK
+      - FIREWEED
+      - HOUSE MEETING
+      - HYDROCOOLS
+      - LOLL
+      - MARY POPPINS
+      - OBSESS
+      - PRETEEN
+      - SANAA
+    answer:
+      - ONE-TWO COMBO
+    tags:
+      - syntactic
+      - letter pattern
+    note: The round title is The Fighter.
+    puzzle: http://web.mit.edu/puzzle/www/2017/round/fighter.html
+    solution: http://web.mit.edu/puzzle/www/2017/solution/fighter.html
+  - year: 2017
+    feeders:
+      - REPRESS MEMORIES
+      - SEND FLYING
+      - READ MINDS
+      - COUNTER
+      - SUMMON
+      - BUZZ
+      - WATERPROOF
+      - ILLUMINATE
+      - CONFLAGRATE
+      - UNLOCK
+      - SHRINK
+    answer:
+      - OWL FAMILIAR
+    tags:
+      - semantic
+    note: The round title is The Wizard.
+    puzzle: http://web.mit.edu/puzzle/www/2017/round/wizard.html
+    solution: http://web.mit.edu/puzzle/www/2017/solution/wizard.html
+  - year: 2017
+    feeders:
+      - DIAMOND
+      - CONDOR
+      - HORSEBACK RIDE
+      - PEACH
+      - LIGHTHOUSE
+      - RACECAR
+      - CENTENNIAL
+      - SCHOONER
+    answer:
+      - ARCADE GAME INCOME
+    tags:
+      - semantic
+    note: The round title is The Economist.
+    puzzle: http://web.mit.edu/puzzle/www/2017/round/economist.html
+    solution: http://web.mit.edu/puzzle/www/2017/solution/economist.html
+  - year: 2017
+    feeders:
+      - CROC
+      - CONE
+      - NIOBE
+      - NOES
+      - BOY
+      - COOK
+      - BHOPA
+      - KONA
+      - CROW
+    answer:
+      - POSITIVE SPIN
+    tags:
+      - syntactic
+      - periodic table
+    note: The round title is The Chemist.
+    puzzle: http://web.mit.edu/puzzle/www/2017/round/chemist.html
+    solution: http://web.mit.edu/puzzle/www/2017/solution/chemist.html
+  - year: 2017
+    feeders:
+      - ABLATIVE
+      - ASA BUTTERFIELD
+      - BROKEN ARM
+      - COURTNEY LOVE
+      - CROW'S NEST
+      - DESPEREAUX
+      - GOOD HOPE
+      - MUSSOLINI
+      - PIXIE
+      - PORTRAYAL
+      - PREREQUISITE
+      - SKYSCRAPERS
+      - TIME MAGAZINE
+      - TURNPIKE
+      - WINTER OLYMPICS
+      - ZASTAVA KORAL
+    answer:
+      - HUGE DUCT TAPE ROLL
+    tags:
+      - semantic
+    flavor: |
+      The residents of this village are distraught; their home is divided into two islands connected by a rickety bridge, and their existence depends on crossing it carefully, step by step, on a daily basis. But after an unfortunate visit by a dragon, the bridge has taken damage in multiple places and is now unusable.
+      What magical item can you use to solve this problem?
+    puzzle: http://web.mit.edu/puzzle/www/2017/round/bridge.html
+    solution: http://web.mit.edu/puzzle/www/2017/solution/bridge.html
+  - year: 2017
+    feeders:
+      - ANGKOR WAT
+      - KHAGAN BEK
+      - LEAVES BE
+      - MORGAN HILL
+      - PACKED ICE
+      - PAMPAS CAT
+      - PAVING TILE
+      - PIGEON LAKE
+      - RAPIER WIT
+      - TAMPER WITH
+    answer:
+      - PEGMAN
+    tags:
+      - syntactic
+      - phrases
+    flavor: |
+      As you arrive in this large and bustling city, you encounter many recent victims of pickpockets. The local cutpurses seem efficient and organized, and after a few well-placed threats, you manage to extract the location of their employer. But confronting him is easier said than done, as the winding network of city streets is difficult to navigate.
+      As night falls, the city becomes even more confusing; in the moonlight, everything looks black and white. You'll really need an experienced guide if you want to find your way around.
+      Who can help you locate the criminal mastermind?
+    puzzle: http://web.mit.edu/puzzle/www/2017/round/criminal.html
+    solution: http://web.mit.edu/puzzle/www/2017/solution/criminal.html

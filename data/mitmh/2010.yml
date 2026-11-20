@@ -1,0 +1,124 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2010
+    feeders:
+      - REDEPLOYED
+      - STRIP
+      - FOX
+      - IMMOBILITY
+      - KANE
+      - VOLE
+      - RUSH RUSH
+      - REYNOLDS
+      - JUGS
+      - FORTY-ONE
+    answer:
+      - ALIENS LAND
+    tags:
+      - syntactic
+    note: The round page is http://web.mit.edu/puzzle/www/2010/puzzles/1983/.
+    puzzle: http://web.mit.edu/puzzle/www/2010/puzzles/1983/
+    solution: http://web.mit.edu/puzzle/www/2010/puzzles/1983/solution.html
+  - year: 2010
+    feeders:
+      - JOCK
+      - DOGES
+      - MODE
+      - BODOM
+      - FINANCE
+      - SHADING
+      - MINK
+      - CEO
+      - MISTED
+      - VIAL
+      - END UP
+    answer:
+      - JOE'S NAMED VP
+    tags:
+      - syntactic
+    flavor: |
+      This round of 1952's American History Hunt included a scary note.
+      Witch Hunt round
+      Beware the scourge plaguing our communities! The agents of evil are lurking everywhere in disguise, concealing their true colors. Every citizen must do his part to expose seemingly innocent characters for the menace they truly are.
+    puzzle: http://web.mit.edu/puzzle/www/2010/puzzles/1952/
+    solution: http://web.mit.edu/puzzle/www/2010/puzzles/1952/solution.html
+  - year: 2010
+    feeders:
+      - BROTHER JUNIPER
+      - CRAYFISH CREEK
+      - CUCUMBER CASTLE
+      - DONKEY RIDE
+      - FLORENCE NIGHTINGALE
+      - HAL LINDEN
+      - HEN PARTY
+      - HOW LOVE IS SPELT
+      - OUR MAN FLINT
+      - SPURGE-LAUREL WILD
+      - THE BACCHANTE
+      - THE SCARLET PIMPERNEL
+    answer:
+      - OUI, PAREE'S GAY
+    tags:
+      - semantic
+    flavor: This round of the 1871 Great Writers of the World Hunt focussed on Jules Verne, a revolutionary thinker and prolific author who wrote year in and year out, month after month, day after day after day.
+    puzzle: http://web.mit.edu/puzzle/www/2010/puzzles/1871/
+    solution: http://web.mit.edu/puzzle/www/2010/puzzles/1871/solution.html
+  - year: 2010
+    feeders:
+      - AISLES
+      - ANOTHER DAY
+      - CURTLY
+      - DAZED
+      - DRECKS
+      - LIBRAN
+      - RIKER
+      - SPY
+      - ZANE
+    answer:
+      - WRIGHT BROTHERS WRECK PLANE
+    tags:
+      - syntactic
+      - phonetic
+      - chain
+    flavor: It was twenty-five years ago this year that the phonograph was invented. Surely none of Edison's inventions has connected more fully with the public.
+    puzzle: http://web.mit.edu/puzzle/www/2010/puzzles/1903/
+    solution: http://web.mit.edu/puzzle/www/2010/puzzles/1903/solution.html
+  - year: 2010
+    feeders:
+      - BISMARCK
+      - HUNDREDTH
+      - HURT
+      - OSCITANCES
+      - RAY
+      - REALITY
+      - SCAN
+      - SMACK
+    answer:
+      - BIRTH SECTION ELIDED
+    tags:
+      - syntactic
+      - substring
+    flavor: It takes a strong constitution to explore around and within the pyramid remnants left by people born in a foreign land.
+    puzzle: http://web.mit.edu/puzzle/www/2010/puzzles/1804/
+    solution: http://web.mit.edu/puzzle/www/2010/puzzles/1804/solution.html
+  - year: 2010
+    feeders:
+      - AXIS
+      - FINISH LINE
+      - HEARSAY EVIDENCE
+      - INERT
+      - LEATHERETTE
+      - POINTER
+      - SELF-DRIVE
+      - SOWETO
+      - THE GIFT OF THE MAGI
+      - TRUE TO LIFE
+    answer:
+      - POLES SHIFT
+    tags:
+      - syntactic
+      - substring
+    flavor: As you look in admiration upon the Pantheon, to your amazement, Janus, two-faced god of doorways, gates, beginnings, and ends, appears before you! "The American colonies have won my favor by finally relocating the official start of the new year to its rightful place in my namesake month," he explains, "and I wish to reward you. Come, pass through the door of the Pantheon, meet the other gods, and learn their wisdom."
+    puzzle: http://web.mit.edu/puzzle/www/2010/puzzles/1752/
+    solution: http://web.mit.edu/puzzle/www/2010/puzzles/1752/solution.html

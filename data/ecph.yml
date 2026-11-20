@@ -1,0 +1,147 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: ECPH
+metas:
+  - year: 2022
+    feeders:
+      - ARABLE LAND
+      - DOMENICO DOLCE
+      - EXTREMELY LUSH
+      - HATSUNE MIKU
+      - INCREDIBLY TANKY
+      - LOUIS BOTHA
+      - TINY BIT
+    answer:
+      - CONTOUR
+    tags:
+      - syntactic
+    flavor: Puzzle Santa has been using a phone to keep connected, only tapping out the latter word of a pair each time.
+    puzzle: https://2022.ecph.site/puzzle/puzzleboxes.html
+    solution: https://2022.ecph.site/solution/puzzleboxes.html
+  - year: 2022
+    feeders:
+      - ACQUIRED IMMUNITY
+      - AISLE
+      - CHESS
+      - DRESS
+      - ELVIS
+      - GEORGE GERSHWIN
+      - HARSH
+      - RELATIONSHIP
+      - RESIN
+      - SEMIFINALISTS
+      - SPRINGBOARD
+      - WEAK INTERACTION
+    answer:
+      - PRESS FORWARD
+    tags:
+      - syntactic
+      - morse
+    flavor: Puzzle Santa has left dotted notches for several words of identical length. In addition to them, you'll need dashes of some other items.
+    puzzle: https://2022.ecph.site/puzzle/puzzleboxes.html
+    solution: https://2022.ecph.site/solution/puzzleboxes.html
+  - year: 2022
+    feeders:
+      - DEVANAGARI
+      - FRIGGA
+      - GAUL
+      - ISAAC
+      - LG CUP
+      - MORTGAGE
+    answer:
+      - DANGER
+    tags:
+      - syntactic
+    flavor: Puzzle Santa has left over some things that need to be translated.
+    note: The puzzle page has a picture of a double helix.
+    puzzle: https://2022.ecph.site/puzzle/puzzleboxes.html
+    solution: https://2022.ecph.site/solution/puzzleboxes.html
+  - year: 2022
+    feeders:
+      - ACETALDEHYDE
+      - BATTLE OF TRAFALGAR
+      - CONTEMPORARIES
+      - DOGMATIC THEOLOGY
+      - ELONGATE
+      - FOREMOST
+      - GLIADIN
+      - HISTORIC VILLAGE
+      - INCHEON
+      - JEROME ROBBINS
+    answer:
+      - DASHT RIVER
+    tags:
+      - syntactic
+    flavor: Puzzle Santa has tried sending messages across the North Atlantic, but they got all mixed up.
+    puzzle: https://2022.ecph.site/puzzle/puzzleboxes.html
+    solution: https://2022.ecph.site/solution/puzzleboxes.html
+  - year: 2022
+    feeders:
+      - BRAINWASH
+      - COTSWOLD LINE
+      - CYNWYD LINE
+      - INWARD-FACING
+      - JOHN WAYNE
+      - SLOT MACHINE
+      - SWIMMER
+      - SWORD COAST
+    answer:
+      - CUMULATE
+    tags:
+      - syntactic
+      - semaphore
+    flavor: Puzzle Santa has used his pair of compasses to navigate to faraway places.
+    note: The puzzle page has a picture of a flag.
+    puzzle: https://2022.ecph.site/puzzle/puzzleboxes.html
+    solution: https://2022.ecph.site/solution/puzzleboxes.html
+  - year: 2022
+    feeders:
+      - DUNG BEETLE
+      - EARMUFFS
+      - EASTER EGG
+      - EBB AND FLOW
+      - IONIC COMPOUND
+      - NELSON RIDDLE
+      - REGIA AERONAUTICA
+      - ROUGHHOUSE
+      - BLOWN SAVE
+      - CONTOUR
+      - CUMULATE
+      - DASHT RIVER
+      - DANGER
+      - DOMINATION
+      - PRESS FORWARD
+      - VISIBLE LIGHT
+    answer:
+      - TRANSFIGURATIONS
+    tags:
+      - syntactic
+    note: The first eight feeders form a set of answers; the other eight feeders form another set of answers. The puzzle has a Christmas theme.
+    puzzle: https://2022.ecph.site/puzzle/puzzleboxes.html
+    solution: https://2022.ecph.site/solution/puzzleboxes.html
+  - year: 2022
+    feeders:
+      - BABIES
+      - BANKS
+      - BELT
+      - BROAD
+      - COFFEE
+      - EYE
+      - GIBBON
+      - MAGIC
+      - MARKET
+      - NAVY
+      - PATIO
+      - POWERS
+      - SMART
+      - SMITH
+      - STRING
+      - VIGOROUS
+    answer:
+      - ROWAN ATKINSON
+    tags:
+      - semantic
+      - syntactic
+    flavor: Going back to school brings up a lot of questions. Who might help you make connections?
+    note: The puzzle page has four movie camera emojis.
+    puzzle: https://2022.ecph.site/puzzle/backtoschool.html
+    solution: https://2022.ecph.site/solution/backtoschool.html

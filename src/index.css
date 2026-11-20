@@ -55,6 +55,11 @@ button {
       background-color: var(--tertiary-color);
     }
   }
+
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
 }
 
 input {

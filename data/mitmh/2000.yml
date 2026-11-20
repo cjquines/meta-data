@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2000
+    feeders:
+      - AGES
+      - ANGELA
+      - ANTHER
+      - EMERGENT
+      - GELATIN
+      - GENTLE
+      - HERALD
+      - IGNORANT
+      - LEAN
+      - MANAGE
+      - SIGNOR
+    answer:
+      - TIN MAN
+      - EMERALD
+    tags:
+      - chain
+      - syntactic
+    note: This one has two answers; one "username" and one "password".
+    puzzle: http://web.mit.edu/puzzle/www/2000/set1/index.html
+    solution: http://web.mit.edu/puzzle/www/2000/set1/Meta/Solution.html
+  - year: 2000
+    feeders:
+      - ANACHRONISTIC
+      - ASSOCIATION
+      - BETAMAX
+      - BUTTON
+      - COLUMN
+      - COMPLEMENT
+      - DAY
+      - DEPRESSING
+      - E MAJOR
+      - EXEMPLI GRATIA
+    answer:
+      - SCARECROW
+      - MONKEY
+    tags:
+      - semantic
+      - phrases
+    note: This one has two answers; one "username" and one "password".
+    puzzle: http://web.mit.edu/puzzle/www/2000/set2/index.html
+    solution: http://web.mit.edu/puzzle/www/2000/set2/Meta/Solution.html
+  - year: 2000
+    feeders:
+      - BENT OUT OF SHAPE
+      - DOWN TO EARTH
+      - FAHRENHEIT
+      - HYDRA
+      - ISOLATION
+      - ON STAGE
+      - RISING
+      - TURN BACK
+    answer:
+      - TOTO
+      - RAINBOW
+    tags:
+      - semantic
+      - music
+    note: This one has two answers; one "username" and one "password".
+    puzzle: http://web.mit.edu/puzzle/www/2000/set4/index.html
+    solution: http://web.mit.edu/puzzle/www/2000/set4/Meta/Solution.html
+  - year: 2000
+    feeders:
+      - DORADO
+      - DOUBLE DARE
+      - FARADAYS
+      - LAKEFRONT VIEW
+      - MIRTH
+      - RETRO
+      - SONIC BOOM
+      - TITHE
+    answer:
+      - DOROTHY
+      - SOMEWHERE
+    tags:
+      - syntactic
+      - solfege
+    note: This one has two answers; one "username" and one "password".
+    puzzle: http://web.mit.edu/puzzle/www/2000/set5/index.html
+    solution: http://web.mit.edu/puzzle/www/2000/set5/Meta/Solution.html

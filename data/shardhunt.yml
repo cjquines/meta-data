@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: Shardhunt
+metas:
+  - year: 2023
+    feeders:
+      - ADVANCE SCOUT
+      - CLOUD SEEDING
+      - HEALTHY GRAINS
+      - JINGLE DRESS
+      - KINCHELOE AWARD
+      - PARTNER DEBATES
+      - POMPEY LADIES
+      - SPEED EATING
+      - TEMPLE STATION
+      - TRAINED HUSKIES
+      - WHISKEY BOTTLE
+    answer:
+      - ENTITLEMENT
+    tags:
+      - syntactic
+    flavor: We’ve lost track of our team! They were our initial solution, but now we'll need to pen some new ideas and put them on the shelf. What do we need to fix all of our issues?
+    puzzle: https://shardhunt.com/puzzle/death-of-the-library.html
+    solution: https://shardhunt.com/solution/death-of-the-library.html

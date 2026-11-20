@@ -1,0 +1,174 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2006
+    feeders:
+      - CLEVELAND
+      - MICROBREWER
+      - PETITE
+      - POSSESSIVELY
+      - POTATOES
+      - RADAR
+      - RESERVE
+      - SYNONYMOUS
+      - WILDLIFE PARKS
+    answer:
+      - DISAVOWED
+    tags:
+      - syntactic
+      - letter pattern
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/boston/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/boston.html
+  - year: 2006
+    feeders:
+      - EXCLAMATION POINT
+      - GUNSHOT
+      - HAWAII
+      - HYDROIODIC ACID
+      - ONE HUNDRED
+      - SPEED OF LIGHT
+      - TELETYPE
+      - ZEPHYR MODE
+    answer:
+      - CHITTY CHITTY BANG BANG
+    tags:
+      - semantic
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/cambridge/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/cambridge.html
+  - year: 2006
+    feeders:
+      - BARENBLATT
+      - BROWN
+      - COYLE
+      - FRIEND
+      - GRISWOLD
+      - GUGGENHEIM
+      - LEMON
+      - THORNHILL
+    answer:
+      - STARBUCK
+    tags:
+      - semantic
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/washington/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/washington.html
+  - year: 2006
+    feeders:
+      - AMY
+      - BOXES
+      - E
+      - MEN
+      - MONTANA
+      - N
+      - NEATIFY
+      - SNIFF
+    answer:
+      - NEXT TIME
+    tags:
+      - syntactic
+      - grid
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/moscow/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/moscow.html
+  - year: 2006
+    feeders:
+      - BALFOUR
+      - BATHTUB
+      - MAXIMUM
+      - CHECKUP
+      - FALCONS
+      - PADLOCK
+      - VMLINUX
+      - FREIGHT
+      - SAVINGS
+      - CASTOFF
+      - MRSPLUM
+      - WARMTHS
+    answer:
+      - SQUIRREL TRAP
+    tags:
+      - syntactic
+      - binary
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/kuala_lumpur/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/kuala_lumpur.html
+  - year: 2006
+    feeders:
+      - AJAX
+      - DEEJAY
+      - EAGLEWOOD
+      - ENDOSCOPIC
+      - ENYA
+      - ESTEVEZ
+      - HDTV
+      - IAMB
+      - IAN KERSHAW
+      - TEEPEE
+      - WYCLEF
+    answer:
+      - NINETY HEADS
+    tags:
+      - syntactic
+      - phonetic
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/buenos_aires/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/buenos_aires.html
+  - year: 2006
+    feeders:
+      - VICE CHANCELLOR
+      - DAGUERREOTYPES
+      - PENTAGON PAPERS
+      - TAPIOCA PUDDING
+      - RUTHLESS TYCOON
+      - BACCALAUREATES
+      - THREE CARD MONTE
+      - UNIDIRECTIONAL
+      - COLLABORATIONS
+      - CASH WITHDRAWAL
+      - PARALLELEPIPED
+      - IRREPRODUCIBLE
+      - ATLANTIC SALMON
+      - SIXPENCE FOR YOU
+    answer:
+      - CHOCOLATE MOOSE
+    tags:
+      - syntactic
+      - grid
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/epcot_center/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/epcot_center.html
+  - year: 2006
+    feeders:
+      - BUCKYBALLS
+      - CLOCKWATCHERS
+      - COVALENT BOND
+      - DEREK WALCOTT
+      - DUCKWEED
+      - FRONTBURNER
+      - GENTRY
+      - PAT BUCHANAN
+      - VOLKSWAGEN
+      - WALDEN
+    answer:
+      - AGENT BUCKWALD
+    tags:
+      - syntactic
+      - chain
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/mcmurdo_station/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/mcmurdo_station.html
+  - year: 2006
+    feeders:
+      - ECUADOR
+      - DEBAUCHERY
+      - ACADEMIES
+      - MACGYVER
+      - CUCKOO
+      - LOLLYGAG
+      - UUCP
+      - KAUAI
+      - ISAAC
+      - REGGAE
+      - KIERKEGAARD
+      - OLYMPIC GAMES
+    answer:
+      - LITTLE FINGER
+    tags:
+      - syntactic
+      - dna
+    puzzle: http://web.mit.edu/puzzle/www/2006/puzzles/paris/
+    solution: http://web.mit.edu/puzzle/www/2006/metas/paris.html

@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2022
+    feeders:
+      - ALAMOGORDO
+      - BIBLIOKLEPT
+      - BROOK
+      - COATROOM
+      - DESKTOP PACKAGE TRACKER
+      - FOLKETING
+      - KARAKORAM RANGE
+      - KINGS CROSS ST PANCRAS
+      - MARK ROTHKO
+      - OTHELLO
+      - PHOTOSHOOT
+      - SHOSTAKOVICH
+      - SKYLARKS
+    answer:
+      - A CRYING SHAMUS
+    tags:
+      - semantic
+      - syntactic
+      - morse
+    flavor: Chief Inspector Endeavour is perplexedly pursuing a perpetrator with the code name “C” who’s been pussyfooting around Noirleans. Could that be the perp who purloined the component? Perhaps.
+    puzzle: https://puzzles.mit.edu/2022/puzzle/the-case-of-the-missing-component/
+    solution: https://puzzles.mit.edu/2022/puzzle/the-case-of-the-missing-component/solution/
+  - year: 2022
+    feeders:
+      - STAND TALL
+      - BROADWAY
+      - PINE LOG
+      - CAT FUR
+      - MIDBRAIN
+      - EGG CRACKER
+      - BOB LEMON
+      - ONE-STEP
+      - STARTUP FUNDING
+      - CONTRACT BRIDGE
+      - BOOT JACK
+      - POACHED SOLE
+    answer:
+      - SYNONYM TOAST
+    tags:
+      - semantic
+      - syntactic
+      - letter change
+    flavor: You look through all the reference books, but you get the sense that something's gone, missing, not there. What is it?
+    puzzle: https://puzzles.mit.edu/2022/puzzle/reference-desk/
+    solution: https://puzzles.mit.edu/2022/puzzle/reference-desk/solution/

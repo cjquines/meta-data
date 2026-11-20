@@ -1,0 +1,229 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2011
+    feeders:
+      - OYSTER
+      - ORANGE PEEL
+      - CHARCOAL BURNER
+      - PANTHER
+      - CANNONBALL
+      - JACK O' LANTERN
+      - FRIED CHICKEN
+    answer:
+      - PARASOL
+    tags:
+      - semantic
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/world1/world1-1.html
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/world1/meta/world1-1.html
+  - year: 2011
+    feeders:
+      - VERNON DURSLEY
+      - BARRY ALLEN
+      - JACK DAWSON
+      - DOMINIC SOREL
+      - ECHO
+      - CONNOR MACLEOD
+      - WINTHROP PAROO
+    answer:
+      - PIRANHA
+    tags:
+      - semantic
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/world1/world1-2.html
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/world1/meta/world1-2.html
+  - year: 2011
+    feeders:
+      - HANK AARON
+      - SAFETY LAST
+      - VEGANISM
+      - SALTAIR
+      - URI GELLER
+      - WASATCH
+      - ASHAMED
+    answer:
+      - POLARIS
+    tags:
+      - syntactic
+      - substring
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/world1/world1-3.html
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/world1/meta/world1-3.html
+  - year: 2011
+    feeders:
+      - INEQUALITY
+      - JOSEPH
+      - FACADE
+      - SECURE
+      - SWAYINGS
+    answer:
+      - ALPHA DECAY
+    tags:
+      - syntactic
+      - letter change
+    flavor: Minus Man's attack is a double whammy that is usually devastating, but sometimes it cancels itself out.
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/minus.html
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta/minus.html
+  - year: 2011
+    feeders:
+      - FLOOD
+      - DIORAMIC
+      - PRERINSE
+      - WEBISMS
+      - GOALIES
+      - GRANOLA
+      - BARROOM
+      - FLAG DAY
+      - ILIUM
+    answer:
+      - REGAL RING
+    tags:
+      - syntactic
+      - letter change
+    note: The meta title is Triforce of Fellowship.
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/meta/fellowship.html
+  - year: 2011
+    feeders:
+      - ABSOLUTE AUTHORITY
+      - CANADA
+      - CHASTITY
+      - COLLIN CHOU
+      - MIKE SCIOSCIA
+      - PROGINOSKES
+      - ST EDWARD'S CHAIR
+      - ST GABRIEL
+      - THEODORO
+    answer:
+      - CREATURES
+    tags:
+      - semantic
+    note: The meta title is Triforce of Holiness.
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/meta/holiness.html
+  - year: 2011
+    feeders:
+      - THE FIRST NOEL
+      - LAST SONNET
+      - FOUR QUARTETS
+      - FOUR ROOMS
+      - THE RISE AND FALL OF THE THIRD REICH
+      - OCTAVIA
+      - KEPLER'S THIRD LAW
+      - KEGELSTATT TRIO
+      - PAS DE DEUX
+    answer:
+      - POLLINATE
+    tags:
+      - semantic
+    note: The meta title is Triforce of Inspiration.
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/zelda/meta/inspiration.html
+  - year: 2011
+    feeders:
+      - AUTUMN
+      - BADMINTON
+      - TRAFFIC PYLON
+      - AMERICAN
+      - INGRID
+      - MERCURY
+      - CORN CAKE
+      - GOOIER
+      - TRISKELION
+      - WANDERING
+    answer:
+      - UNFAIR COIN
+    tags:
+      - syntactic
+      - letter pattern
+    flavor: Wall Street traders know better than anyone that a bad penny always comes back.
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/civilization/wall_street/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/civilization/meta/wall_street.html
+  - year: 2011
+    feeders:
+      - WORLD TOUR
+      - UNFAIR COIN
+      - ROYAL PAIN
+      - FOUR IRON
+      - OR GATE
+      - THE FED
+    answer:
+      - ORANGE
+    tags:
+      - semantic
+    flavor: |
+      I'm so glad I chose to marry such a dedicated man! I'm sure you'll overcome whatever challenges these villains put in your path and rescue me! What a stroke of luck to have invited all of those puzzle-solvers to our wedding, as well!
+      Now that you're settled in as the leader of the French civilization, I think you can find everything you need to know to get this world's star piece by looking back on the wonders you have built.
+      Unfortunately, Stalin seems to have beaten you in the race to develop the seventh Wonder—the Interstellar Spaceship. He says he's going to use it to send me away to someplace you can't reach me. I know you're resourceful, though, and will find some way to follow me there!
+      ...and predictably enough, Stalin's decided you're too close, so we're headed to the launchpad!
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/civilization/interstellar_spaceship/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/civilization/meta/supermeta.html
+  - year: 2011
+    feeders:
+      - CUL DE SAC
+      - DIVERGED
+      - FOREIGN DISASTER RELIEF
+      - MOBILE SUIT GUNDAM
+      - MULUGETA WENDIMU
+      - NINA PERSSON
+      - PRIMORDIAL SOUP
+    answer:
+      - ROSEBUD
+    tags:
+      - syntactic
+      - substring
+      - overlapping
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/katamari_damacy/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/katamari_damacy/meta/small.html
+  - year: 2011
+    feeders:
+      - BARBARIOUS
+      - METALLURGICAL
+      - UPROARIOUS
+      - PLUNGING
+      - SUMMARIZE
+      - BLUEGILL
+      - IMPRESARIO
+      - SUPERFLUITIES
+      - MARIANA ISLANDS
+      - SPECTRAL RIGIDITY
+    answer:
+      - BRONZE STAR
+    tags:
+      - syntactic
+      - substring
+    note: The round title is Mario Bros.
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/answer/
+  - year: 2011
+    feeders:
+      - MINARCHY
+      - KIBITZ
+      - ANDREW AGUECHEEK
+      - MOSAICLIKE
+      - EXTEMPORANEOUS
+      - CLOCK
+    answer:
+      - MACK TRUCK
+    tags:
+      - syntactic
+      - overlapping
+    flavor: The traffic is heavy on the two-lane highway today, with 29 cars lined up bumper-to-bumper. Hope you can find a safe place to cross!
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/answer/
+  - year: 2011
+    feeders:
+      - ARA
+      - BARBERING
+      - COLETTE
+      - DOTED
+      - RETIREMENT
+      - SAINTS
+      - SEARINGS
+      - SEAT
+    answer:
+      - RED ALERT
+    tags:
+      - syntactic
+      - letter change
+    note: The round title is Q*BERT.
+    puzzle: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/
+    solution: http://web.mit.edu/puzzle/www/2011/puzzles/mega_man/meta_testing/answer/

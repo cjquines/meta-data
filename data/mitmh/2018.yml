@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2018
+    feeders:
+      - BONE GRAFT
+      - EXCEPT
+      - FILM COUNCILS
+      - HOW GREAT
+      - KERNEL
+      - NIGHTLY
+      - REAL FOOD
+      - ROUGH DATE
+      - STEP DADDY
+      - STYLE
+    answer:
+      - RAPPEL
+    tags:
+      - syntactic
+      - phonetic
+    flavor: |
+      The emotions had discussed the need to pare down the security systems.
+      How can Disgust get back into the Control Room?
+    puzzle: http://web.mit.edu/puzzle/www/2018/full/puzzle/disgust.html
+    solution: http://web.mit.edu/puzzle/www/2018/full/solution/disgust.html
+  - year: 2018
+    feeders:
+      - INITIAL THREAT
+      - AUSTERE TYPEFACE
+      - PAIRWISE EXPANSION
+      - SMALL NOVEL
+    answer:
+      - REAL LIFE
+    tags:
+      - semantic
+    flavor: |
+      Serenity is powered (energized) by twin 6V4-178-B31 trace compression blocks. One side or the other always acts up, but it's usually (typically) in a minor way so we just say (assert) they have character.
+      What does the crew of Serenity need?
+    puzzle: http://web.mit.edu/puzzle/www/2018/full/puzzle/blue_sun_6v4_178_b31_trace_compression_block.html
+    solution: http://web.mit.edu/puzzle/www/2018/full/solution/blue_sun_6v4_178_b31_trace_compression_block.html

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=./hunts.schema.json
+MITMH:
+  name: MIT Mystery Hunt
+GPH:
+  name: Galactic Puzzle Hunt
+teammate:
+  name: teammate hunt
+Halpin:
+  name: Mark Halpin's Labor Day Extravaganza
+REDDOT:
+  name: REDDOThunt
+Caltech:
+  name: Caltech Puzzle Hunt
+Silph:
+  name: Silph Puzzle Hunt
+Paradox:
+  name: Paradox Puzzlehunt
+Rojak:
+  name: Puzzle Rojak
+QOPH:
+  name: Quantum Online Puzzle Hunt
+Huntinality:
+  name: Huntinality
+ECPH:
+  name: EC Puzzle Hunt
+Shardhunt:
+  name: Shardhunt
+MSPH:
+  name: Microsoft Puzzle Hunt

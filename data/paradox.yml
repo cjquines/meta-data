@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: Paradox
+metas:
+  - year: 2021
+    feeders:
+      - THICCEST
+      - EISNER NOMINEE
+      - SEVEN NATION ARMY
+      - PETER PETTIGREW
+      - LATE EVENING
+      - CHROMATIC ABERRATION
+      - POWWOWING
+      - FOOL AROUND
+      - CHERRY TOMATO
+      - SKEDADDLE
+    answer:
+      - CENTER WORD OF TEN SNAPPLE CAP FACTS
+    tags:
+      - syntactic
+    flavor: |
+      Initially, the fountain doesn't seem extraordinary. You'd better double back after tasting the drinks.
+      What do you need before you can unlock the mysteries of the fountain?
+      Answer: (10 letters) OF (18 letters)
+    puzzle: https://paradoxpuzzlehunt.com/puzzle11
+    solution: https://paradoxpuzzlehunt.com/soln11

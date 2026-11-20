@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: QOPH
+metas:
+  - year: 2022
+    feeders:
+      - AMMUNITION
+      - DODGE MINIVAN
+      - EPONYM
+      - HAZARD
+      - SIDE MIRROR
+      - VOCATIONAL
+    answer:
+      - MINIMIZATION
+    tags:
+      - syntactic
+      - substring
+    note: The puzzle title is Inside Out; the page has the words sign, one, ruler, month, positive, animal.
+    puzzle: https://hunts.timwi.de/qoph/puzzle/inside-out
+    solution: https://hunts.timwi.de/qoph/puzzle/solution/inside-out

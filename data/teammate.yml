@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: teammate
+metas:
+  - year: 2020
+    feeders:
+      - BASTILLE DAWN
+      - DIY TEA
+      - DOUBLE TRACKS
+      - FRESH LIME
+      - HORSE LATITUDES
+      - LISP MACHINE
+      - PHILIPPINE SEA
+      - PINE BARK
+    answer:
+      - ACT IT OUT
+    tags:
+      - semantic
+      - phrases
+      - letter change
+    note: The meta title is Alone? Play Along.
+    puzzle: https://2020.teammatehunt.com/puzzles/alone-play-along
+    solution: https://2020.teammatehunt.com/solutions/alone-play-along

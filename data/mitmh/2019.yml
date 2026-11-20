@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2019
+    feeders:
+      - AMBIGUOUS
+      - BLOAT
+      - ICONOGRAPHY
+      - OVERSUBSCRIBE
+      - SBARRO
+      - ROADHOG
+      - SUBPROBLEM
+      - TURBOCHARGER
+      - WARDROBE
+    answer:
+      - SUCKOTASH
+    tags:
+      - syntactic
+    flavor: Three vampires from Halloween Town have shown up for Thanksgiving dinner, and they're angry that the Pilgrims aren't offering the types of food they like! You're willing to go to great lengths to sort this out. What should you add to the menu?
+    puzzle: http://www.mit.edu/~puzzle/2019/problem/halloween_thanksgiving.html
+    solution: http://www.mit.edu/~puzzle/2019/solution/halloween_thanksgiving.html
+  - year: 2019
+    feeders:
+      - HATAMOTO
+      - IONE SKYE
+      - JARGONIC
+      - KLONDIKE
+      - LUCHADOR
+      - MOCKTAIL
+      - NURSE JOY
+      - OMOPLATE
+    answer:
+      - I'M HIRSUTER
+    tags:
+      - syntactic
+      - grid
+    flavor: |
+      A cherub from Valentine's Day Town is wooing a Halloween Town witch. "Your werewolf boyfriend is too predictable," he explains.
+      "Watch how he prowls over every inch of the town square. Whenever he sees a full moon, he turns. And you know he'll turn once again before the next full moon. He winds up back where he started, stuck in a rut."
+      With a sly grin, the cherub adds, "Ever consider dating someone like me?" What can the werewolf say to save his relationship?
+    puzzle: http://www.mit.edu/~puzzle/2019/problem/halloween_valentines_day.html
+    solution: http://www.mit.edu/~puzzle/2019/solution/halloween_valentines_day.html

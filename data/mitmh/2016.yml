@@ -1,0 +1,113 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2016
+    feeders:
+      - AGFA
+      - I FIB
+      - PEER
+      - ROOD
+      - URUS
+    answer:
+      - GOOFPROOF BREEDERS
+    tags:
+      - syntactic
+      - letter pattern
+    flavor: Stay! Heel! Sit! Good puppy.
+    puzzle: http://web.mit.edu/puzzle/www/2016/puzzle/obedience_training/
+    solution: http://web.mit.edu/puzzle/www/2016/puzzle/obedience_training/solution/
+  - year: 2016
+    feeders:
+      - ABBOT HALL ART GALLERY
+      - ADVANCE PERSON
+      - ALTAR STONE
+      - AMOS BARTON
+      - ASSUMPTION CLAUSE
+      - BRADFORD PARKINSON
+      - BROWN SWISS
+      - CYNTHIA JOHNSON
+      - GEORGE WARD LINN
+      - LE GRAND CONDE
+      - RANDOLPH CALDECOTT
+      - SKY CHASE ZONE
+      - WAFFLE KING
+    answer:
+      - SLAM RIGHT WING
+    tags:
+      - syntactic
+      - substring
+      - semantic
+    puzzle: http://web.mit.edu/puzzle/www/2016/puzzle/opus/
+    solution: http://web.mit.edu/puzzle/www/2016/round/opus/solution/
+  - year: 2016
+    feeders:
+      - HUSH MONEY
+      - STAR WITNESS
+      - LLAREGGUB
+      - DRIFTERS
+    answer:
+      - TOMB
+    tags:
+      - semantic
+      - phrases
+    flavor: Welcome to Down Under!
+    puzzle: http://web.mit.edu/puzzle/www/2016/round/dreamtime/
+    solution: http://web.mit.edu/puzzle/www/2016/round/dreamtime/solution/day1.html
+  - year: 2016
+    feeders:
+      - UB IWERKS
+      - NICHE
+      - INDIGO BLUE
+      - DUSTRAG
+    answer:
+      - WHITENED
+    tags:
+      - syntactic
+      - letter change
+    flavor: Be careful to avoid wombat droppings.
+    puzzle: http://web.mit.edu/puzzle/www/2016/round/dreamtime/
+    solution: http://web.mit.edu/puzzle/www/2016/round/dreamtime/solution/day3.html
+  - year: 2016
+    feeders:
+      - BANDEROL
+      - GRAY DRAB
+      - LORDLIER
+      - RAILYARD
+    answer:
+      - GANDERED
+    tags:
+      - syntactic
+      - letter pattern
+    flavor: If you want your boomerang to return correctly, be careful of minor imperfections.
+    puzzle: http://web.mit.edu/puzzle/www/2016/round/dreamtime/
+    solution: http://web.mit.edu/puzzle/www/2016/round/dreamtime/solution/day4.html
+  - year: 2016
+    feeders:
+      - POWDER PUFF
+      - QUITE NICE
+      - BROWN NUMBERS
+      - QWERTY
+    answer:
+      - OUTCOME
+    tags:
+      - syntactic
+    flavor: Only a scholar would worry about how far you go in a walkabout, mate.
+    puzzle: http://web.mit.edu/puzzle/www/2016/round/dreamtime/
+    solution: http://web.mit.edu/puzzle/www/2016/round/dreamtime/solution/day5.html
+  - year: 2016
+    feeders:
+      - KARIN INGEL-ANKER
+      - LIZ LEMON GREEK FROZEN YOGURT
+      - MADEWELL
+      - NAZGUL
+      - OUT FOR THE SEASON
+      - PURITY IN DEATH
+      - QUICK REACTION
+    answer:
+      - BE CRUDE
+    tags:
+      - syntactic
+      - substring
+    note: The round title is Pam Ewing.
+    puzzle: http://web.mit.edu/puzzle/www/2016/round/pam_ewing/
+    solution: http://web.mit.edu/puzzle/www/2016/round/pam_ewing/solution/

@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2005
+    feeders:
+      - BIG COTTONWOOD
+      - SPIRIT WRITING
+      - IMMOBILIZING
+      - HIPPOGRIFF
+      - MICROSOFT WINDOWS
+      - DIMINISHING
+      - SILICON
+      - DISTORTION BOX
+      - KICKBOXING
+      - IGNITION
+    answer:
+      - POWER OF TEN
+    tags:
+      - syntactic
+      - binary
+    puzzle: http://web.mit.edu/puzzle/www/2005/setec/
+    solution: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-3-solution.html
+  - year: 2005
+    feeders:
+      - ADMAN
+      - RIME
+      - PASTRIES
+      - PLAGUE
+      - BORN
+      - MARACAS
+      - LAMA
+      - TUNIC
+      - YALE
+    answer:
+      - DIPLOMACY
+    tags:
+      - syntactic
+      - letter change
+    puzzle: http://web.mit.edu/puzzle/www/2005/setec/
+    solution: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-6-solution.html
+  - year: 2005
+    feeders:
+      - CHICAGO
+      - DARLING
+      - DICK TRACY
+      - FARGO
+      - GLADIATOR
+      - IN THE HEAT OF THE NIGHT
+      - JULIA
+      - NO MAN'S LAND
+      - PAPER MOON
+      - TARZAN
+      - WITNESS
+    answer:
+      - REPLICATING
+    tags:
+      - semantic
+      - movies
+    puzzle: http://web.mit.edu/puzzle/www/2005/setec/
+    solution: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-5-solution.html
+  - year: 2005
+    feeders:
+      - EDDIE OJEDA
+      - DOUG INGLE
+      - BRIAN WARNER
+      - IAN MCCULLOCH
+      - LENA KATINA
+      - PETER BUCK
+      - AGNETHA FALTSKOG
+      - GORDON GANO
+      - GLENN FREY
+      - EVAN DANDO
+    answer:
+      - TIME TRAVEL
+    tags:
+      - semantic
+      - music
+    puzzle: http://web.mit.edu/puzzle/www/2005/setec/
+    solution: http://web.mit.edu/puzzle/www/2005/setec/metasolutions/neighborhood-1-solution.html

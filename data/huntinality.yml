@@ -1,0 +1,166 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: Huntinality
+metas:
+  - year: 2022
+    feeders:
+      - IRIS
+      - ME
+      - NEBRASKA
+      - REACHING BACK
+      - TEAPOT
+      - ULTRASONIC
+    answer:
+      - RUNTIME STACK
+    tags:
+      - syntactic
+    puzzle: https://2022.huntinality.com/puzzles/huntinality_2_0_0_0_0_0_0
+    solution: https://2022.huntinality.com/solutions/huntinality_2_0_0_0_0_0_0
+  - year: 2023
+    feeders:
+      - ATTIC
+      - CLICK
+      - LIBEL
+      - CHEEK
+      - BETTA
+      - KEEL
+      - BETA
+      - CHIC
+      - LEEK
+      - WAKE
+    answer:
+      - MU
+    tags:
+      - syntactic
+    flavor: It's all black or white.
+    puzzle: https://www.huntinality.com/puzzles/black_or_white
+    solution: https://www.huntinality.com/solutions/black_or_white
+  - year: 2023
+    feeders:
+      - FELIX UNGAR
+      - FLIPPING MARKERS
+      - FOOTBALL TEAM DEFENSIVE COORDINATOR
+      - HYPERBOREAN BREW
+      - KEATONS DISFIGURED ARCHENEMY
+      - PLATFORM CURRENTLY KNOWN AS X
+      - SEVEN NATION ARMY
+      - VANITY OF DULUOZ
+      - WANAMAKER TROPHY AND CLARET JUG
+    answer:
+      - BUG EATING
+    tags:
+      - semantic
+    flavor: I've been jacked since the day I was born.
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+  - year: 2023
+    feeders:
+      - AMSTERDAMER
+      - ARCHIMEDES
+      - ASTRODOME
+      - ATOLE
+      - BEDCHAIRS
+      - CARRIED
+      - GROOMSMEN
+      - LIGAMENTS
+      - MEDICARE
+      - OMELET
+      - OSTRACOD
+      - ROSEBUDS
+      - SNOOZE
+      - SOMEONE
+      - SONOGRAM
+      - STARLING
+      - SUBMERSED
+      - TRADEMARKS
+    answer:
+      - RAZORBACK
+    tags:
+      - syntactic
+      - substring
+    flavor: Can you spot me?
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+  - year: 2023
+    feeders:
+      - ANACONDA AFLAC DUCK
+      - CAST DORFMEISTER
+      - FOOLS GRADUATION
+      - FREDDIE ECHOGRAPHY
+      - NATE FANG
+      - PENCIL CAPABLE
+      - RIN TIN BASIN
+    answer:
+      - DIAMOND
+    tags:
+      - syntactic
+    flavor: I'm pumping iron.
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+  - year: 2023
+    feeders:
+      - DOG WHISTLE
+      - FABRI FIBRA
+      - LABORATORY
+      - MICHAEL BAY
+      - RETWEETING
+      - SOLID FOODS
+      - TIMOCRATIC
+    answer:
+      - WEBFOOT
+    tags:
+      - syntactic
+      - substring
+    flavor: This workout song is off the scale.
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+  - year: 2023
+    feeders:
+      - DISGUSTING MOUTH SMELL
+      - DON AN ALBATROSS AROUND YOUR NECK
+      - DON'T RUSH
+      - FOLK DEVIL
+      - HELICOPTER PARENT
+      - USELESS REMEDY
+      - VASTLY POWERFUL
+      - VEER ONTO A TANGENT
+      - WORKING THE CORPORATE LADDER
+    answer:
+      - WALRUSSIA
+    tags:
+      - semantic
+    flavor: He is such a gym rat.
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+  - year: 2023
+    feeders:
+      - MITHRA
+      - GLUTTON
+      - STARGAZE
+      - MARGARITA
+      - SALAMANDER
+      - PROTAGONIST
+      - SNOWMOBILERS
+      - SMALL SEA SNAIL
+    answer:
+      - TERRAPIN
+    tags:
+      - syntactic
+      - substring
+    flavor: Gonna get my protein.
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps
+  - year: 2023
+    feeders:
+      - BUG EATING
+      - RAZORBACK
+      - DIAMOND
+      - WEBFOOT
+      - WALRUSSIA
+      - TERRAPIN
+    answer:
+      - GO DOWN
+    tags:
+      - semantic
+    note: The puzzle title is How Many Reps?
+    puzzle: https://www.huntinality.com/puzzles/how_many_reps
+    solution: https://www.huntinality.com/solutions/how_many_reps

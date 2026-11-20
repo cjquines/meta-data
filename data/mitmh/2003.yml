@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2003
+    feeders:
+      - CHALET
+      - LABORATORY
+      - MORTGAGEES
+      - EXTRAORDINARY
+      - SALMON
+      - DEBTOR
+      - ARKANSAS
+    answer:
+      - TOTAL B.S.
+    tags:
+      - syntactic
+      - phonetic
+    puzzle: http://www.mit.edu/~puzzle/2003/www.acme-corp.com/teamGuest/1/index.html
+    solution: http://web.mit.edu/puzzle/www/2003/www.acme-corp.com/solutions/m1.html
+  - year: 2003
+    feeders:
+      - ECHO
+      - DIRE
+      - GALL
+      - FOOD
+      - GILA
+      - LEVI
+      - DOWN
+      - CARD
+      - BALL
+      - SALK
+      - SLOT
+    answer:
+      - KRISHNA
+    tags:
+      - semantic
+      - phrases
+    flavor: |
+      Wednesday the boss went to church.
+      When you come through the doors of Holy Trinity, a middle-aged priest at the other end of the nave sees you and strides down the center aisle to greet you. "Good afternoon," he says warmly. "I'm Msgr. Thurman--like the actress in Pulp Fiction," he explains. "Can I help you?"
+      You explain your investigation, and his face falls; he leads you into his office. He sets aside a book about the first Pope Gregory ("Reading about the chants," he explains) and takes a seat behind his desk, looking saddened by the news.
+      "I'll miss him greatly," he tells you. "I remember when he first came here to ask how he could help. Dame Fortune must have smiled on us; he's been a pillar of the community every since. Wednesday, in fact, he came to drop off some papers. Did you want to look through them?"
+    puzzle: http://www.mit.edu/~puzzle/2003/www.acme-corp.com/teamGuest/3/index.html
+    solution: http://web.mit.edu/puzzle/www/2003/www.acme-corp.com/solutions/m3.html

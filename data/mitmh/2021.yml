@@ -1,0 +1,118 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2021
+    feeders:
+      - COSMOPOLITAN
+      - FUEGO
+      - MARCO REUS
+      - MILO READY-TO-DRINK
+      - NAPOLEON
+    answer:
+      - RAINBOW
+    tags:
+      - semantic
+    flavor: |
+      Walking through the floors of New House, you see that the dorm still has a vibrant culture.
+      (Disclaimer: Not all of ⊥IW's recent history is exactly the same as MIT's. Please use information from 2016 when solving this puzzle.)
+    puzzle: https://puzzles.mit.edu/2021/puzzle/new-house/
+    solution: https://puzzles.mit.edu/2021/puzzle/new-house/solution/
+  - year: 2021
+    feeders:
+      - MEASURE
+      - PERMITTIVITY
+      - TORQUE
+      - SIGNIFICANCE
+    answer:
+      - META
+    tags:
+      - semantic
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+  - year: 2021
+    feeders:
+      - ABOARD
+      - BECAME
+      - CASSIOPEIA
+      - DEAD
+      - ESSENTIAL
+      - FOREGO
+      - GRAVIMETRIC
+      - HYPERLINK
+      - IS
+    answer:
+      - DEADLOCKS
+    tags:
+      - syntactic
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+  - year: 2021
+    feeders:
+      - CUT TIME
+      - TRIPLETS
+      - ALIGNED
+      - SOLD-OUT SHOW
+    answer:
+      - STRAIGHT
+    tags:
+      - semantic
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+  - year: 2021
+    feeders:
+      - CANON
+      - ENFORCES
+      - ONLINE
+      - RAMMING
+      - SITE
+      - STRATAGEM
+    answer:
+      - SCORES
+    tags:
+      - syntactic
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+  - year: 2021
+    feeders:
+      - APPRENTICE
+      - PETERSBURG'S
+      - UNDETERRED
+      - REVOLTER
+      - SERIOUS
+    answer:
+      - PRINTER'S DEVILRY
+    tags:
+      - syntactic
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+  - year: 2021
+    feeders:
+      - CRACKING
+      - RARE
+      - MYSTERY
+      - CARPOPHYTE
+      - SPOTTED
+      - WITHIN
+      - DECCAN
+    answer:
+      - CRYPTIC
+    tags:
+      - syntactic
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/
+  - year: 2021
+    feeders:
+      - TALIA
+      - GERINI
+      - HAD
+      - ALONG
+      - OLE-TIMERS
+      - NAPS
+      - HOTELS
+      - WEEDS
+    answer:
+      - VACATION
+    tags:
+      - syntactic
+    puzzle: https://puzzles.mit.edu/2021/puzzle/pcluers/
+    solution: https://puzzles.mit.edu/2021/puzzle/pcluers/solution/

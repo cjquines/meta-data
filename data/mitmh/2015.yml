@@ -1,0 +1,176 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2015
+    feeders:
+      - FLOOR MAT
+      - DEWDROP
+      - BLUE FINCH
+      - BOAR THORAX
+      - GUNSTOCKS
+      - STEW LUNCHES
+      - SEA BEACHES
+      - LIVE MYRTLE
+    answer:
+      - COOL FUEL
+    tags:
+      - syntactic
+      - phonetic
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/chemistry_lab_meta/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/chemistry_lab_meta/solution/
+  - year: 2015
+    feeders:
+      - CITYGATES
+      - IMPULSIVE
+      - CLICKSPAM
+      - BAPTISTRY
+      - LEVIATHAN
+      - POLICECAR
+      - COUPDETAT
+      - SFORZANDO
+      - CARTWHEEL
+    answer:
+      - BELUGA PAL
+    tags:
+      - syntactic
+      - letter pattern
+      - grid
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/pod_of_dolphins_meta/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/pod_of_dolphins_meta/solution/
+  - year: 2015
+    feeders:
+      - SUMMER
+      - KERFUFFLE
+      - WINNER
+      - CURL UP
+      - BIG SUR
+      - SMS POMMERN
+      - STIR FRY
+    answer:
+      - MECHANICAL SEA MONSTER
+    tags:
+      - syntactic
+      - phonetic
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/graveyard_meta/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/graveyard_meta/solution/
+  - year: 2015
+    feeders:
+      - BLOOD
+      - CHOP SUEY
+      - TALLOW
+      - GI JOES
+      - EGG COSY
+      - MOTORS
+      - FLORIST
+      - ADVERT
+      - CORSET
+    answer:
+      - DETECTIVE
+    tags:
+      - syntactic
+      - letter pattern
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+  - year: 2015
+    feeders:
+      - ARC DE TRIOMPHE SCALE MODEL
+      - UV WAVE DETECTOR
+      - GEARSTICK
+      - FIRST PRIZE
+      - THIEF GAME MANUAL
+      - MONOPOLY
+      - TUVALU TRAVEL GUIDE
+    answer:
+      - CURRENT
+    tags:
+      - syntactic
+      - letter pattern
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+  - year: 2015
+    feeders:
+      - THESAURUS
+      - DECIDUOUS TOOTH
+      - ACUPUNCTURE MANUAL
+      - LIQUEUR
+    answer:
+      - ROPE
+    tags:
+      - syntactic
+      - letter pattern
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+  - year: 2015
+    feeders:
+      - CACHE
+      - BEADED CUBE
+      - DECEASED
+      - DEADHEAD
+    answer:
+      - HUSH
+    tags:
+      - syntactic
+      - letter pattern
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+  - year: 2015
+    feeders:
+      - POLICE PICKUP TRUCK
+      - CABINET
+      - TRIDENTINE MASS
+      - PROPELLOR
+      - SUZIE BURGER
+      - RADAR TRAP
+      - ORANGE PEEL
+    answer:
+      - INTRUDE
+    tags:
+      - syntactic
+      - substring
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+  - year: 2015
+    feeders:
+      - ANNABELLE
+      - COCOA
+      - RENT COLLECTOR
+      - DRESSER
+      - ONION
+      - HARD-HEARTED PAPA
+    answer:
+      - BANDIT
+    tags:
+      - syntactic
+      - substring
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+  - year: 2015
+    feeders:
+      - RIB
+      - NODE
+      - EMISSION
+      - LAMP
+      - WARD
+      - CENT
+      - CAM
+    answer:
+      - CARCASS
+    tags:
+      - syntactic
+      - letter change
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/
+  - year: 2015
+    feeders:
+      - CUE BALL
+      - YOUTUBE
+      - EYEBALL
+      - EMAIL PRINT-OUT
+      - TEALEAVES
+    answer:
+      - QUIET
+    tags:
+      - syntactic
+      - phonetic
+    puzzle: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/
+    solution: http://web.mit.edu/puzzle/www/2015/puzzle/finsey_gillhone/solution/

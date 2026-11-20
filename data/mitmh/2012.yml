@@ -1,0 +1,118 @@
+# yaml-language-server: $schema=../metas.schema.json
+hunt: MITMH
+metas:
+  - year: 2012
+    feeders:
+      - BOOKWORM
+      - COCOON
+      - COSPONSORS
+      - ENTICING
+      - ENUMERATE
+      - MEDLEY
+      - OCTOPOD
+      - PINHEAD
+      - SUBSTITUTE
+      - TORCHWOOD
+    answer:
+      - ELEPHANT IN A TUTU
+    tags:
+      - syntactic
+      - overlapping
+    puzzle: http://web.mit.edu/puzzle/www/2012/puzzles/a_circus_line/
+    solution: http://web.mit.edu/puzzle/www/2012/puzzles/a_circus_line/solution/
+  - year: 2012
+    feeders:
+      - CARPAL
+      - THE SOUTH
+      - STERNO
+      - BYLINE
+      - SO CLOSE
+      - BUFFOON
+      - VESTIGE
+    answer:
+      - CORNY CLUES
+    tags:
+      - syntactic
+      - periodic table
+    puzzle: http://web.mit.edu/puzzle/www/2012/puzzles/okla_holmes_a/
+    solution: http://web.mit.edu/puzzle/www/2012/puzzles/okla_holmes_a/solution/
+  - year: 2012
+    feeders:
+      - ARIGATO GOZAIMASU
+      - BAKING SODA
+      - CAPITOL HILL
+      - CARDINAL JULES MAZARIN
+      - CHRIST CHURCH REGATTA
+      - GO DUTCH
+      - JACK CARDIFF
+      - JAI HO
+      - JOSH SCHWARTZ
+      - JERRY WEXLER
+      - JOHN ADAMS
+      - KINGS HIGHWAY BRIDGE
+      - REST STOP
+      - RUSH HOUR
+      - TERRY GENE BOLLEA
+    answer:
+      - RAPUNZEL HAS A FRO
+    tags:
+      - semantic
+    note: The round title is Into the Woodstock.
+    puzzle: http://web.mit.edu/puzzle/www/2012/puzzles/into_the_woodstock/
+    solution: http://web.mit.edu/puzzle/www/2012/puzzles/into_the_woodstock/solution/
+  - year: 2012
+    feeders:
+      - BATED BREATH
+      - DRUNK TANK
+      - BUSINESS TRAVELERS
+      - LOVE ETC
+      - START OVER
+      - VELVET ELVIS
+      - CAR SEAT
+      - CASH COW
+      - MARS ROVER
+      - FORGET PARIS
+      - SOUTHWEST AIRLINES
+    answer:
+      - HARVEST HEARTS
+    tags:
+      - syntactic
+      - letter change
+      - overlapping
+    puzzle: http://web.mit.edu/puzzle/www/2012/puzzles/mayan_fair_lady/
+    solution: http://web.mit.edu/puzzle/www/2012/puzzles/mayan_fair_lady/solution/
+  - year: 2012
+    feeders:
+      - FIRESTONE
+      - CLINTON
+      - UNION
+      - MERCURY
+      - PERSHING
+      - CHERRY
+      - VALLEY
+      - VIKING
+      - TERMINAL
+    answer:
+      - DIAL TONE RECITATIVE
+    tags:
+      - syntactic
+    note: The round title is Phantom of the Operator.
+    puzzle: http://web.mit.edu/puzzle/www/2012/puzzles/phantom_of_the_operator/
+    solution: http://web.mit.edu/puzzle/www/2012/puzzles/phantom_of_the_operator/solution/
+  - year: 2012
+    feeders:
+      - ADOBO
+      - COLON
+      - DEPOT
+      - EBOOK
+      - OKAPI
+      - RACED
+      - SLITS
+      - YOKEL
+    answer:
+      - DONKEY ODS
+    tags:
+      - syntactic
+      - grid
+    puzzle: http://web.mit.edu/puzzle/www/2012/puzzles/ogre_of_la_mancha/
+    solution: http://web.mit.edu/puzzle/www/2012/puzzles/ogre_of_la_mancha/solution/
