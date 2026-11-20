@@ -3,7 +3,13 @@ import * as path from "node:path";
 import * as url from "node:url";
 import * as YAML from "yaml";
 import * as z from "zod";
-import { HuntsFile, metasFile, type Meta, type RawMeta } from "./schema.ts";
+import {
+  HuntsFile,
+  MetadataFile,
+  metasFile,
+  type Meta,
+  type RawMeta,
+} from "./schema.ts";
 
 const root = path.resolve(
   path.dirname(url.fileURLToPath(import.meta.url)),
@@ -12,6 +18,7 @@ const root = path.resolve(
 const dataDir = path.join(root, "data");
 const huntsPath = path.join(dataDir, "hunts.yml");
 const outPath = path.join(root, "src/metadata.json");
+const outSchemaPath = path.join(root, "src/metadata.schema.json");
 const readmePath = path.join(root, "README.md");
 
 const rel = (file: string) => path.relative(root, file);
@@ -120,7 +127,8 @@ for (const file of files) {
 
 if (failed) process.exit(1);
 
-writeJson(outPath, metas);
+writeJson(outSchemaPath, z.toJSONSchema(MetadataFile, { io: "output" }));
+writeJson(outPath, MetadataFile.parse(metas));
 console.log(
   `wrote ${String(metas.length)} metas from ${String(files.length)} files`,
 );

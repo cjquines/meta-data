@@ -1,2 +1,3 @@
 src/metadata.json
 data/*.schema.json
+src/metadata.schema.json

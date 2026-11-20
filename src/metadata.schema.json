@@ -1,0 +1,110 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "feeders": {
+        "minItems": 1,
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[A-Z0-9'(),.-]+( [A-Z0-9'(),.-]+)*$"
+        },
+        "description": "List of puzzle feeders, in given order if relevant, else alphabetical. Should be answerized."
+      },
+      "answer": {
+        "minItems": 1,
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[A-Z0-9'(),.-]+( [A-Z0-9'(),.-]+)*$"
+        },
+        "description": "Answers to the meta. Should be answerized."
+      },
+      "tags": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "enum": [
+            "binary",
+            "chain",
+            "dna",
+            "grid",
+            "letter change",
+            "letter pattern",
+            "morse",
+            "movies",
+            "music",
+            "overlapping",
+            "periodic table",
+            "phonetic",
+            "phrases",
+            "rhyme",
+            "roman numerals",
+            "semantic",
+            "semaphore",
+            "solfege",
+            "substring",
+            "syntactic"
+          ]
+        },
+        "description": "Tags describing the mechanism."
+      },
+      "flavor": {
+        "description": "Any flavor text given (even if not necessary for solving).",
+        "type": "string"
+      },
+      "note": {
+        "description": "Additional info needed to solve the puzzle (like its title).",
+        "type": "string"
+      },
+      "source": {
+        "type": "object",
+        "properties": {
+          "hunt": {
+            "type": "string",
+            "description": "Hunt abbreviation."
+          },
+          "year": {
+            "anyOf": [
+              {
+                "type": "integer",
+                "minimum": -9007199254740991,
+                "maximum": 9007199254740991
+              },
+              {
+                "type": "string"
+              }
+            ],
+            "description": "Year of hunt, like 2000 or \"Spring 2000\"."
+          },
+          "puzzle": {
+            "type": "string",
+            "format": "uri",
+            "description": "URL to puzzle page."
+          },
+          "solution": {
+            "type": "string",
+            "format": "uri",
+            "description": "URL to solution page."
+          }
+        },
+        "required": [
+          "hunt",
+          "year",
+          "puzzle",
+          "solution"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "feeders",
+      "answer",
+      "tags",
+      "source"
+    ],
+    "additionalProperties": false
+  }
+}

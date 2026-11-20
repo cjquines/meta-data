@@ -19,7 +19,8 @@
         "ECPH",
         "Shardhunt",
         "MSPH"
-      ]
+      ],
+      "description": "Hunt abbreviation."
     },
     "metas": {
       "type": "array",
@@ -36,21 +37,26 @@
               {
                 "type": "string"
               }
-            ]
+            ],
+            "description": "Year of hunt, like 2000 or \"Spring 2000\"."
           },
           "feeders": {
             "minItems": 1,
             "type": "array",
             "items": {
-              "type": "string"
-            }
+              "type": "string",
+              "pattern": "^[A-Z0-9'(),.-]+( [A-Z0-9'(),.-]+)*$"
+            },
+            "description": "List of puzzle feeders, in given order if relevant, else alphabetical. Should be answerized."
           },
           "answer": {
             "minItems": 1,
             "type": "array",
             "items": {
-              "type": "string"
-            }
+              "type": "string",
+              "pattern": "^[A-Z0-9'(),.-]+( [A-Z0-9'(),.-]+)*$"
+            },
+            "description": "Answers to the meta. Should be answerized."
           },
           "tags": {
             "type": "array",
@@ -78,21 +84,26 @@
                 "substring",
                 "syntactic"
               ]
-            }
+            },
+            "description": "Tags describing the mechanism."
           },
           "flavor": {
+            "description": "Any flavor text given (even if not necessary for solving).",
             "type": "string"
           },
           "note": {
+            "description": "Additional info needed to solve the puzzle (like its title).",
             "type": "string"
           },
           "puzzle": {
             "type": "string",
-            "format": "uri"
+            "format": "uri",
+            "description": "URL to puzzle page."
           },
           "solution": {
             "type": "string",
-            "format": "uri"
+            "format": "uri",
+            "description": "URL to solution page."
           }
         },
         "required": [
@@ -104,7 +115,8 @@
           "solution"
         ],
         "additionalProperties": false
-      }
+      },
+      "description": "List of metas belonging to this hunt."
     }
   },
   "required": [

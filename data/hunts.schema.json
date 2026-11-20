@@ -8,14 +8,17 @@
     "type": "object",
     "properties": {
       "name": {
-        "type": "string"
+        "type": "string",
+        "description": "Full name of hunt."
       },
       "from": {
         "type": "integer",
         "minimum": -9007199254740991,
-        "maximum": 9007199254740991
+        "maximum": 9007199254740991,
+        "description": "First indexed year."
       },
       "to": {
+        "description": "Last indexed years, inclusive. When omitted, equals `from`.",
         "type": "integer",
         "minimum": -9007199254740991,
         "maximum": 9007199254740991
@@ -26,5 +29,6 @@
       "from"
     ],
     "additionalProperties": false
-  }
+  },
+  "description": "Record from hunt abbreviation to data."
 }
