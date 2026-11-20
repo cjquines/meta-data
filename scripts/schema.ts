@@ -29,6 +29,8 @@ export const HuntsFile = z.record(
   z.string(),
   z.strictObject({
     name: z.string(),
+    from: z.int(),
+    to: z.int().optional(),
   }),
 );
 

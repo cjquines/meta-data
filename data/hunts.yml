@@ -1,29 +1,49 @@
 # yaml-language-server: $schema=./hunts.schema.json
 MITMH:
   name: MIT Mystery Hunt
+  from: 2000
+  to: 2023
 GPH:
   name: Galactic Puzzle Hunt
+  from: 2017
+  to: 2023
 teammate:
   name: teammate hunt
+  from: 2020
+  to: 2021
 Halpin:
   name: Mark Halpin's Labor Day Extravaganza
+  from: 2006
+  to: 2023
 REDDOT:
   name: REDDOThunt
+  from: 2017
+  to: 2022
 Caltech:
   name: Caltech Puzzle Hunt
+  from: 2018
 Silph:
   name: Silph Puzzle Hunt
+  from: 2021
 Paradox:
   name: Paradox Puzzlehunt
+  from: 2021
 Rojak:
   name: Puzzle Rojak
+  from: 2021
 QOPH:
   name: Quantum Online Puzzle Hunt
+  from: 2022
 Huntinality:
   name: Huntinality
+  from: 2021
+  to: 2023
 ECPH:
   name: EC Puzzle Hunt
+  from: 2022
 Shardhunt:
   name: Shardhunt
+  from: 2023
 MSPH:
   name: Microsoft Puzzle Hunt
+  from: 2023

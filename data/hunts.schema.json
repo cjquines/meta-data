@@ -9,10 +9,21 @@
     "properties": {
       "name": {
         "type": "string"
+      },
+      "from": {
+        "type": "integer",
+        "minimum": -9007199254740991,
+        "maximum": 9007199254740991
+      },
+      "to": {
+        "type": "integer",
+        "minimum": -9007199254740991,
+        "maximum": 9007199254740991
       }
     },
     "required": [
-      "name"
+      "name",
+      "from"
     ],
     "additionalProperties": false
   }
