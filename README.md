@@ -41,19 +41,18 @@ The compiled JSON instead has a list like:
 ```json
 [
   {
-    "feeders": ["FEEDER", …],
-    "answer": ["ANSWER", …],
-    "tags": ["syntactic", …],
-    "flavor": "…",
-    "note": "…",
+    "feeders": ["FEEDERS", "…"],
+    "answer": ["ANSWERS", "…"],
+    "tags": ["syntactic", "…"],
+    "flavor": "Flavor…",
+    "note": "Note…",
     "source": {
       "hunt": "MITMH",
       "year": 2000,
       "puzzle": "URL",
       "solution": "URL"
     }
-  },
-  …
+  }
 ]
 ```
 
