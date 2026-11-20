@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: CMU
+metas:
+  - year: Spring 2023
+    feeders:
+      - TWIRL
+      - TWIRL
+      - PASTORAL
+      - INSURRECTION
+    answer:
+      - DANCE DANCE AGRICULTURAL REVOLUTION
+    tags:
+      - semantic
+    flavor: How will you speed up your return to your time period?
+    note: The answer enumeration is (5 5 12 10).
+    puzzle: https://puzzlehunt.club.cc.cmu.edu/puzzle/22009/view/
+    solution: https://puzzlehunt.club.cc.cmu.edu/puzzle/22009/solution/
+  - year: Spring 2025
+    feeders:
+      - BEST ACTRESS
+      - FINALLY SUCCEEDS
+      - HEADS EAST
+      - ROVIO
+      - SECOND BORN CHILD
+      - SINGLE REED
+    answer:
+      - SERVING SECONDS
+    tags:
+      - semantic
+      - syntactic
+    flavor: What a drag—you almost won, but at least you have the same amount of makeup and some parts are the same. You know to use roux, but you wonder what’s the secret to making the Soup of Tomorrow?
+    note: The puzzle page has ⏪⏩⏩⏪⏩⏩.
+    puzzle: https://puzzlehunt.club.cc.cmu.edu/puzzle/28019/view/
+    solution: https://puzzlehunt.club.cc.cmu.edu/puzzle/28019/solution/

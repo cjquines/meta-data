@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: Brown
+metas:
+  - year: 2025
+    feeders:
+      - BIRD
+      - CONFIRMATION
+      - FAVOURITE
+      - FIGHTER
+      - GATHERING STORM
+      - JUNGLE
+      - NATIONAL SECURITY
+      - WIRED
+    answer:
+      - FILM REAL
+    tags:
+      - semantic
+      - movies
+    flavor: Your documentary is in trouble... your subjects are all paid actors! How can you fix your movie and save your leads' bacon?
+    note: The puzzle title is Six Degrees.
+    puzzle: https://2025.brownpuzzlehunt.com/puzzle/six-degrees
+    solution: https://2025.brownpuzzlehunt.com/puzzle/six-degrees/solution
+  - year: 2026
+    feeders:
+      - AIRBUS
+      - BANANAS FOSTER
+      - CHAPE
+      - DESOLATE
+      - EARTHLIKE
+      - FROUZIEST
+      - GIVE AWAY
+      - HEELBALL
+      - ISLE
+      - JUDICATORY
+    answer:
+      - TURING TEST
+    tags:
+      - syntactic
+    flavor: |
+      Professor Conway hasn't told you what's going to be on the final — you're going in blind. So you stay up studying all night, taking no breaks between words, counting down until there's nothing left to review.
+      What will the final exam be?
+    puzzle: https://www.brownpuzzlehunt.com/puzzle/anthropology-of-computers
+    solution: https://www.brownpuzzlehunt.com/puzzle/anthropology-of-computers/solution

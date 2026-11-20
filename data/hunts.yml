@@ -51,3 +51,27 @@ Shardhunt:
 MSPH:
   name: Microsoft Puzzle Hunt
   from: 2023
+CMU:
+  name: CMU Puzzle Hunt
+  from: 2015
+  to: 2026
+Brown:
+  name: Brown Puzzlehunt
+  from: 2023
+  to: 2026
+SGPH:
+  name: Singapore Puzzle Hunt
+  from: 2015
+  to: 2026
+Advent:
+  name: Advent Puzzle Hunt
+  from: 2024
+  to: 2025
+Edric:
+  name: Edric's Puzzle Hunts
+  from: 2020
+  to: 2026
+Pint:
+  name: Puzzled Pint
+  from: 2010
+  to: 2026

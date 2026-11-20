@@ -74,6 +74,12 @@ Indexed hunts:
 - ECPH: EC Puzzle Hunt (2022 to 2024)
 - Shardhunt: Shardhunt (2023)
 - MSPH: Microsoft Puzzle Hunt (2023)
+- CMU: CMU Puzzle Hunt (2015 to 2026)
+- Brown: Brown Puzzlehunt (2023 to 2026)
+- SGPH: Singapore Puzzle Hunt (2015 to 2026)
+- Advent: Advent Puzzle Hunt (2024 to 2025)
+- Edric: Edric's Puzzle Hunts (2020 to 2026)
+- Pint: Puzzled Pint (2010 to 2026)
 
 <!-- hunts:end -->
 

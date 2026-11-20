@@ -18,7 +18,13 @@
         "Huntinality",
         "ECPH",
         "Shardhunt",
-        "MSPH"
+        "MSPH",
+        "CMU",
+        "Brown",
+        "SGPH",
+        "Advent",
+        "Edric",
+        "Pint"
       ],
       "description": "Hunt abbreviation."
     },

@@ -1,0 +1,96 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: SGPH
+metas:
+  - year: 2016
+    feeders:
+      - ANIMAL FARM
+      - BLOOD AND GOLD
+      - THE SLIPPERY SLOPE
+      - THE STATE COUNSELLOR
+      - NEW SPRING
+      - THE PUZZLED HEART
+      - RICH MAN POOR MAN
+      - QUEENS RANSOM
+      - THE ADVENTURERS
+    answer:
+      - GALBRAITH
+    tags:
+      - semantic
+    flavor: Using the answers from these puzzles, you will be able to solve the meta puzzle and identify someone who can help you in your quest.
+    puzzle: https://www.sgpuzzlehunt.com/2016/puzzles/r1intro.pdf
+    solution: https://www.sgpuzzlehunt.com/2016/solutions/r1meta-sol.pdf
+  - year: 2016
+    feeders:
+      - GOLF BALL
+      - FLAT ICON
+      - BARON LETTERS
+      - COPIER TONER
+      - HEAD SHOT
+      - PURPLE NOON
+      - ROLLING PIN
+    answer:
+      - DROPLET
+    tags:
+      - syntactic
+      - letter change
+      - periodic table
+    flavor: Identify the new Horcruxes and the final item hidden amongst them that you will need to help you defeat the Dark Lord.
+    puzzle: https://www.sgpuzzlehunt.com/2016/puzzles/r2intro.pdf
+    solution: https://www.sgpuzzlehunt.com/2016/solutions/r2meta-sol.pdf
+  - year: 2017
+    feeders:
+      - HARMONY
+      - MISUNDERSTOOD
+      - THUMBNAIL
+      - SATELLITE
+      - CONSTITUENTS
+      - ESCHEWED
+      - FRISKING
+    answer:
+      - HEMLOCK
+    tags:
+      - syntactic
+      - substring
+    puzzle: https://www.sgpuzzlehunt.com/2017/puzzles/r1meta.pdf
+    solution: https://www.sgpuzzlehunt.com/2017/solutions/r1meta-sol.pdf
+  - year: 2017
+    feeders:
+      - HOUGH
+      - PRISE
+      - AWARE
+      - URGENT
+      - ANGERED
+    answer:
+      - ESCHEWED
+    tags:
+      - syntactic
+    flavor: A few words and numbers were neatly typewritten on a misplaced board on the table.
+    note: The puzzle title is A Typewritten Board. The words are followed by the numbers 4, 10, 5, 7, 10, respectively.
+    puzzle: https://www.sgpuzzlehunt.com/2017/puzzles/r1p6.pdf
+    solution: https://www.sgpuzzlehunt.com/2017/solutions/r1p6-sol.pdf
+  - year: 2025
+    feeders:
+      - CUP
+      - FORMAL
+      - LINK
+      - PIER
+      - ROUT
+      - STOCK
+      - VEND
+      - WALL
+      - GRAFTER
+      - MUSED
+      - TRY
+      - DIVISIBLE
+      - BORDER
+      - JEW
+      - YEAST
+      - HOP
+    answer:
+      - AUDIO NET
+    tags:
+      - syntactic
+      - phonetic
+    flavor: You find out that the secret weapon of the Atreides is the Sonic Tank, a mean machine which fires a big blast of sound energy that passes through anything along its propagation path. What effect did the flanking Atreides sonic tanks produce?
+    puzzle: https://huntserver.sgpuzzlehunt.com/static/2025/puzzle_resources/sonic-tank/sonic-tank.pdf
+    solution: https://huntserver.sgpuzzlehunt.com/static/2025/puzzle_resources/solutions/sonic-tank.pdf

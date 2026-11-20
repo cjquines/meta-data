@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: Advent
+metas:
+  - year: 2024
+    feeders:
+      - ACTRESS
+      - BALANCE
+      - BORA
+      - BUFFALO
+      - CONJURE
+      - DEAL
+      - DOT
+      - EMERALD
+      - ENGLAND
+      - GALE
+      - HO
+      - HORIZONS
+      - JADE
+      - LIME
+      - LOCATION
+      - LOGJAM
+      - LOOSE
+      - MEXICO
+      - NINJA
+      - OLIVE
+      - PEACE
+      - PERKY
+      - PLAYED
+      - PLEASANT
+      - PREJUDICE
+      - SCISSORS
+      - SCREAM
+      - SEA
+      - SUBJECT
+      - THICKEN
+      - TWO
+      - V
+      - VICTORY
+      - WEATHERS
+      - YUCK
+    answer:
+      - COURTENEY COX
+    tags:
+      - semantic
+      - syntactic
+    flavor: Some loose cards blew in here from the other holiday towns. If you and Red can return them all to their proper places, maybe Jack will help you with a clue.
+    note: "The puzzle page has seven labeled boxes: New Year's, Groundhog Day, St. Patrick's Day, Easter, 4th of July, Thanksgiving, Halloween."
+    puzzle: https://2024.adventhunt.com/puzzles/wayward-holiday-cards/
+    solution: https://2024.adventhunt.com/puzzles/wayward-holiday-cards/solution/

@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=./metas.schema.json
+hunt: Edric
+metas:
+  - year: 2021
+    feeders:
+      - ARCHEOLOGY
+      - CACHEPOT
+      - DANGEROUS
+      - DISLODGE
+      - DREAMCOAT
+      - EMERGENCY
+      - FORECASTLE
+      - HOLLOW-EYED
+      - HURLY-BURLY
+      - JIGGERY-POKERY
+      - KICKBALL
+      - LIGHTWEIGHT
+      - LOVELINESS
+      - NEBULAE
+      - NEWFANGLED
+      - ORDEAL
+      - OSCILLATE
+      - PAWNBROKER
+      - PERSONA
+      - PERTUSSIS
+      - RECURSIVELY
+      - REVOLTING
+      - SCHNAUZERS
+      - SCHOOLTEACHER
+      - SOMNOLESCENT
+      - SUPERPLASTICITY
+      - TURNPIKE
+    answer:
+      - NAIVE
+    tags:
+      - syntactic
+      - semantic
+      - music
+    note: The puzzle title is A Technicolor Genesis. DREAMCOAT is italicized. Below the list is 1-2-7, 2-1-2, 3-2-3, 4-1-4, 5-1-5.
+    puzzle: http://happinessboard.com/2021truzzlehunt/Hints_files/Red-II-II-I.pdf
+    solution: http://happinessboard.com/2021truzzlehunt/Hints_files/Red-II-II-I_Solution.pdf
+  - year: 2022
+    feeders:
+      - PNEUMATIC SIGN
+      - GREAT MAIZE DISPLAY
+      - YACHT DEBT
+      - WOMEN'S GUILD
+      - FLIVVER OF AVI'S
+      - GROSS MUSCLE ACID
+      - TROUPE'S HICCOUGH
+      - UNIQUE FAMILY TREE
+      - CHEMISTRY PLAQUE
+      - WRONG POLYRHYTHM
+    answer:
+      - NATIVE SPEAKER
+    tags:
+      - syntactic
+      - phonetic
+    note: The puzzle title is Hear Ye, Hear Ye!
+    puzzle: http://happinessboard.com/2022puzzlehunt/puzzles_files/Hear-Ye-Hear-Ye.pdf
+    solution: http://happinessboard.com/2022puzzlehunt/puzzles_files/HYHY_Solution.pdf

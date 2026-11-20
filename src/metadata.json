@@ -1,6 +1,114 @@
 [
   {
     "feeders": [
+      "ACTRESS",
+      "BALANCE",
+      "BORA",
+      "BUFFALO",
+      "CONJURE",
+      "DEAL",
+      "DOT",
+      "EMERALD",
+      "ENGLAND",
+      "GALE",
+      "HO",
+      "HORIZONS",
+      "JADE",
+      "LIME",
+      "LOCATION",
+      "LOGJAM",
+      "LOOSE",
+      "MEXICO",
+      "NINJA",
+      "OLIVE",
+      "PEACE",
+      "PERKY",
+      "PLAYED",
+      "PLEASANT",
+      "PREJUDICE",
+      "SCISSORS",
+      "SCREAM",
+      "SEA",
+      "SUBJECT",
+      "THICKEN",
+      "TWO",
+      "V",
+      "VICTORY",
+      "WEATHERS",
+      "YUCK"
+    ],
+    "answer": [
+      "COURTENEY COX"
+    ],
+    "tags": [
+      "semantic",
+      "syntactic"
+    ],
+    "flavor": "Some loose cards blew in here from the other holiday towns. If you and Red can return them all to their proper places, maybe Jack will help you with a clue.",
+    "note": "The puzzle page has seven labeled boxes: New Year's, Groundhog Day, St. Patrick's Day, Easter, 4th of July, Thanksgiving, Halloween.",
+    "source": {
+      "hunt": "Advent",
+      "year": 2024,
+      "puzzle": "https://2024.adventhunt.com/puzzles/wayward-holiday-cards/",
+      "solution": "https://2024.adventhunt.com/puzzles/wayward-holiday-cards/solution/"
+    }
+  },
+  {
+    "feeders": [
+      "BIRD",
+      "CONFIRMATION",
+      "FAVOURITE",
+      "FIGHTER",
+      "GATHERING STORM",
+      "JUNGLE",
+      "NATIONAL SECURITY",
+      "WIRED"
+    ],
+    "answer": [
+      "FILM REAL"
+    ],
+    "tags": [
+      "semantic",
+      "movies"
+    ],
+    "flavor": "Your documentary is in trouble... your subjects are all paid actors! How can you fix your movie and save your leads' bacon?",
+    "note": "The puzzle title is Six Degrees.",
+    "source": {
+      "hunt": "Brown",
+      "year": 2025,
+      "puzzle": "https://2025.brownpuzzlehunt.com/puzzle/six-degrees",
+      "solution": "https://2025.brownpuzzlehunt.com/puzzle/six-degrees/solution"
+    }
+  },
+  {
+    "feeders": [
+      "AIRBUS",
+      "BANANAS FOSTER",
+      "CHAPE",
+      "DESOLATE",
+      "EARTHLIKE",
+      "FROUZIEST",
+      "GIVE AWAY",
+      "HEELBALL",
+      "ISLE",
+      "JUDICATORY"
+    ],
+    "answer": [
+      "TURING TEST"
+    ],
+    "tags": [
+      "syntactic"
+    ],
+    "flavor": "Professor Conway hasn't told you what's going to be on the final — you're going in blind. So you stay up studying all night, taking no breaks between words, counting down until there's nothing left to review.\nWhat will the final exam be?\n",
+    "source": {
+      "hunt": "Brown",
+      "year": 2026,
+      "puzzle": "https://www.brownpuzzlehunt.com/puzzle/anthropology-of-computers",
+      "solution": "https://www.brownpuzzlehunt.com/puzzle/anthropology-of-computers/solution"
+    }
+  },
+  {
+    "feeders": [
       "CIRQUE DU SOLEIL",
       "CROSSING OVER",
       "DEMOGORGONS",
@@ -54,6 +162,53 @@
       "year": 2018,
       "puzzle": "http://2018.caltechpuzzlehunt.org/puzzle/the-dodecahedrons-advent-calendar/index.html",
       "solution": "http://2018.caltechpuzzlehunt.org/solution/the-dodecahedrons-advent-calendar/index.html"
+    }
+  },
+  {
+    "feeders": [
+      "TWIRL",
+      "TWIRL",
+      "PASTORAL",
+      "INSURRECTION"
+    ],
+    "answer": [
+      "DANCE DANCE AGRICULTURAL REVOLUTION"
+    ],
+    "tags": [
+      "semantic"
+    ],
+    "flavor": "How will you speed up your return to your time period?",
+    "note": "The answer enumeration is (5 5 12 10).",
+    "source": {
+      "hunt": "CMU",
+      "year": "Spring 2023",
+      "puzzle": "https://puzzlehunt.club.cc.cmu.edu/puzzle/22009/view/",
+      "solution": "https://puzzlehunt.club.cc.cmu.edu/puzzle/22009/solution/"
+    }
+  },
+  {
+    "feeders": [
+      "BEST ACTRESS",
+      "FINALLY SUCCEEDS",
+      "HEADS EAST",
+      "ROVIO",
+      "SECOND BORN CHILD",
+      "SINGLE REED"
+    ],
+    "answer": [
+      "SERVING SECONDS"
+    ],
+    "tags": [
+      "semantic",
+      "syntactic"
+    ],
+    "flavor": "What a drag—you almost won, but at least you have the same amount of makeup and some parts are the same. You know to use roux, but you wonder what’s the secret to making the Soup of Tomorrow?",
+    "note": "The puzzle page has ⏪⏩⏩⏪⏩⏩.",
+    "source": {
+      "hunt": "CMU",
+      "year": "Spring 2025",
+      "puzzle": "https://puzzlehunt.club.cc.cmu.edu/puzzle/28019/view/",
+      "solution": "https://puzzlehunt.club.cc.cmu.edu/puzzle/28019/solution/"
     }
   },
   {
@@ -254,6 +409,80 @@
       "year": 2022,
       "puzzle": "https://2022.ecph.site/puzzle/backtoschool.html",
       "solution": "https://2022.ecph.site/solution/backtoschool.html"
+    }
+  },
+  {
+    "feeders": [
+      "ARCHEOLOGY",
+      "CACHEPOT",
+      "DANGEROUS",
+      "DISLODGE",
+      "DREAMCOAT",
+      "EMERGENCY",
+      "FORECASTLE",
+      "HOLLOW-EYED",
+      "HURLY-BURLY",
+      "JIGGERY-POKERY",
+      "KICKBALL",
+      "LIGHTWEIGHT",
+      "LOVELINESS",
+      "NEBULAE",
+      "NEWFANGLED",
+      "ORDEAL",
+      "OSCILLATE",
+      "PAWNBROKER",
+      "PERSONA",
+      "PERTUSSIS",
+      "RECURSIVELY",
+      "REVOLTING",
+      "SCHNAUZERS",
+      "SCHOOLTEACHER",
+      "SOMNOLESCENT",
+      "SUPERPLASTICITY",
+      "TURNPIKE"
+    ],
+    "answer": [
+      "NAIVE"
+    ],
+    "tags": [
+      "syntactic",
+      "semantic",
+      "music"
+    ],
+    "note": "The puzzle title is A Technicolor Genesis. DREAMCOAT is italicized. Below the list is 1-2-7, 2-1-2, 3-2-3, 4-1-4, 5-1-5.",
+    "source": {
+      "hunt": "Edric",
+      "year": 2021,
+      "puzzle": "http://happinessboard.com/2021truzzlehunt/Hints_files/Red-II-II-I.pdf",
+      "solution": "http://happinessboard.com/2021truzzlehunt/Hints_files/Red-II-II-I_Solution.pdf"
+    }
+  },
+  {
+    "feeders": [
+      "PNEUMATIC SIGN",
+      "GREAT MAIZE DISPLAY",
+      "YACHT DEBT",
+      "WOMEN'S GUILD",
+      "FLIVVER OF AVI'S",
+      "GROSS MUSCLE ACID",
+      "TROUPE'S HICCOUGH",
+      "UNIQUE FAMILY TREE",
+      "CHEMISTRY PLAQUE",
+      "WRONG POLYRHYTHM"
+    ],
+    "answer": [
+      "NATIVE SPEAKER"
+    ],
+    "tags": [
+      "syntactic",
+      "phonetic"
+    ],
+    "note": "The puzzle title is Hear Ye, Hear Ye!",
+    "source": {
+      "hunt": "Edric",
+      "year": 2022,
+      "puzzle": "http://happinessboard.com/2022puzzlehunt/puzzles_files/Hear-Ye-Hear-Ye.pdf",
+      "solution": "http://happinessboard.com/2022puzzlehunt/puzzles_files/HYHY_Solution.pdf"
     }
   },
   {
@@ -4202,6 +4431,204 @@
   },
   {
     "feeders": [
+      "CRANBERRY",
+      "ORANGE",
+      "PEACH SCHNAPPS",
+      "VODKA"
+    ],
+    "answer": [
+      "SEX ON THE BEACH"
+    ],
+    "tags": [
+      "semantic"
+    ],
+    "flavor": "What was their favorite part of the date?",
+    "source": {
+      "hunt": "Pint",
+      "year": "February 2011",
+      "puzzle": "https://puzzledpint.org/archive-files/5412/9883/6533/meta_puzzle.pdf",
+      "solution": "https://puzzledpint.org/archive-files/2812/9883/6534/meta_solution.pdf"
+    }
+  },
+  {
+    "feeders": [
+      "REAL PLANS FOR REAL PEOPLE",
+      "BLAINE, BLAINE, JAMES G. BLAINE, THE CONTINENTAL LIAR FROM THE STATE OF MAINE",
+      "PROSPERITY AND PROGRESS",
+      "RETURN TO NORMALCY",
+      "A CHICKEN IN EVERY POT AND A CAR IN EVERY GARAGE",
+      "PATRIOTISM, PROTECTION, AND PROSPERITY",
+      "NIXON'S THE ONE",
+      "CHANGE WE NEED"
+    ],
+    "answer": [
+      "LAST KING"
+    ],
+    "tags": [
+      "semantic",
+      "syntactic"
+    ],
+    "flavor": "Every campaign needs a slogan. No matter how long their names have been in public, they want us to believe in their slogans. But they all just want to be the ..",
+    "source": {
+      "hunt": "Pint",
+      "year": "November 2011",
+      "puzzle": "https://puzzledpint.org/archive-files/5213/2908/0824/slogans_2.pdf",
+      "solution": "https://puzzledpint.org/archive-files/4313/2908/0823/slogans_solution2.pdf"
+    }
+  },
+  {
+    "feeders": [
+      "AFTER THIS",
+      "ARE NAMED",
+      "EIGHT MAGNUMS",
+      "WISE GUY"
+    ],
+    "answer": [
+      "BALTHAZAR"
+    ],
+    "tags": [
+      "semantic"
+    ],
+    "source": {
+      "hunt": "Pint",
+      "year": "March 2013",
+      "puzzle": "https://puzzledpint.org/archive-files/5613/6375/6576/final-answer_sheet.pdf",
+      "solution": "https://puzzledpint.org/archive-files/1714/8384/8595/201303-meta-solution.pdf"
+    }
+  },
+  {
+    "feeders": [
+      "CAT'S IN THE OUTFIELD",
+      "COME AT EILEEN",
+      "DROP THAT FUNKY MUSIC",
+      "EAT LIKE AN EGYPTIAN",
+      "LADY GOT BACK",
+      "LEAVING ON A SLOW PLANE",
+      "OLD LIKE JAGGER",
+      "RAINDROPS KEEP DRIPPIN' ON MY HEAD",
+      "TANGY MARMALADE",
+      "THANK EVERYONE I'M A COUNTRY BOY",
+      "THE RARE AND WINDING ROAD",
+      "TOTAL UPHEAVAL OF THE HEART",
+      "WE DIDN'T IGNITE THE FIRE",
+      "WIND BENEATH MY SAILS"
+    ],
+    "answer": [
+      "LOUDEST ROADIES"
+    ],
+    "tags": [
+      "semantic",
+      "syntactic",
+      "music"
+    ],
+    "flavor": "This set-list was taped to the stage of the Royal Albert Hall.",
+    "source": {
+      "hunt": "Pint",
+      "year": "October 2013",
+      "puzzle": "https://puzzledpint.org/archive-files/4013/8181/3332/Set_List.pdf",
+      "solution": "https://puzzledpint.org/archive-files/1113/8181/1750/Set_List_-_Solution.txt"
+    }
+  },
+  {
+    "feeders": [
+      "A SONG",
+      "STUNT RIDER",
+      "EMPTY TROJAN HARE",
+      "WARILY"
+    ],
+    "answer": [
+      "GREY"
+    ],
+    "tags": [
+      "syntactic"
+    ],
+    "flavor": "To finish their quest, King Arthur asks for one last thing from each of his knights, to answer three questions in order to safely cross the Bridge of Death. What would King Arthur answer if asked, “What is your favorite color?”",
+    "source": {
+      "hunt": "Pint",
+      "year": "July 2014",
+      "puzzle": "https://puzzledpint.org/archive-files/4414/0496/3896/AnswerSheet_Arthur_final.pdf",
+      "solution": "https://puzzledpint.org/archive-files/8014/0496/3951/Arthur-solution.pdf"
+    }
+  },
+  {
+    "feeders": [
+      "TESTED BY DUMMIES, DRIVEN BY THE INTELLIGENT",
+      "BAD NEWS FOR TOOTH FAIRIES",
+      "IT'S GOOD NOT TO BE HOME",
+      "THE CHAMPAGNE OF GINGER ALES",
+      "FANATICAL ABOUT FILM",
+      "JUST ADD CHILDREN",
+      "LIFE IS HARD. DON'T GO SOFT",
+      "FOR PEOPLE WHO LOVE CHIPS BUT HATE COOKING",
+      "FOR HAIR SO HEALTHY IT SHINES",
+      "THERE'S NO BETTER WAY TO FLY",
+      "I CAN'T BELIEVE I ATE THE WHOLE THING",
+      "MADE FROM THE BEST STUFF ON EARTH",
+      "THE MAKE-UP OF MAKE-UP ARTISTS",
+      "A LITTLE DAB'LL DO YA",
+      "CONNECTING PEOPLE"
+    ],
+    "answer": [
+      "LEADER OF THE PACK"
+    ],
+    "tags": [
+      "semantic",
+      "syntactic"
+    ],
+    "flavor": "We need a catchy slogan. Sometimes it helps to look at established work for inspiration. When you look at these slogans, notice how they evoke the companies or products that they represent. While short, each slogan drives straight to the heart, the center, the essence of the product, and leaves you thinking about it. See if you can learn from the slogans below and come up with a something that says that this product surpasses its peers.",
+    "source": {
+      "hunt": "Pint",
+      "year": "December 2015",
+      "puzzle": "https://puzzledpint.org/archive-files/1514/4988/0075/ca_new_slogan-draft5a.pdf",
+      "solution": "https://puzzledpint.org/archive-files/7914/4988/0078/ca_new_slogan-solution.pdf"
+    }
+  },
+  {
+    "feeders": [
+      "AFFAIR",
+      "JUST ME",
+      "UNITED",
+      "IT WAS I"
+    ],
+    "answer": [
+      "FUN TIMES"
+    ],
+    "tags": [
+      "syntactic"
+    ],
+    "flavor": "Typically the character of the members of a secret society determine its purpose. To determine the real purpose behind Puzzled Pint, look to the second and penultimate members of the other societies.",
+    "source": {
+      "hunt": "Pint",
+      "year": "July 2016",
+      "puzzle": "https://puzzledpint.org/archive-files/4414/6992/4750/3_July2016_Answer_Sheet.pdf",
+      "solution": "https://puzzledpint.org/archive-files/6314/6992/4762/Meta_Solution.pdf"
+    }
+  },
+  {
+    "feeders": [
+      "ALBACORE",
+      "NEPHEW",
+      "REFINE",
+      "WHIMSICAL"
+    ],
+    "answer": [
+      "RENEWAL"
+    ],
+    "tags": [
+      "syntactic",
+      "chain",
+      "overlapping"
+    ],
+    "flavor": "Water. Earth. Fire. Air. When one avatar’s life comes to an end, the next avatar’s existence begins. Reborn in the next nation in the cycle, the Avatar is reincarnated over and over again, creating an unbroken chain of past selves. How could you use the answers to the previous puzzles to describe the process of the avatar cycle?",
+    "source": {
+      "hunt": "Pint",
+      "year": "January 2022",
+      "puzzle": "https://puzzledpint.org/archive-files/5216/4137/1294/Meta_-_Avatar.pdf",
+      "solution": "https://puzzledpint.org/archive-files/9516/4137/1306/Solutions_-_Avatar.pdf"
+    }
+  },
+  {
+    "feeders": [
       "AMMUNITION",
       "DODGE MINIVAN",
       "EPONYM",
@@ -4411,6 +4838,139 @@
       "year": 2024,
       "puzzle": "https://www.puzzlerojak.org/puzzle/communiter.html",
       "solution": "https://www.puzzlerojak.org/solution/communiter.html"
+    }
+  },
+  {
+    "feeders": [
+      "ANIMAL FARM",
+      "BLOOD AND GOLD",
+      "THE SLIPPERY SLOPE",
+      "THE STATE COUNSELLOR",
+      "NEW SPRING",
+      "THE PUZZLED HEART",
+      "RICH MAN POOR MAN",
+      "QUEENS RANSOM",
+      "THE ADVENTURERS"
+    ],
+    "answer": [
+      "GALBRAITH"
+    ],
+    "tags": [
+      "semantic"
+    ],
+    "flavor": "Using the answers from these puzzles, you will be able to solve the meta puzzle and identify someone who can help you in your quest.",
+    "source": {
+      "hunt": "SGPH",
+      "year": 2016,
+      "puzzle": "https://www.sgpuzzlehunt.com/2016/puzzles/r1intro.pdf",
+      "solution": "https://www.sgpuzzlehunt.com/2016/solutions/r1meta-sol.pdf"
+    }
+  },
+  {
+    "feeders": [
+      "GOLF BALL",
+      "FLAT ICON",
+      "BARON LETTERS",
+      "COPIER TONER",
+      "HEAD SHOT",
+      "PURPLE NOON",
+      "ROLLING PIN"
+    ],
+    "answer": [
+      "DROPLET"
+    ],
+    "tags": [
+      "syntactic",
+      "letter change",
+      "periodic table"
+    ],
+    "flavor": "Identify the new Horcruxes and the final item hidden amongst them that you will need to help you defeat the Dark Lord.",
+    "source": {
+      "hunt": "SGPH",
+      "year": 2016,
+      "puzzle": "https://www.sgpuzzlehunt.com/2016/puzzles/r2intro.pdf",
+      "solution": "https://www.sgpuzzlehunt.com/2016/solutions/r2meta-sol.pdf"
+    }
+  },
+  {
+    "feeders": [
+      "HARMONY",
+      "MISUNDERSTOOD",
+      "THUMBNAIL",
+      "SATELLITE",
+      "CONSTITUENTS",
+      "ESCHEWED",
+      "FRISKING"
+    ],
+    "answer": [
+      "HEMLOCK"
+    ],
+    "tags": [
+      "syntactic",
+      "substring"
+    ],
+    "source": {
+      "hunt": "SGPH",
+      "year": 2017,
+      "puzzle": "https://www.sgpuzzlehunt.com/2017/puzzles/r1meta.pdf",
+      "solution": "https://www.sgpuzzlehunt.com/2017/solutions/r1meta-sol.pdf"
+    }
+  },
+  {
+    "feeders": [
+      "HOUGH",
+      "PRISE",
+      "AWARE",
+      "URGENT",
+      "ANGERED"
+    ],
+    "answer": [
+      "ESCHEWED"
+    ],
+    "tags": [
+      "syntactic"
+    ],
+    "flavor": "A few words and numbers were neatly typewritten on a misplaced board on the table.",
+    "note": "The puzzle title is A Typewritten Board. The words are followed by the numbers 4, 10, 5, 7, 10, respectively.",
+    "source": {
+      "hunt": "SGPH",
+      "year": 2017,
+      "puzzle": "https://www.sgpuzzlehunt.com/2017/puzzles/r1p6.pdf",
+      "solution": "https://www.sgpuzzlehunt.com/2017/solutions/r1p6-sol.pdf"
+    }
+  },
+  {
+    "feeders": [
+      "CUP",
+      "FORMAL",
+      "LINK",
+      "PIER",
+      "ROUT",
+      "STOCK",
+      "VEND",
+      "WALL",
+      "GRAFTER",
+      "MUSED",
+      "TRY",
+      "DIVISIBLE",
+      "BORDER",
+      "JEW",
+      "YEAST",
+      "HOP"
+    ],
+    "answer": [
+      "AUDIO NET"
+    ],
+    "tags": [
+      "syntactic",
+      "phonetic"
+    ],
+    "flavor": "You find out that the secret weapon of the Atreides is the Sonic Tank, a mean machine which fires a big blast of sound energy that passes through anything along its propagation path. What effect did the flanking Atreides sonic tanks produce?",
+    "source": {
+      "hunt": "SGPH",
+      "year": 2025,
+      "puzzle": "https://huntserver.sgpuzzlehunt.com/static/2025/puzzle_resources/sonic-tank/sonic-tank.pdf",
+      "solution": "https://huntserver.sgpuzzlehunt.com/static/2025/puzzle_resources/solutions/sonic-tank.pdf"
     }
   },
   {
